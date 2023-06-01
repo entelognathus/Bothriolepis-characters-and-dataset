@@ -11,8 +11,8 @@
 3. *B. alvesiensis* Stensiö 1948
 > Stensiö (1948) 
 
-4. *B. amankonyrica* Malinovskaya 1989
-> Malinovskaya (1989)
+4. *B. amankonyrica* Malinovskaya 1988
+> Malinovskaya (1988)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
@@ -25,7 +25,7 @@
 > Young (1988)
 
 7. *B. babichevi* Malinovskaya 1992
-> Malinovskaya (**1989?**; 2012). Following Panteleyev and Moloshnikov (2003), Dupret *et al.* (2023) assigned this species to *Tubalepis*. Panteleyev and Moloshnikov (2003) identified *Tubalepis* being different from *Bothriolepis* by “the shape of the paranuchal plate, posterolateral coner of the otico-occipital depression on the skull roof, and in the absence of the median ventral plate”, but Moloshnikov (1992, 2010a, 2012) never mentioned any skull roof material of *B. babichevi*. Moloshnikov (2010a) had a clear description of the median ventral plate of *B. babichevi*, which contrasts the diagnosis of *Tubalepis* (median ventral plate absent). As such, we still assign this species to *Bothriolepis*.
+> Malinovskaya (1992; 2012). Following Panteleyev and Moloshnikov (2003), Dupret *et al.* (2023) assigned this species to *Tubalepis*. Panteleyev and Moloshnikov (2003) identified *Tubalepis* being different from *Bothriolepis* by “the shape of the paranuchal plate, posterolateral coner of the otico-occipital depression on the skull roof, and in the absence of the median ventral plate”, but Moloshnikov (1992, 2010a, 2012) never mentioned any skull roof material of *B. babichevi*. Moloshnikov (2010a) had a clear description of the median ventral plate of *B. babichevi*, which contrasts the diagnosis of *Tubalepis* (median ventral plate absent). As such, we still assign this species to *Bothriolepis*.
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
@@ -37,112 +37,112 @@
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-10. *B. canadensis* (Whiteaves) 1881
+10. *B. canadensis* Whiteaves 1881
 > Whiteaves (1881), Werdelin & Long (1986), Thomson & Thomas (2001), Burrow (2005), Downs & Donoghue (2009)
 
-11. *B. cellulosa* (Pander, in Keyserling) 1846
+11. *B. cellulosa* Pander (in Keyserling) 1846
 > Pander (1846), Lukševičs (2001) 
 
 12. *B. ciecere* Lyarskaja (in Lyarskaja & Savvaitova) 1974
 > Lyarskaja & Savvaitova (1974), Lukševičs & Zupiņš (2004)
 
-13. *B. cristata*
+13. *B. cristata* Traquair 1895
 > Traquair (1895), Miles (1968)
 
-14. *B. cullodenensis*
+14. *B. cullodenensis* Long 1983
 > Long (1983)
 
-15. *B. dairbhrensis*
+15. *B. dairbhrensis* Dupret *et al.* 2023
 > Dupret *et al.* (2023)
 
-16. *B. dorakarasugensis*
+16. *B. dorakarasugensis* Moloshnikov 2009
 > Moloshnikov (2009)
 
-17. *B. evaldi*
+17. *B. evaldi* Lyarskaja 1986
 > Lyarskaja (1986), Lukševičs (2001)
 
-18. *B. fergusoni*
+18. *B. fergusoni* Long 1983
 > Long (1983)
 
-19. *B. gigantea*
+19. *B. gigantea* Traquair 1888
 > Traquair (1888), Becker *et al.* (2012)
 
-20. *B. gippslandiensis*
+20. *B. gippslandiensis* Hills 1929
 > Hills (1929), Young & Gorter (1981)
 
-21. *B. grenfellensis*
+21. *B. grenfellensis* Johanson 1997
 > Johanson (1997a)
 
-22. *B. groenlandica*
+22. *B. groenlandica* Heintz 1930
 > Heintz (1930), Blom *et al.* (2007)
 
-23. *B. hayi*
+23. *B. hayi* Miles 1968
 > Miles (1968)
 
-24. *B. hicklingi*
+24. *B. hicklingi* Miles 1968
 > Miles (1968), Browne *et al.* (2002)
 
-25. *B. hydrophila*
+25. *B. hydrophila* Agassiz 1844
 > Agassiz (1844), Miles (1968)
 
-26. *B. jani*
+26. *B. jani* Lukševičs 1986
 > Lukševičs (1986)
 
-27. *B. jarviki*
+27. *B. jarviki* Stensiö 1948
 > Stensiö (1948), Blom *et al.* (2007)
 
-28. *B. jazwicensis*
+28. *B. jazwicensis* Szrek 2004
 > Szrek (2004)
 
-29. *B. karawaka*
+29. *B. karawaka* Young 1988
 > Young (1988)
 
-30. *B. kassini*
-> Malinovskaya (1989), Moloshnikov (2010a)
+30. *B. kassini* Malinovskaya 1988
+> Malinovskaya (1988, 1992), Moloshnikov (2010a)
 
-31. *B. kohni*
+31. *B. kohni* Young 1988
 > Young (1988)
 
-32. *B. kwangtungensis*
+32. *B. kwangtungensis* P'an 1964
 > P'an (1964)
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-33. *B. laverocklochensis*
+33. *B. laverocklochensis* Miles 1968
 > Miles (1968)
 
-34. *B. leptocheira*
-> Traquair (1890-1892), Lukševičs (2001), Lukševičs *et al.* ( 2017)
+34. *B. leptocheira* Traquair 1892
+> Traquair (1890), Lukševičs (2001), Lukševičs *et al.* ( 2017)
 
-35. *B. lochangensis*
+35. *B. lochangensis* P'an 1964
 > P'an (1964)
 
-36. *B. lohesti*
+36. *B. lohesti* Leriche 1931
 > Leriche (1931), Olive (2015)
 
-37. *B. longi*
+37. *B. longi* Johanson & Young 1999
 > Johanson & Young (1999)
 
-38. *B. macphersoni*
+38. *B. macphersoni* Young 1988
 > Young (1988)
 
-39. *B. macrocephala*
+39. *B. macrocephala* Egerton 1862
 > Egerton (1862)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-40. *B. maeandrina*
+40. *B. maeandrina* Hoffman 1911
 > Hoffman (1911) and Denison (1978) only described few specimens with sinuous ridges. No further studies about *B. maeandrina* can be consulted and its character codings remain extremely inadequate. Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-41. *B. major*
+41. *B. major* Agassiz 1844
 > Agassiz (1844-45) described two specimens from Scotland as *Pterichthys major*, which were reassigned to *B. major* by Stensiö (1948), and Miles (1968). Many specimens of *Bothriolepis* in different sites of Scotland were referred to as *B. major*, but most of them can be hardly classified into *B. major* based on Agassiz’s description. But the only source cited by Miles (1968) is a syntype figure from Agassiz. Our dataset does not contain *B. major* because there is no solid diagnosis of *B. major*. Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-42. *B. markovskii*
-> Moloshnikov (2012)
+42. *B. markovskii* Moloshnikov 2010
+> Moloshnikov (2010, 2012)
 
-43. *B. mawsoni*
+43. *B. mawsoni* Young 1988
 > Young (1988)
 
-44. *B. maxima*
+44. *B. maxima* Gross 1933
 > Gross (1933), Lukševičs (2001)
 
 45. *B. nielseni*
@@ -150,136 +150,136 @@
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-46. *B. nikitinae*
-> Malinovskaya (1989), Moloshnikov (2012)
+46. *B. nikitinae* Malinovskaya 1988
+> Malinovskaya (1988), Moloshnikov (2012)
 
-47. *B. nitida*
+47. *B. nitida* Leidy 1856
 > Leidy (1856), Young (1988), Thomson & Thomas (2001)
 
-48. *B. niushoushanensis*
-> Pan *et al.* (1980)
+48. *B. niushoushanensis*  P'an *et al.* 1980
+> P'an *et al.* (1980)
 
-49. *B. obesa*
+49. *B. obesa* Traquair 1888
 > Traquair (1888), Denison (1978)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-50. *B. obrutschewi*
+50. *B. obrutschewi* Gross 1942
 > Gross (1942), Lukševičs (2001)
 
-51. *B. ornata*
+51. *B. ornata* Eichwald 1840
 > Eichwald (1840), Lukševičs (1996, 2001)
 
-52. *B. panderi*
+52. *B. panderi* Lahusen 1880
 > Lahusen (1880), Lukševičs (2001)
 
-53. *B. paradoxa*
+53. *B. paradoxa* Agassiz 1845
 > Agassiz (1845); Trewin (2002) 
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-54. *B. pavariensis*
+54. *B. pavariensis* Lyarskaja & Savvaitova 1974
 > Lyarskaja & Savvaitova (1974)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-55. *B. perija*
+55. *B. perija* Young & Moody (2002)
 > Young & Moody (2002)
 
-56. *B. portalensis*
+56. *B. portalensis* Young 1988
 > Young (1988)
 
-57. *B. prima*
+57. *B. prima* Gross 1942
 > Gross (1942), Lukševičs (2001)
 
-58. *B. rex*
+58. *B. rex* Downs *et al.* 2016
 > Downs *et al.* (2016)
 
-59. *B. sanzarensis*
-> Moloshnikov (2010b; 2012)
+59. *B. sanzarensis* Moloshnikov 2010
+> Moloshnikov (2010c; 2012)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-60. *B. shaokuanensis*
+60. *B. shaokuanensis* Chang 1963
 > Chang (1963)
 
-61. *B. siberica*
+61. *B. siberica* Obruchev 1941
 > Obruchev (1941), Moloshnikov (2012)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-62. *B. sinensis*
+62. *B. sinensis* Chi 1940
 > Chi (1940), Lu (1988), Luo *et al*. (2023) 
 
-63. *B. sosnensis*
+63. *B. sosnensis* Moloshnikov 2003
 > Moloshnikov (2003) 
 
-64. *B. stevensoni*
+64. *B. stevensoni* Miles 1968
 > Miles (1968)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-65. *B. tastenica*
-> Malinovskaya (1989), Moloshnikov (2011)
+65. *B. tastenica* Malinovskaya 1988
+> Malinovskaya (1988), Moloshnikov (2011)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-66. *B. tatongensis*
+66. *B. tatongensis* Long & Werdelin 1986
 > Long & Werdelin (1986)
 
-67. *B. taylori*
+67. *B. taylori* Miles 1968
 > Miles (1968)
 
-68. *B. traquairi*
+68. *B. traquairi*  Bryant 1924
 > Bryant (1924), Denison (1978)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-69. *B. traudscholdi*
+69. *B. traudscholdi* Jaekel 1927
 > Jaekel (1927), Lukševičs (2001)
 
-70. *B. tungseni*
+70. *B. tungseni* Chang 1965
 > Chang (1965)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-71. *B. turanica*
+71. *B. turanica* Obruchev 1939
 > Obruchev (1939), Moloshnikov (2012)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-72. *B. virginiensis*
+72. *B. virginiensis* Weems *et al.* 1981
 > Weems *et al.* (1981), Thomson & Thomas (2001), Weems (2004)
 
-73. *B. volongensis*
+73. *B. volongensis* Lukševičs & Sorokin 1999
 > Lukševičs & Sorokin (1999)
 
-74. *B. vuwae*
+74. *B. vuwae* Young 1988
 > Young (1988)
 
-75. *B. wilsoni*
+75. *B. wilsoni* Miles 1968
 > Miles (1968), Browne *et al.* (2002)
 
-76. *B. yeungae*
+76. *B. yeungae* Johanson 1998
 > Johanson (1998)
 
-77. *B. yunnanensis*
+77. *B. yunnanensis* Liu 1962
 > Liu (1962) 
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
 # outgroup taxa
-*Remigolepis walker*
+*Remigolepis walker* Johanson 1997
 > Johanson (1997b)
 
-*Dianolepis liui*
-> Chang (1965), Pan *et al.* (2018)
+*Dianolepis liui* Chang 1965
+> Chang (1965), P'an *et al.* (2018)
 
-*Grossilepis tuberculata*
+*Grossilepis tuberculata* Lukševičs 1996
 > Lukševičs (1996), Dupret *et al*. (2023)
 
 ## References
-Agassiz, L. (1844-45). *Monographie des poisons fossiles du vieux Grès rouge, ou Système dévonien des Îles Britanniques et de Russie*. Soleure, chez Gent & Gassman. 
+Agassiz, L. (1844). *Monographie des poisons fossiles du vieux Grès rouge, ou Système dévonien des Îles Britanniques et de Russie*. Soleure, chez Gent & Gassman. 
 
 Agassiz, L. (1845). Lettres sur les Poissons fossiles du système Dévonien de la Russie. In: *Murchison, RI, dе Vеrnеuil, Е. & A. de Кеуsеrling, CА Géologie de la Russie d’Europe et des montagnes de l’Oural*, **2**, 397-418. 
 
@@ -363,7 +363,9 @@ Lyarskaja, L. (1986). A new *Bothriolepis* (Antiarchi) from the Upper Devonian o
 
 Lyarskaja, L., & Savvaitova, L. (1974). Structure and fossil fish fauna of Ketleri Formation of Latvia. In V. Sorokin (Ed.), *Rgionallnaya geologiya Pribaltitki [= Regional Geology of Baltic]*, 90-106. Zinatne, Riga. 
 
-Malinovskaya, S. (1989). Devonian bothriolepids (Placodermi) from Central Kazakhstan. *Ispitatelei otd Geologie (Bulletin of Moscow Society of Naturalists, geological series)*, **63**(5), 56-70. 
+Malinovskaya, S. (1988). Devonian bothriolepids (Placodermi) from Central Kazakhstan. *Ispitatelei otd Geologie (Bulletin of Moscow Society of Naturalists, geological series)*, **63**(5), 56-70. 
+
+Malinovskaya, S. (1992). New Middle Devonian antiarchs (Placodermi) of Central Kazakhstan. In: Mark-Kurik E, editor. Fossil Fishes as Living Animals, 177-84. Academy of Sciences of Estonia, Tallinn.
 
 Miles, R. S. (1968). The Old Red Sandstone antiarchs of Scotland: Family Bothriolepididae. *Palaeontographical Society Monographs*, **122**, 1-130. 
 
@@ -375,7 +377,9 @@ Moloshnikov, S. V. (2009). New data on Late Devonian bothriolepidid placoderms (
 
 Moloshnikov, S. V. (2010a). Middle Devonian bothriolepiform antiarchs (Pisces, Placodermi) from central Kazakhstan and their implication for the antiarch system and phylogeny. *Paleontological Journal*, **44**(2), 195-208. 
 
-Moloshnikov, S. V. (2010b). A new find of the placoderm genus *Bothriolepis* Eichwald in the Upper Devonian of Uzbekistan. *Paleontological Journal*, **44**(1), 79-83. 
+Moloshnikov, S. V. (2010b). On high-armor bothriolepidid placoderms (Pisces, Placodermi, Bothriolepididae) from the Upper Devonian of the southern Ural Mountains and Kuznetsk Coal Basin. Paleontological Journal, **44**(5), 561-566.
+
+Moloshnikov, S. V. (2010c). A new find of the placoderm genus *Bothriolepis* Eichwald in the Upper Devonian of Uzbekistan. *Paleontological Journal*, **44**(1), 79-83. 
 
 Moloshnikov, S. V. (2011). Bothriolepiform antiarchs (Pisces, Placodermi) from the Devonian of Central Kazakhstan. *Paleontological Journal*, **45**(3), 291-304. 
 
@@ -391,9 +395,9 @@ P'an, K. (1959). Devonian fish fossils of China and their stratigraphic and geog
 
 P'an, K. (1964). Some Devonian and Carboniferous fishes from South China. *Acta Palaeontologica Sinica*, **12**(1), 139-168. 
 
-Pan, J., Wang, S. T., Liu, S. Y., Gu, Q. C., & Jia, H. (1980). Discovery of Devonian *Bothriolepis* and *Remigolepis* in Ningxia. *Acta Geologica Sinica*, **54**(3), 175-185. 
+P'an, J., Wang, S. T., Liu, S. Y., Gu, Q. C., & Jia, H. (1980). Discovery of Devonian *Bothriolepis* and *Remigolepis* in Ningxia. *Acta Geologica Sinica*, **54**(3), 175-185. 
 
-Pan, Z. H., Zhu, M., Zhu, Y. A., & Jia, L. T. (2018). A new antiarch placoderm from the Emsian (Early Devonian) of Wuding, Yunnan, China. *Alcheringa*, **42**, 10-21. 
+P'an, Z. H., Zhu, M., Zhu, Y. A., & Jia, L. T. (2018). A new antiarch placoderm from the Emsian (Early Devonian) of Wuding, Yunnan, China. *Alcheringa*, **42**, 10-21. 
 
 Pander, C. H. (1846). In A. Keyserling (Ed.), *Wissenschaftliche Beobachtungen auf einer Reise in das Petschora-Land im Jahre 1843*, 106. Buchdruckerei der Kaiserlische Akademia der Wissenschaften. 
 
@@ -407,7 +411,7 @@ Thomson, K. S., & Thomas, B. (2001). On the status of species of *Bothriolepis* 
 
 Traquair, R. H. (1888). Notes of the nomenclature of the fishes of the Old Red Sandstone of Great Britain. *Geological Magazine*, **5**, 507-517. 
 
-Traquair, R. H. (1890-1892). On the British species of Asterolepidae. *Proceedings of the Royal Physical Society of Edinburgh*, **11**, 283–286. 
+Traquair, R. H. (1892). On the British species of Asterolepidae. *Proceedings of the Royal Physical Society of Edinburgh*, **11**, 283–286. 
 
 Traquair, R. H. (1895). The extinct vertebrate animals of the Moray Firth area. In: J. A. Harvie-Brown & T. E. Buckley (Eds.), *A vertebrate fauna of the Moray Basin*. David Douglas, Edinburgh, **2**, 309. 
 
