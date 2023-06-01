@@ -1,21 +1,21 @@
 ## **List of characters**
 1\. Shape of preorbital recess: (0) simple and rounded; (1) trilobate; (2) pentagonal; (3) trifid; (4) fan-shaped.
 
-Young (1988), Character 27e, i, r; Dupret *et al.* (2023), Character 1. 
+> Young (1988), Character 27e, i, r; Dupret *et al.* (2023), Character 1. 
 
-The state (trapezoidal for *Livnolepis*, Dupret *et al*., 2023) is omitted in our dataset because no *Bothriolepis* species bears this state. *Remigolepis walker* and *Dianolepis liui* are coded as the state “0”, following Johanson (1997b) and Pan *et al*. (2018). 
+> The state (trapezoidal for *Livnolepis*, Dupret *et al*., 2023) is omitted in our dataset because no *Bothriolepis* species bears this state. *Remigolepis walker* and *Dianolepis liui* are coded as the state “0”, following Johanson (1997b) and Pan *et al*. (2018). 
 
 2\. Anterior extension of anterior postorbital process of neurocranium: (0) posterior of posterior level of orbital fenestra; (1) at or anterior of posterior level of orbital fenestra.
 
-Dupret *et al.* (2023), Character 2.
+> Dupret *et al.* (2023), Character 2.
 
 3\. Well-developed median occipital crista: (0) absent; (1) present.
 
-Long (1983).
+> Long (1983).
 
 4\. Separate triangular and ventrally-facing attachment surface for prelateral plate on lateral plate: (0) absent; (1) present.
 
-Young (1988), Character 27m; Luksevics (2021), Character l.
+> Young (1988), Character 27m; Luksevics (2021), Character l.
 
 5\. Anterior portion of posterior attachment area for submarginal plate covers spiracular groove: (0) absent; (1) present.
 
@@ -23,25 +23,25 @@ Luksevics (2001), Character m.
 
 <a name="_hlk130546173"></a><a name="_hlk130546185"></a>6. Anterior margin of skull roof (for adults only): (0) rounded; (1) squared; (2) pointed anterior tip.
 
-Dupret *et al.* (2023), Character 3.
+> Dupret *et al.* (2023), Character 3.
 
-The states 2 and 3 in Dupret *et al.* (2023) are difficult to be discriminated. As such, we merged these two states into one state “pointed anterior tip”.
+> The states 2 and 3 in Dupret *et al.* (2023) are difficult to be discriminated. As such, we merged these two states into one state “pointed anterior tip”.
 
 7\. Shape of orbitonasal fenestra: (0) anterior and posterior margins straight and parallel; (1) anteriorly concave and posteriorly convex (inversed bean); (2) anteriorly convex and posteriorly concave (bean); (3) concave anteriorly and posteriorly (peanut shaped); (4) convex anteriorly and posteriorly (rounded).
 
-Dupret *et al.* (2023), Character 4.
+> Dupret *et al.* (2023), Character 4.
 
-<a name="_hlk130546287"></a>8. Preorbital region of skull: (0) short; (1) elongated.
+8. Preorbital region of skull: (0) short; (1) elongated.
 
-Young (1988), Character 27l, Dupret *et al.* (2023), Character 5.
+> Young (1988), Character 27l, Dupret *et al.* (2023), Character 5.
 
-*Dianolepis liui* is coded as ‘1’ (Pan *et al*., 2018); *B. obrutschewi* as ‘0’ (Lukševičs, 2001).
+> *Dianolepis liui* is coded as ‘1’ (Pan *et al*., 2018); *B. obrutschewi* as ‘0’ (Lukševičs, 2001).
 
 9\. <a name="_hlk130546308"></a>Positions of mesial and ventral laminae of lateral and paranuchal plates: (0) same level; (1) lag.
 
-Dupret *et al*. (2023), Character 6.
+> Dupret *et al*. (2023), Character 6.
 
-<a name="_hlk130546341"></a>10. Position of lateral corner of skull roof relative to junction of premedian, lateral and paranuchal plates: (0) lateral corner anterior of junction; (1) lateral corner posterior of or at same level as junction.
+10. Position of lateral corner of skull roof relative to junction of premedian, lateral and paranuchal plates: (0) lateral corner anterior of junction; (1) lateral corner posterior of or at same level as junction.
 
 Modified from Dupret *et al.* (2023), Character 7.
 
