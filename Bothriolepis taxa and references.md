@@ -377,7 +377,7 @@ Moloshnikov, S. V. (2009). New data on Late Devonian bothriolepidid placoderms (
 
 Moloshnikov, S. V. (2010a). Middle Devonian bothriolepiform antiarchs (Pisces, Placodermi) from central Kazakhstan and their implication for the antiarch system and phylogeny. *Paleontological Journal*, **44**(2), 195-208. 
 
-Moloshnikov, S. V. (2010b). On high-armor bothriolepidid placoderms (Pisces, Placodermi, Bothriolepididae) from the Upper Devonian of the southern Ural Mountains and Kuznetsk Coal Basin. Paleontological Journal, **44**(5), 561-566.
+Moloshnikov, S. V. (2010b). On high-armor bothriolepidid placoderms (Pisces, Placodermi, Bothriolepididae) from the Upper Devonian of the southern Ural Mountains and Kuznetsk Coal Basin. *Paleontological Journal*, **44**(5), 561-566.
 
 Moloshnikov, S. V. (2010c). A new find of the placoderm genus *Bothriolepis* Eichwald in the Upper Devonian of Uzbekistan. *Paleontological Journal*, **44**(1), 79-83. 
 
