@@ -1,49 +1,49 @@
 ## Taxa used in the analysis and references
 
-1. *B. africana*
+1. *B. africana* Long *et al*. 1997
 > Long *et al*. (1997)
 
-2. *B. alexi*
+2. *B. alexi* Young 1988
 > Young (1988)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023) due to its rate of character coding completeness is less than 20%. The same for the other excluded taxa.
 
-3. *B. alvesiensis*
+3. *B. alvesiensis* Stensiö 1948
 > Stensiö (1948) 
 
-4. *B. amankonyrica*
+4. *B. amankonyrica* Malinovskaya 1989
 > Malinovskaya (1989)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-5. *B. antarctica*
+5. *B. antarctica* Woodward 1921
 > Woodward (1921), Young (1988)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-6. *B. askinae*
+6. *B. askinae* Young 1988
 > Young (1988)
 
-7. *B. babichevi*
-> Malinovskaya (1989; 2012). Following Panteleyev and Moloshnikov (2003), Dupret *et al.* (2023) assigned this species to *Tubalepis*. Panteleyev and Moloshnikov (2003) identified *Tubalepis* being different from *Bothriolepis* by “the shape of the paranuchal plate, posterolateral coner of the otico-occipital depression on the skull roof, and in the absence of the median ventral plate”, but Moloshnikov (1992, 2010a, 2012) never mentioned any skull roof material of *B. babichevi*. Moloshnikov (2010a) had a clear description of the median ventral plate of *B. babichevi*, which contrasts the diagnosis of *Tubalepis* (median ventral plate absent). As such, we still assign this species to *Bothriolepis*.
+7. *B. babichevi* Malinovskaya 1992
+> Malinovskaya (**1989?**; 2012). Following Panteleyev and Moloshnikov (2003), Dupret *et al.* (2023) assigned this species to *Tubalepis*. Panteleyev and Moloshnikov (2003) identified *Tubalepis* being different from *Bothriolepis* by “the shape of the paranuchal plate, posterolateral coner of the otico-occipital depression on the skull roof, and in the absence of the median ventral plate”, but Moloshnikov (1992, 2010a, 2012) never mentioned any skull roof material of *B. babichevi*. Moloshnikov (2010a) had a clear description of the median ventral plate of *B. babichevi*, which contrasts the diagnosis of *Tubalepis* (median ventral plate absent). As such, we still assign this species to *Bothriolepis*.
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-8. *B. barretti*
+8. *B. barretti* Young 1988
 > Young (1988)
 
-9. *B. bindareei*
+9. *B. bindareei* Long 1983
 > Long (1983)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-10. *B. canadensis*
+10. *B. canadensis* (Whiteaves) 1881
 > Whiteaves (1881), Werdelin & Long (1986), Thomson & Thomas (2001), Burrow (2005), Downs & Donoghue (2009)
 
-11. *B. cellulosa*
+11. *B. cellulosa* (Pander, in Keyserling) 1846
 > Pander (1846), Lukševičs (2001) 
 
-12. *B. ciecere*
+12. *B. ciecere* Lyarskaja (in Lyarskaja & Savvaitova) 1974
 > Lyarskaja & Savvaitova (1974), Lukševičs & Zupiņš (2004)
 
 13. *B. cristata*
