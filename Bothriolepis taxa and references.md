@@ -14,15 +14,32 @@
 
 *B. alexi*
 > Young (1988)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023) due to its rate of character coding completeness is less than 20%. The same for the other excluded taxa.
 
 *B. alvesiensis*
 > Stensiö (1948) 
 
+*B. amankonyrica*
+> Malinovskaya (1989)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
+*B. antarctica*
+> Woodward (1921), Young (1988)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
 *B. askinae*
 > Young (1988)
 
+*B. babichevi*
+> Malinovskaya (1989; 2012). Following Panteleyev and Moloshnikov (2003), Dupret *et al.* (2023) assigned this species to *Tubalepis*. Panteleyev and Moloshnikov (2003) identified *Tubalepis* being different from *Bothriolepis* by “the shape of the paranuchal plate, posterolateral coner of the otico-occipital depression on the skull roof, and in the absence of the median ventral plate”, but Moloshnikov (1992, 2010a, 2012) never mentioned any skull roof material of *B. babichevi*. Moloshnikov (2010a) had a clear description of the median ventral plate of *B. babichevi*, which contrasts the diagnosis of *Tubalepis* (median ventral plate absent). As such, we still assign this species to *Bothriolepis*.
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
 *B. barretti*
 > Young (1988)
+
+*B. bindareei*
+> Long (1983)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
 *B. canadensis*
 > Whiteaves (1881), Werdelin & Long (1986), Thomson & Thomas (2001), Burrow (2005), Downs & Donoghue (2009)
@@ -33,11 +50,17 @@
 *B. ciecere*
 > Lyarskaja & Savvaitova (1974), Lukševičs & Zupiņš (2004)
 
+*B. cristata*
+> Traquair (1895), Miles (1968)
+
 *B. cullodenensis*
 > Long (1983)
 
 *B. dairbhrensis*
 > Dupret *et al.* (2023)
+
+*B. dorakarasugensis*
+> Moloshnikov (2009)
 
 *B. evaldi*
 > Lyarskaja (1986), Lukševičs (2001)
@@ -72,20 +95,53 @@
 *B. jarviki*
 > Stensiö (1948), Blom *et al.* (2007)
 
+*B. jazwicensis*
+> Szrek (2004)
+
+
 *B. karawaka*
 > Young (1988)
+
+*B. kassini*
+> Malinovskaya (1989), Moloshnikov (2010a)
 
 *B. kohni*
 > Young (1988)
 
+*B. kwangtungensis*
+> P'an (1964)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
+*B. laverocklochensis*
+> Miles (1968)
+
 *B. leptocheira*
 > Traquair (1890-1892), Lukševičs (2001), Lukševičs *et al.* ( 2017)
+
+*B. lochangensis*
+> P'an (1964)
+
+*B. lohesti*
+> Leriche (1931), Olive (2015)
 
 *B. longi*
 > Johanson & Young (1999)
 
 *B. macphersoni*
 > Young (1988)
+
+*B. macrocephala*
+> Egerton (1862)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
+*B. maeandrina*
+> Hoffman (1911) and Denison (1978) only described few specimens with sinuous ridges. No further studies about *B. maeandrina* can be consulted and its character codings remain extremely inadequate. Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
+*B. major*
+> Agassiz (1844-45) described two specimens from Scotland as *Pterichthys major*, which were reassigned to *B. major* by Stensiö (1948), and Miles (1968). Many specimens of *Bothriolepis* in different sites of Scotland were referred to as *B. major*, but most of them can be hardly classified into *B. major* based on Agassiz’s description. But the only source cited by Miles (1968) is a syntype figure from Agassiz. Our dataset does not contain *B. major* because there is no solid diagnosis of *B. major*. Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
+*B. markovskii*
+> Moloshnikov (2012)
 
 *B. mawsoni*
 > Young (1988)
@@ -95,6 +151,10 @@
 
 *B. nielseni*
 > Stensiö (1948)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
+*B. nikitinae*
+> Malinovskaya (1989), Moloshnikov (2012)
 
 *B. nitida*
 > Leidy (1856), Young (1988), Thomson & Thomas (2001)
@@ -104,6 +164,7 @@
 
 *B. obesa*
 > Traquair (1888), Denison (1978)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
 *B. obrutschewi*
 > Gross (1942), Lukševičs (2001)
@@ -116,6 +177,14 @@
 
 *B. paradoxa*
 > Agassiz (1845); Trewin (2002) 
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
+*B. pavariensis*
+> Lyarskaja & Savvaitova (1974)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
+*B. perija*
+> Young & Moody (2002)
 
 *B. portalensis*
 > Young (1988)
@@ -123,11 +192,33 @@
 *B. prima*
 > Gross (1942), Lukševičs (2001)
 
+*B. rex*
+> Downs *et al.* (2016)
+
+*B. sanzarensis*
+> Moloshnikov (2010b; 2012)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
 *B. shaokuanensis*
 > Chang (1963)
 
+*B. siberica*
+> Obruchev (1941), Moloshnikov (2012)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
+*B. sinensis*
+> Chi (1940), Lu (1988), Luo *et al*. (2023) 
+
+*B. sosnensis*
+> Moloshnikov (2003) 
+
 *B. stevensoni*
 > Miles (1968)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
+*B. tastenica*
+> Malinovskaya (1989), Moloshnikov (2011)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
 *B. tatongensis*
 > Long & Werdelin (1986)
@@ -135,8 +226,20 @@
 *B. taylori*
 > Miles (1968)
 
+*B. traquairi*
+> Bryant (1924), Denison (1978)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
 *B. traudscholdi*
 > Jaekel (1927), Lukševičs (2001)
+
+*B. tungseni*
+> Chang (1965)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
+*B. turanica*
+> Obruchev (1939), Moloshnikov (2012)
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
 *B. virginiensis*
 > Weems *et al.* (1981), Thomson & Thomas (2001), Weems (2004)
@@ -153,149 +256,9 @@
 *B. yeungae*
 > Johanson (1998)
 
-*B. amankonyrica*
-> Malinovskaya (1989)
-
-*B. antarctica*
-> Woodward (1921), Young (1988)
-
-*B. babichevi*
-> Malinovskaya (1989; 2012). Following Panteleyev and Moloshnikov (2003), Dupret *et al.* (2023) assigned this species to *Tubalepis*. Panteleyev and Moloshnikov (2003) identified *Tubalepis* being different from *Bothriolepis* by “the shape of the paranuchal plate, posterolateral coner of the otico-occipital depression on the skull roof, and in the absence of the median ventral plate”, but Moloshnikov (1992, 2010a, 2012) never mentioned any skull roof material of *B. babichevi*. Moloshnikov (2010a) had a clear description of the median ventral plate of *B. babichevi*, which contrasts the diagnosis of *Tubalepis* (median ventral plate absent). As such, we still assign this species to *Bothriolepis*.
-
-*B. bindareei*
-> Long (1983)
-
-*B. cristata*
-> Traquair (1895), Miles (1968)
-
-*B. dorakarasugensis*
-> Moloshnikov (2009)
-
-*B. jazwicensis*
-> Szrek (2004)
-
-*B. kassini*
-> Malinovskaya (1989), Moloshnikov (2010a)
-
-*B. kwangtungensis*
-> P'an (1964)
-
-*B. laverocklochensis*
-> Miles (1968)
-
-*B. lochangensis*
-> P'an (1964)
-
-*B. lohesti*
-> Leriche (1931), Olive (2015)
-
-*B. macrocephala*
-> Egerton (1862)
-
-*B. markovskii*
-> Moloshnikov (2012)
-
-*B. nikitinae*
-> Malinovskaya (1989), Moloshnikov (2012)
-
-*B. pavariensis*
-> Lyarskaja & Savvaitova (1974)
-
-*B. perija*
-> Young & Moody (2002)
-
-*B. rex*
-> Downs *et al.* (2016)
-
-*B. sanzarensis*
-> Moloshnikov (2010b; 2012)
-
-*B. siberica*
-> Obruchev (1941), Moloshnikov (2012)
-
-*B. sinensis*
-> Chi (1940), Lu (1988), Luo *et al*. (2023) 
-
-*B. sosnensis*
-> Moloshnikov (2003) 
-
-*B. tastenica*
-> Malinovskaya (1989), Moloshnikov (2011)
-
-*B. traquairi*
-> Bryant (1924), Denison (1978)
-
-*B. tungseni*
-> Chang (1965)
-
-*B. turanica*
-> Obruchev (1939), Moloshnikov (2012)
-
 *B. yunnanensis*
 > Liu (1962) 
-
-*B. alexi* 
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023) due to its rate of character coding completeness is less than 20%. The same for the other excluded taxa.
-
-*B. amankonyrica*
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. antarctica*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. babichevi*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. bindareei*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. kwangtungensis*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. macrocephala*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. nielseni*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. obesa*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. paradoxa*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. pavariensis*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. sanzarensis*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. siberica*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. stevensoni*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. tastenica*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. traquairi*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. tungseni*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. turanica*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. yunnanensis*
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-*B. major*
-> Agassiz (1844-45) described two specimens from Scotland as *Pterichthys major*, which were reassigned to *B. major* by Stensiö (1948), and Miles (1968). Many specimens of *Bothriolepis* in different sites of Scotland were referred to as *B. major*, but most of them can be hardly classified into *B. major* based on Agassiz’s description. But the only source cited by Miles (1968) is a syntype figure from Agassiz. Our dataset does not contain *B. major* because there is no solid diagnosis of *B. major*.
-
-*B. maeandrina*
-> Hoffman (1911) and Denison (1978) only described few specimens with sinuous ridges. No further studies about *B. maeandrina* can be consulted and its character codings remain extremely inadequate.
 
 ## References
 Agassiz, L. (1844-45). *Monographie des poisons fossiles du vieux Grès rouge, ou Système dévonien des Îles Britanniques et de Russie*. Soleure, chez Gent & Gassman. 
