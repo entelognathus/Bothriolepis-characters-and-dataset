@@ -1,5 +1,5 @@
 #NEXUS
-[written Thu May 25 14:26:51 CST 2023 by Mesquite  version 3.61 (build 927) at BusterMachine-7/124.16.244.180]
+[written Fri Jun 02 00:44:08 CST 2023 by Mesquite  version 3.61 (build 927) at BusterMachine-7/124.16.244.180]
 
 BEGIN TAXA;
 	TITLE Taxa;
@@ -16,75 +16,75 @@ BEGIN CHARACTERS;
 	DIMENSIONS  NCHAR=69;
 	FORMAT DATATYPE = STANDARD RESPECTCASE GAP = - MISSING = ? SYMBOLS = "  0 1 2 3 4";
 	CHARSTATELABELS 
-		1 shape_of_preorbital_recess,
-		2 anterior_extension_of_anterior_postorbital_process_of_neurocranium,
-		3 'well-developed median occipital crista',
-		4 'separate triangular and ventrally-facing attachment surface for prelateral plate on lateral plate',
-		5 anterior_portion_of_posterior_attachment_area_for_submarginal_plate_covers_spiracular_groove,
+		1 Shape_of_preorbital_recess,
+		2 Anterior_extension_of_anterior_postorbital_process_of_neurocranium,
+		3 'Well-developed median occipital crista',
+		4 'Separate triangular and ventrally-facing attachment surface for prelateral plate on lateral plate',
+		5 Anterior_portion_of_posterior_attachment_area_for_submarginal_plate_covers_spiracular_groove,
 		6 'Anterior margin of skull roof (for adults only)',
-		7 shape_of_orbitonasal_fenestra,
-		8 preorbital_region_of_skull,
-		9 Position_of_mesial_lamina_and_ventral_lamina_of_lateral_plate_and_paranuchal_plate,
-		10 'position of lateral corner of skull roof relative to posterior median dorsal plate -lateral plate-paranuchal plate joint point',
-		11 'position of posterior margin of orbit (contact postpineal plate- nuchal plate- orbital notch of lateral plate) compared to position of lateral plate-postmarginal plate-paranuchal plat',
-		12 posterolateral_indentation_on_postmarginal_plate_and_paranuchal_plate_for_thoracic_armour,
-		13 Thickened_bone_margins_on_orbital_margins_of_premedian_plate_and_lateral_plate,
-		14 'Width of orbital fenestra is greater than 1/3 of the skull roof',
-		15 The_shape_of_premedian_plate.,
+		7 Shape_of_orbitonasal_fenestra,
+		8 Preorbital_region_of_skull,
+		9 Positions_of_mesial_and_ventral_laminae_of_lateral_and_paranuchal_plates,
+		10 'Position of lateral corner of skull roof relative to junction of premedian, lateral and paranuchal plates',
+		11 'Position of posterior margin of orbit relative to junction of lateral, postmarginal and paranuchal plates',
+		12 Posterolateral_indentation_on_postmarginal_and_paranuchal_plates_for_trunk_shield,
+		13 Thickened_bone_along_orbital_margin_of_premedian_and_lateral_plates,
+		14 'Width of orbital fenestra greater than 1/3 of the skull roof',
+		15 Shape_of_premedian_plate,
 		16 Lateral_margin_of_premedian_plate,
 		17 Posterior_margin_of_premedian_plate,
-		18 'The ratio of anterior margin/mesial constriction width of Premedian plate',
-		19 'The ratio of anterior margin/posterior margin of Premedian plate',
-		20 'The ratio of Premedian plate mesial constriction width / posterior margin',
-		21 Orbital_margin_of_postpineal_plate_at_the_level_of_lateral_corners_of_skull_roof_,
-		22 anterior_margin_of_postpineal_plate,
+		18 'Width ratio of anterior margin/mesial constriction of premedian plate',
+		19 'Width ratio of anterior margin/posterior margin of premedian plate',
+		20 'Width ratio of mesial constriction/posterior margin of premedian plate',
+		21 Lateral_corner_of_skull_roof_relative_to_orbital_margin_of_postpineal_plate,
+		22 Anterior_margin_of_postpineal_plate,
 		23 Flanged_margin_of_postpineal_plate,
-		24 Nuchal_plate_reaches_the_posterior_margin_of_orbital_fenestra,
-		25 Contact_between_Nuchal_plate_and_posterior_margin_of_orbital_fenestra,
-		26 Shape_of_Nuchal_plate,
-		27 Anterolateral_margin_of_Nuchal_plate,
-		28 posterolateral_corners_of_Nuchal_plate,
-		29 Margin_of_nuchal_plate_that_contact_paranuchal_plate,
-		30 'The ratio of width intermesiolateral margin / width intero posterolateral margin of Nuchal plate',
-		31 'The ratio of length anterolateral margin (nuchal plate - lateral plate) / length posterolateral margin (nuchal plate -paranuchal plate)',
+		24 Nuchal_plate_reaches_posterior_margin_of_orbital_fenestra,
+		25 Contact_between_nuchal_plate_and_posterior_margin_of_orbital_fenestra,
+		26 Shape_of_nuchal_plate,
+		27 Anterolateral_margin_of_nuchal_plate,
+		28 Posterolateral_corner_of_nuchal_plate,
+		29 Contact_margin_between_nuchal_and_paranuchal_plates,
+		30 'Width ratio of anteromesial margin/anterolateral margin of nuchal plate',
+		31 'Length ratio of anterolateral margin/posterolateral margin of nuchal plate',
 		32 'Squarish nuchal plate with convex anterior division of the lateral margin and short postero-lateral corners',
-		33 obtected_nuchal_area_present_on_paranuchal_plate,
+		33 Obtected_nuchal_area_on_paranuchal_plate,
 		34 Size_of_lateral_pits_,
 		35 Shape_of_postmarginal_plate,
-		36 'Ratio Length/Width of postmarginal plate',
+		36 'Ratio of length/width of postmarginal plate',
 		37 shape_of_semilunar_plate,
 		38 The_broadest_part_of_anterior_median_dorsal_plate_at_lateral_corners_in_adults,
-		39 lateral_corners_of_anterior_median_dorsal_plate_appear_early_in_ontogeny,
+		39 Lateral_corners_of_anterior_median_dorsal_plate_appear_early_in_ontogeny,
 		40 Median_Dorsal_plates_crest,
-		41 Develop_of_Median_Dorsal_plates_crest_,
-		42 margin_of_anterior_median_dorsal_plate_and_anterior_dorsolateral_plate,
-		43 margin_of_anterior_median_dorsal_plate_and_mixilateral_plate,
-		44 roove_on_ventral_side_of_anterior_median_dorsal_plate,
+		41 Condition_of_median_dorsal_plate_crest,
+		42 Contact_margin_of_anterior_median_dorsal_plate_and_anterior_dorsolateral_plate,
+		43 Contact_margin_of_anterior_median_dorsal_plate_and_mixilateral_plate,
+		44 Groove_on_ventral_side_of_anterior_median_dorsal_plate,
 		45 Groove_on_ventral_side_of_Posterior_median_dorsal_plate,
-		46 Broadest_portion_of_mixilateral_plate_at_its_dorsal_corners_in_adults,
+		46 The_broadest_portion_of_mixilateral_plate_at_its_dorsal_corners_in_adults,
 		47 Crista_transversalis_anterior_transversely_oriented_on_ventral_lamina_of_anterior_ventrolateral_plate,
-		48 'ventro-lateral ridge makes a keel on anterior ventrolateral plate',
-		49 axillary_foramen_shape,
-		50 Slender_proximal_segment_of_pectoral_fin,
-		51 'Point contact between mesial marginal plate 1 and contact ventral central plate 2 plates of pectoral fin, to separate contact ventral central plate 1 from mesial marginal plate 2',
-		52 'contact ventral central plate 1, ventral central plate 2, mesial marginal plate 1, mesial marginal plate 2 in pectoral fin',
-		53 dorsal_central_plate_5_in_distal_segment,
-		54 'middle pit-line long',
-		55 'supra-occipital sensory groove long',
-		56 branch_of_infraorbital_sensory_line_diverging_on_prelateral_plate_parallel_to_the_rostral_margin_of_the_head_shield_,
-		57 'main lateral line canal/groove reaches the posterior margin of the mixilateral plate',
-		58 'Long branch of the infraorbital sensory groove/canal diverging on prelateral plate',
+		48 'Ventro-lateral ridge makes a keel on anterior ventrolateral plate',
+		49 Shape_of_axillary_foramen,
+		50 'Slender proximal segment of pectoral fin (length/width ratio greater than 7)',
+		51 'Mesial marginal plate 1/2 and ventral central plate 1/2 all contact in one point',
+		52 'Contact ventral central plate 1, ventral central plate 2, mesial marginal plate 1, mesial marginal plate 2 in pectoral fin',
+		53 Dorsal_central_plate_5_in_distal_segment,
+		54 'Middle pit-line long',
+		55 'Supra-occipital sensory groove long',
+		56 Branch_of_infraorbital_sensory_line_diverging_on_prelateral_plate_parallel_to_the_rostral_margin_of_head_shield,
+		57 Main_lateral_line_groove_reaches_posterior_margin_of_mixilateral_or_posterior_dorsolateral_plate,
+		58 Long_branch_of_infraorbital_sensory_groove_diverging_on_prelateral_plate,
 		59 Junction_of_rostral_infraorbital_sensory_line_in_midline_on_premedian_plate,
 		60 'Semi-circular groove on lateral plate',
-		61 shape_of_central_sensory_groove,
-		62 central_sensory_groove_on_Nu,
-		63 central_sensory_groove,
-		64 Central_sensory_grooves_extend_anteriorly_of_the_extension_line_of_the_anterior_margin_of_orbital_fenestra.,
-		65 'Central sensory groove divide posteriorly as supraoccipital cross-commissural pitline groove after converge on nuchal plate',
-		66 'Pectoral pit-line traced on the ventral central plate 1 continuing on the ventral central plate 2',
-		67 anterior_submarginal_plate_attachment_supported_by_a_separate_ridge_in_transverse_lateral_groove,
-		68 Ornament_in_juveniles,
-		69 Ornament_in_adults ; 
+		61 Shape_of_central_sensory_groove,
+		62 Central_sensory_groove,
+		63 Central_sensory_groove,
+		64 Central_sensory_groove_extends_anteriorly_of_the_extension_line_of_anterior_margin_of_orbital_fenestra,
+		65 'Central sensory groove followed posteriorly by supraoccipital cross-commissural pitline groove after converging on nuchal plate',
+		66 'Pectoral pit-line traced on the ventral central plate 1 and extends to ventral central plate 2',
+		67 Anterior_submarginal_plate_attachment_supported_by_a_separate_ridge_in_transverse_lateral_groove,
+		68 Ornamentation_in_juveniles,
+		69 Ornamentation_in_adults ; 
 	MATRIX
 	Remigolepis_walkeri      00??01000100?11101111000?00?01??1-1101?1001??100?????0101000---00???1
 	Dianolepis_liui          00?00221?001110011111100?00001000001???????11????????000?02010-01?1-0
@@ -181,7 +181,7 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1684996011719;
+		timeSaved 1685637848993;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 5327608084194806539;
@@ -202,8 +202,8 @@ Begin MESQUITE;
 			setAnnotationSize 0;
 			setFontIncAnnot 0;
 			setFontIncExp 0;
-			setSize 700 500;
-			setLocation 171 28;
+			setSize 2560 1300;
+			setLocation -9 -9;
 			setFont SanSerif;
 			setFontSize 10;
 			getToolPalette;
@@ -221,15 +221,16 @@ Begin MESQUITE;
 					setAnnotationSize 20;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
-					setSize 600 428;
-					setLocation 171 28;
+					setSize 2460 1228;
+					setLocation -9 -9;
 					setFont SanSerif;
 					setFontSize 10;
 					getToolPalette;
 					tell It;
+						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
 					endTell;
 					setActive;
-					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.arrow;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
 					colorCells  #mesquite.charMatrices.NoColor.NoColor;
 					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
 					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
