@@ -22,7 +22,7 @@
 
 > Luksevics (2001), Character m.
 
-6. Anterior margin of skull roof (for adults only): (0) rounded; (1) squared; (2) pointed anterior tip.
+6\. Anterior margin of skull roof (for adults only): (0) rounded; (1) squared; (2) pointed anterior tip.
 
 > Dupret *et al.* (2023), Character 3.
 
@@ -32,7 +32,7 @@
 
 > Dupret *et al.* (2023), Character 4.
 
-8. Preorbital region of skull: (0) short; (1) elongated.
+8\. Preorbital region of skull: (0) short; (1) elongated.
 
 > Young (1988), Character 27l, Dupret *et al.* (2023), Character 5.
 
@@ -42,7 +42,7 @@
 
 > Dupret *et al*. (2023), Character 6.
 
-10. Position of lateral corner of skull roof relative to junction of premedian, lateral and paranuchal plates: (0) lateral corner anterior of junction; (1) lateral corner posterior of or at same level as junction.
+10\. Position of lateral corner of skull roof relative to junction of premedian, lateral and paranuchal plates: (0) lateral corner anterior of junction; (1) lateral corner posterior of or at same level as junction.
 
 > Modified from Dupret *et al.* (2023), Character 7.
 
@@ -86,7 +86,7 @@ Dupret *et al.* (2023), Character 9.
 
 > Modified from Lukševičs, (2001), Character 18; Dupret *et al.* (2023), Character 16.
 
-22. Anterior margin of postpineal plate: (0) concave; (1) flat/convex.
+22\. Anterior margin of postpineal plate: (0) concave; (1) flat/convex.
 
 > Modified from Dupret *et al.* (2023), Character 17.
 
@@ -182,7 +182,7 @@ Modified from Dupret *et al*. (2023), Character 19.
 
 > Young (1988), Character 27b; Dupret *et al.* (2023), Character 35.
 
-47. Crista transversalis anterior transversely oriented on ventral lamina of anterior ventrolateral plate: (0) no; (1) yes.
+47\. Crista transversalis anterior transversely oriented on ventral lamina of anterior ventrolateral plate: (0) no; (1) yes.
 
 > Young (1988), Character n; Luksevics (2001), Character 11; Dupret *et al.* (2023), Character 36.
 
@@ -194,7 +194,7 @@ Modified from Dupret *et al*. (2023), Character 19.
 
 > Young (1988), Character 27k; Lukševičs (2001), Character 4; Dupret *et al.* (2023), Character 38.
 
-50. Slender proximal segment of pectoral fin (length/width ratio greater than 7): (0) absent; (1) present.
+50\. Slender proximal segment of pectoral fin (length/width ratio greater than 7): (0) absent; (1) present.
 
 > Luksevics (2001), Character 10.
 
@@ -210,7 +210,7 @@ Modified from Dupret *et al*. (2023), Character 19.
 
 > Luksevics (2001), Character 14; Dupret *et al*. (2023), Character 40.
 
-54. Middle pit-line long: (0) absent; (1) present.
+54\. Middle pit-line long: (0) absent; (1) present.
 
 > Lukševičs (2001), Character 9; Dupret *et al*. (2023), Character 41.
 
@@ -226,23 +226,23 @@ Modified from Dupret *et al*. (2023), Character 19.
 
 > Lukševičs (2001), Character 16; Dupret *et al.* (2023), Character 44.
 
-58. Long branch of infraorbital sensory groove diverging on prelateral plate: (0) no; (1) yes. 
+58\. Long branch of infraorbital sensory groove diverging on prelateral plate: (0) no; (1) yes. 
 
 > Modified from Lukševičs (2001), Character 19; Dupret *et al.* (2023), Character 45.
 
-59. Junction of rostral infraorbital sensory line in midline on premedian plate: (0) straight or light posterior indentation; (1) very deep posterior indentation; (2) no connection.
+59\. Junction of rostral infraorbital sensory line in midline on premedian plate: (0) straight or light posterior indentation; (1) very deep posterior indentation; (2) no connection.
 
 > Modified from Dupret et al. (2023), Character 46.
 
-60. Semi-circular groove on lateral plate: (0) reduced; (1) developed.
+60\. Semi-circular groove on lateral plate: (0) reduced; (1) developed.
 
 > Dupret *et al.* (2023), Character 47.
 
-61. Shape of central sensory groove: (0) straight; (1) curved.
+61\. Shape of central sensory groove: (0) straight; (1) curved.
 
 > Dupret *et al.* (2023), Character 48.
 
-62. Central sensory groove: (0) only on nuchal plate; (1) on nuchal and lateral plates.
+62\. Central sensory groove: (0) only on nuchal plate; (1) on nuchal and lateral plates.
 
 > Dupret *et al.* (2023), Character 49.
 
@@ -262,7 +262,7 @@ Modified from Dupret *et al*. (2023), Character 19.
 
 Young (1988), Character 27j; Dupret *et al.* (2023), Character 34.
 
-68. Ornamentation in juveniles: (0) tubercular; (1) reticular.
+68\. Ornamentation in juveniles: (0) tubercular; (1) reticular.
 
 > Young (1988), Character a.
 
