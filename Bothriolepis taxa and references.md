@@ -112,7 +112,7 @@
 > Miles (1968)
 
 34. *B. leptocheira* Traquair 1892
-> Traquair (1890), Lukševičs (2001), Lukševičs *et al.* ( 2017)
+> Traquair (1892), Lukševičs (2001), Lukševičs *et al.* ( 2017)
 
 35. *B. lochangensis* P'an 1964
 > P'an (1964)
@@ -138,7 +138,7 @@
 > Agassiz (1844-45) described two specimens from Scotland as *Pterichthys major*, which were reassigned to *B. major* by Stensiö (1948), and Miles (1968). Many specimens of *Bothriolepis* in different sites of Scotland were referred to as *B. major*, but most of them can be hardly classified into *B. major* based on Agassiz’s description. But the only source cited by Miles (1968) is a syntype figure from Agassiz. Our dataset does not contain *B. major* because there is no solid diagnosis of *B. major*. Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
 42. *B. markovskii* Moloshnikov 2010
-> Moloshnikov (2010, 2012)
+> Moloshnikov (2010b, 2012)
 
 43. *B. mawsoni* Young 1988
 > Young (1988)
