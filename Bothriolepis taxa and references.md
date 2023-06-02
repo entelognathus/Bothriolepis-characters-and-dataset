@@ -38,7 +38,7 @@
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
 10. *B. canadensis* Whiteaves 1881
-> Whiteaves (1881), Werdelin & Long (1986), Thomson & Thomas (2001), Burrow (2005), Downs & Donoghue (2009)
+> Whiteaves (1881), Werdelin & Long (1986), Thomson & Thomas (2001), Burrow (2005), Downs & Donoghue (2009), Béchard *et al*. (2014)
 
 11. *B. cellulosa* Pander (in Keyserling) 1846
 > Pander (1846), Lukševičs (2001) 
@@ -105,6 +105,7 @@
 
 32. *B. kwangtungensis* P'an 1964
 > P'an (1964)
+
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
 33. *B. laverocklochensis* Miles 1968
@@ -145,7 +146,7 @@
 44. *B. maxima* Gross 1933
 > Gross (1933), Lukševičs (2001)
 
-45. *B. nielseni*
+45. *B. nielseni* Stensiö 1948
 > Stensiö (1948)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
@@ -157,7 +158,7 @@
 > Leidy (1856), Young (1988), Thomson & Thomas (2001)
 
 48. *B. niushoushanensis*  P'an *et al.* 1980
-> P'an *et al.* (1980)
+> P'an *et al.* (1980), Pan *et al*. (1987)
 
 49. *B. obesa* Traquair 1888
 > Traquair (1888), Denison (1978)
@@ -169,6 +170,8 @@
 
 51. *B. ornata* Eichwald 1840
 > Eichwald (1840), Lukševičs (1996, 2001)
+
+> Type species of *Bothriolepis*.
 
 52. *B. panderi* Lahusen 1880
 > Lahusen (1880), Lukševičs (2001)
@@ -283,6 +286,8 @@ Agassiz, L. (1844). *Monographie des poisons fossiles du vieux Grès rouge, ou S
 
 Agassiz, L. (1845). Lettres sur les Poissons fossiles du système Dévonien de la Russie. In: *Murchison, RI, dе Vеrnеuil, Е. & A. de Кеуsеrling, CА Géologie de la Russie d’Europe et des montagnes de l’Oural*, **2**, 397-418. 
 
+Béchard, I., Arsenault, F., Cloutier, R. & Kerr, J. (2014). The Devonian placoderm fish *Bothriolepis canadensis* revisited with thee-dimensional digital imagery. *Plaeontologia Electronica*, **17**(1), 1-19.
+
 Becker, R., Gradstein, F., & Hammer, O. (2012). The Devonian Period. In: *The geologic time scale*, **2**, 559–601. Elsevier, Amsterdam. 
 
 Blom, H., Clack, J. A., Ahlberg, P. E., & Friedman, M. (2007). Devonian vertebrates from East Greenland: a review of faunal composition and distribution. *Geodiversitas*, **29**(1), 119-141. 
@@ -395,7 +400,9 @@ P'an, K. (1959). Devonian fish fossils of China and their stratigraphic and geog
 
 P'an, K. (1964). Some Devonian and Carboniferous fishes from South China. *Acta Palaeontologica Sinica*, **12**(1), 139-168. 
 
-P'an, J., Wang, S. T., Liu, S. Y., Gu, Q. C., & Jia, H. (1980). Discovery of Devonian *Bothriolepis* and *Remigolepis* in Ningxia. *Acta Geologica Sinica*, **54**(3), 175-185. 
+P'an, J., Wang, S. T., Liu, S. Y., Gu, Q. C., & Jia, H. (1980). Discovery of Devonian *Bothriolepis* and *Remigolepis* in Ningxia. *Acta Geologica Sinica*, **54**(3), 175-185.
+
+Pan, J., Huo, F.-C., Cao, J.-X., Gu, Q.-C., Liu, S.-Y., Wang, J.-Q., Gao, L.-D. & Liu, C. (1987). *Continental Devonian System of Ningxia and its Biotas*. Beijing, Geological Publishing House; 237 p.
 
 P'an, Z. H., Zhu, M., Zhu, Y. A., & Jia, L. T. (2018). A new antiarch placoderm from the Emsian (Early Devonian) of Wuding, Yunnan, China. *Alcheringa*, **42**, 10-21. 
 
