@@ -25,7 +25,7 @@ BEGIN CHARACTERS;
 		7 Shape_of_orbitonasal_fenestra,
 		8 Preorbital_region_of_skull,
 		9 Positions_of_mesial_and_ventral_laminae_of_lateral_and_paranuchal_plates,
-		10 'Position of lateral corner of skull roof relative to junction of premedian, lateral and paranuchal plates',
+		10 'Position of lateral corner of skull roof relative to junction of lateral, postmarginal and paranuchal plates',
 		11 'Position of posterior margin of orbit relative to junction of lateral, postmarginal and paranuchal plates',
 		12 Posterolateral_indentation_on_postmarginal_and_paranuchal_plates_for_trunk_shield,
 		13 Thickened_bone_along_orbital_margin_of_premedian_and_lateral_plates,
