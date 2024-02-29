@@ -269,3 +269,16 @@ Young (1988), Character 27j; Dupret *et al.* (2023), Character 34.
 69\. Ornamentation in adults: (0) tubercular; (1) reticular.
 
 > Dupret *et al.* (2023) considered the ornamentation in juveniles and adults in single character, we reformulated it into 2 characters (Characters 68 and 69).
+
+70\. Shape of postpineal plate: (0) long and narrow; (1) short and broad.
+
+> New character.
+
+71\. Anterior oblique dorsal sensory line groove on anterior median dorsal plate: (0) absent; (1) present.
+
+> New character.
+
+72\. Anterior margin of obtected nuchal area:(0) straight or sinuous; (1) convex; (2) concave.
+
+> New character.
+
