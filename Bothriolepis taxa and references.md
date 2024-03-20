@@ -1,18 +1,24 @@
 ## Taxa used in the analysis and references
 
-1. *B. africana* Long *et al*. 1997
-> Long *et al*. (1997)
+[*Bothriolepis africana*](https://deepbone.org/public/#/explor?s_id=3490&functionId=Deepbone_header_searchResultOpen) Long *et al*., 1997
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Witpoort, Witpoort Formation, Witteberg Group, Cape Supergroup, Grahamstown, South Africa
+> - [Long *et al*., 1997](https://www.tandfonline.com/doi/abs/10.1080/02724634.1997.10010973)
 
-2. *B. alexi* Young 1988
-> Young (1988)
+[*Bothriolepis alexi*](https://deepbone.org/public/#/explor?s_id=3504&functionId=Deepbone_header_searchResultOpen) Young, 1988
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Aztec, Aztec siltstone, Antarctica
+> - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023) due to its rate of character coding completeness is less than 20%. The same for the other excluded taxa.
+[*Bothriolepis alvesiensis*](https://deepbone.org/public/#/explor?s_id=3532&functionId=Deepbone_header_searchResultOpen) Stensiö, 1948
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Rosebrae, Rosebrae beds, Upper Old Red Sandstone, Morayshire, Scotland
+> - Stensiö, 1948; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
-3. *B. alvesiensis* Stensiö 1948
-> Stensiö (1948) 
-
-4. *B. amankonyrica* Malinovskaya 1988
-> Malinovskaya (1988)
+4. [*Bothriolepis amankonyrica*](https://deepbone.org/public/#/explor?s_id=3455&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1988
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - central Kazakhstan, Olenti River, 60 km north of the village of Molodezhnyi
+> - Malinovskaya, 1988; [Malinovskaya, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
