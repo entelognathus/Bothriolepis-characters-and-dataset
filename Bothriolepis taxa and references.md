@@ -15,35 +15,46 @@
 > - Rosebrae, Rosebrae beds, Upper Old Red Sandstone, Morayshire, Scotland
 > - Stensiö, 1948; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
-4. [*Bothriolepis amankonyrica*](https://deepbone.org/public/#/explor?s_id=3455&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1988
+[*Bothriolepis amankonyrica*](https://deepbone.org/public/#/explor?s_id=3455&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1988
 > Frasnian, Upper Devonian, 382.7, 372.2
 > - central Kazakhstan, Olenti River, 60 km north of the village of Molodezhnyi
 > - Malinovskaya, 1988; [Malinovskaya, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-5. *B. antarctica* Woodward 1921
-> Woodward (1921), Young (1988)
+[*Bothriolepis antarctica*](https://deepbone.org/public/#/explor?s_id=3500&functionId=Deepbone_header_searchResultOpen) Woodward, 1921
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Aztec, Aztec siltstone, Antarctica
+> - Woodward, 1921; [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-6. *B. askinae* Young 1988
-> Young (1988)
+[*Bothriolepis askinae*](https://deepbone.org/public/#/explor?s_id=3501&functionId=Deepbone_header_searchResultOpen) Young, 1988
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Aztec, Aztec siltstone, Antarctica
+> - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
-7. *B. babichevi* Malinovskaya 1992
+[*Bothriolepis babichevi*](https://deepbone.org/public/#/explor?s_id=168276&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1992
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Konyr Formation, lower subformation, central Kazakhstan, north eastern Karaganda, right bank of the Shiderti River, village of Trudovoe
+> - Malinovskaya, 1992; [Malinovskaya, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
+
 > Malinovskaya (1992; 2012). Following Panteleyev and Moloshnikov (2003), Dupret *et al.* (2023) assigned this species to *Tubalepis*. Panteleyev and Moloshnikov (2003) identified *Tubalepis* being different from *Bothriolepis* by “the shape of the paranuchal plate, posterolateral coner of the otico-occipital depression on the skull roof, and in the absence of the median ventral plate”, but Moloshnikov (1992, 2010a, 2012) never mentioned any skull roof material of *B. babichevi*. Moloshnikov (2010a) had a clear description of the median ventral plate of *B. babichevi*, which contrasts the diagnosis of *Tubalepis* (median ventral plate absent). As such, we still assign this species to *Bothriolepis*.
 
+
+[*Bothriolepis barretti*](https://deepbone.org/public/#/explor?s_id=3502&functionId=Deepbone_header_searchResultOpen) Young, 1988
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Aztec, Aztec siltstone, Antarctica
+> - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
+
+[*Bothriolepis bindareei*](https://deepbone.org/public/#/explor?s_id=3522&functionId=Deepbone_header_searchResultOpen) Long, 1983
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Snowy plains Formation, Bindaree Road, Victoria, Australia
+> - [Long, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146)
+
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-8. *B. barretti* Young 1988
-> Young (1988)
-
-9. *B. bindareei* Long 1983
-> Long (1983)
-
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-10. *B. canadensis* Whiteaves 1881
+10. *Bothriolepis canadensis* Whiteaves, 1881
 > Whiteaves (1881), Werdelin & Long (1986), Thomson & Thomas (2001), Burrow (2005), Downs & Donoghue (2009), Béchard *et al*. (2014)
 
 11. *B. cellulosa* Pander (in Keyserling) 1846
