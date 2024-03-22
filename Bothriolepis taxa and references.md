@@ -54,17 +54,25 @@
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-10. *Bothriolepis canadensis* Whiteaves, 1881
-> Whiteaves (1881), Werdelin & Long (1986), Thomson & Thomas (2001), Burrow (2005), Downs & Donoghue (2009), Béchard *et al*. (2014)
+[*Bothriolepis canadensis*](https://deepbone.org/public/#/explor?s_id=3476&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1880
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Miguasha, Québec, Canada; Catskill Formation” of Pennsylvania, North America; Orkney Islands, Scotland.
+> - Stensiö, 1948; [Werdelin and Long, 1986](https://www.idunn.no/doi/abs/10.1111/j.1502-3931.1986.tb00727.x); [Thomson and Thomas, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0679%3AOTSOSO%5D2.0.CO%3B2); Arsenault *et al*., 2004; [Burrow, 2005](https://www.idunn.no/doi/full/10.1080/00241160510013286); [Janvier *et al*., 2007](https://www.tandfonline.com/doi/pdf/10.1671/0272-4634(2007)27%5B709%3ANEFTCL%5D2.0.CO%3B2); [Downs and Donoghue, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10765); [Béchard *et al*., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi); [Long *et al*., 2015](https://www.nature.com/articles/nature13825); [Charest *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2018.0199); [Charest *et al*., 2022](https://www.tandfonline.com/doi/abs/10.1080/02724634.2022.2116335)
 
-11. *B. cellulosa* Pander (in Keyserling) 1846
-> Pander (1846), Lukševičs (2001) 
+[*Bothriolepis cellulosa*](https://deepbone.org/public/#/explor?s_id=3480&functionId=Deepbone_header_searchResultOpen) Pander (in Keyserling), 1846
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Khakasia, LakeBele, western shore of southern part, 2km east-northeast of the mouth of the Tuim River; the right bank of Velikaya River in Pskov near Piskovichi.
+> - Pander (in Keyserling), 1846; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
-12. *B. ciecere* Lyarskaja (in Lyarskaja & Savvaitova) 1974
-> Lyarskaja & Savvaitova (1974), Lukševičs & Zupiņš (2004)
+[*Bothriolepis ciecere*](https://deepbone.org/public/#/explor?s_id=3465&functionId=Deepbone_header_searchResultOpen) Lyarskaja (in Lyarskaja & Savvaitova), 1974
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Ketleri, Ketleri outcrop, Ketleri Formation, Venta River, Latvia
+> - Lyarskaja & Savvaitova, (1974); [Lukševičs,2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
-13. *B. cristata* Traquair 1895
-> Traquair (1895), Miles (1968)
+[*Bothriolepis cristata*](https://deepbone.org/public/#/explor?s_id=3536&functionId=Deepbone_header_searchResultOpen) Traquair, 1895
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Rosebrae, Rosebrae beds, Upper Old Red Sandstone, Morayshire, Scotland
+> - Traquair,1895; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
 14. *B. cullodenensis* Long 1983
 > Long (1983)
