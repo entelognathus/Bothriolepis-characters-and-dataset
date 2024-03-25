@@ -5,7 +5,7 @@
 
 [*Bothriolepis africana*](https://deepbone.org/public/#/explor?s_id=3490&functionId=Deepbone_header_searchResultOpen) Long *et al*., 1997
 > Famennian, Upper Devonian, 372.2, 358.9
-> - Witpoort, Witpoort Formation, Witteberg Group, Cape Supergroup, Grahamstown, South Africa
+> - Witpoort Formation, Witteberg Group, Cape Supergroup; Witpoort, Grahamstown, South Africa. **Note horizon in front of locality**
 > - [Long *et al*., 1997](https://www.tandfonline.com/doi/abs/10.1080/02724634.1997.10010973)
 
 [*Bothriolepis alexi*](https://deepbone.org/public/#/explor?s_id=3504&functionId=Deepbone_header_searchResultOpen) Young, 1988
