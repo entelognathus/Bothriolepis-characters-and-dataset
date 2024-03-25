@@ -67,6 +67,7 @@
 [*Bothriolepis cellulosa*](https://deepbone.org/public/#/explor?s_id=3480&functionId=Deepbone_header_searchResultOpen) Pander (in Keyserling), 1846
 > Frasnian, Upper Devonian, 382.7, 372.2
 > - Khakasia, LakeBele, western shore of southern part, 2km east-northeast of the mouth of the Tuim River; the right bank of Velikaya River in Pskov near Piskovichi.
+> - **check Baltic States; Timan and Tuva Depression (Denison, 1978; Lukševičs, 2001)**. Note: for the locality, small name in front of large name.
 > - Pander (in Keyserling), 1846; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Bothriolepis ciecere*](https://deepbone.org/public/#/explor?s_id=3465&functionId=Deepbone_header_searchResultOpen) Lyarskaja (in Lyarskaja & Savvaitova), 1974
