@@ -73,6 +73,7 @@
 [*Bothriolepis ciecere*](https://deepbone.org/public/#/explor?s_id=3465&functionId=Deepbone_header_searchResultOpen) Lyarskaja (in Lyarskaja & Savvaitova), 1974
 > Famennian, Upper Devonian, 372.2, 358.9
 > - Ketleri, Ketleri outcrop, Ketleri Formation, Venta River, Latvia
+> - Upper Ketleri stage, in Denison, 1978; Pavari, Vidzeme, Latvia, locality name from (LUKšEVIČS and Zupiņš, 2004)
 > - Lyarskaja & Savvaitova, (1974); [Lukševičs,2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Bothriolepis cristata*](https://deepbone.org/public/#/explor?s_id=3536&functionId=Deepbone_header_searchResultOpen) Traquair, 1895
