@@ -22,8 +22,8 @@
 
 [*Bothriolepis amankonyrica*](https://deepbone.org/public/#/explor?s_id=3455&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1988
 > Frasnian, Upper Devonian, 382.7, 372.2
-> - central Kazakhstan, Olenti River, 60 km north of the village of Molodezhnyi
-> - Malinovskaya, 1988; [Malinovskaya, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
+> - basal Sofa Formation; Amankonyr locality, Olenti River, 60 km north of the village of Molodezhnyi, central Kazakhstan. 
+> - Malinovskaya, 1988; Moloshnikov, 2011; [Malinovskaya, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
