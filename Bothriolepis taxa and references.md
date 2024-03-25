@@ -5,7 +5,7 @@
 
 [*Bothriolepis africana*](https://deepbone.org/public/#/explor?s_id=3490&functionId=Deepbone_header_searchResultOpen) Long *et al*., 1997
 > Famennian, Upper Devonian, 372.2, 358.9
-> - Witpoort Formation, Witteberg Group, Cape Supergroup; Witpoort, Grahamstown, South Africa. **Note horizon in front of locality**
+> - Witpoort Formation, near Grahamstown, South Africa.
 > - [Long *et al*., 1997](https://www.tandfonline.com/doi/abs/10.1080/02724634.1997.10010973)
 
 [*Bothriolepis alexi*](https://deepbone.org/public/#/explor?s_id=3504&functionId=Deepbone_header_searchResultOpen) Young, 1988
@@ -66,7 +66,7 @@
 
 [*Bothriolepis cellulosa*](https://deepbone.org/public/#/explor?s_id=3480&functionId=Deepbone_header_searchResultOpen) Pander (in Keyserling), 1846
 > Frasnian, Upper Devonian, 382.7, 372.2
-> - Khakasia, LakeBele, western shore of southern part, 2km east-northeast of the mouth of the Tuim River; the right bank of Velikaya River in Pskov near Piskovichi.
+> - 2km east-northeast of the mouth of the Tuim River, western shore of southern part, LakeBele, Khakasia;  Snetnaya Gora and Pskov Beds, the right bank of Velikaya River in Pskov near Piskovichi, Russia;  the right bank of Pērse River (right tributary of Daugava River) near Koknese (Kokenhusen); Snetnaya Gora, Sēlija and Atzele Members of the Pļaviņas Formation, Pastamuiža on Daugava River, Latvia
 > - **check Baltic States; Timan and Tuva Depression (Denison, 1978; Lukševičs, 2001)**. Note: for the locality, small name in front of large name.
 > - Pander (in Keyserling), 1846; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
