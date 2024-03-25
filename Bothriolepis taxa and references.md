@@ -15,8 +15,9 @@
 
 [*Bothriolepis alvesiensis*](https://deepbone.org/public/#/explor?s_id=3532&functionId=Deepbone_header_searchResultOpen) Stensiö, 1948
 > Famennian, Upper Devonian, 372.2, 358.9
-> - Rosebrae, Rosebrae beds, Upper Old Red Sandstone, Morayshire, Scotland
+> - Rosebrae, Rosebrae beds, Upper Old Red Sandstone, Morayshire, Scotland.
 > - Stensiö, 1948; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
+> - Early Frasnian in Sallan and Coates (2010), Upper Devonian in Denison (1978); Famennian in Dupret *et al*. (2023).
 
 [*Bothriolepis amankonyrica*](https://deepbone.org/public/#/explor?s_id=3455&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1988
 > Frasnian, Upper Devonian, 382.7, 372.2
