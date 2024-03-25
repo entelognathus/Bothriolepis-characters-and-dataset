@@ -1,5 +1,8 @@
 ## Taxa used in the analysis and references
 
+> 8 *Bothriolepis* species from the Givetian Aztec fauna of Antarctica.
+
+
 [*Bothriolepis africana*](https://deepbone.org/public/#/explor?s_id=3490&functionId=Deepbone_header_searchResultOpen) Long *et al*., 1997
 > Famennian, Upper Devonian, 372.2, 358.9
 > - Witpoort, Witpoort Formation, Witteberg Group, Cape Supergroup, Grahamstown, South Africa
@@ -120,13 +123,18 @@
 > Szrek (2004)
 
 29. *B. karawaka* Young 1988
-> Young (1988)
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Aztec, Aztec siltstone, Antarctica
+> - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
 30. *B. kassini* Malinovskaya 1988
 > Malinovskaya (1988, 1992), Moloshnikov (2010a)
 
 31. *B. kohni* Young 1988
-> Young (1988)
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Aztec, Aztec siltstone, Antarctica
+> - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
+
 
 32. *B. kwangtungensis* P'an 1964
 > P'an (1964)
@@ -149,7 +157,9 @@
 > Johanson & Young (1999)
 
 38. *B. macphersoni* Young 1988
-> Young (1988)
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Aztec, Aztec siltstone, Antarctica
+> - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
 39. *B. macrocephala* Egerton 1862
 > Egerton (1862)
@@ -166,7 +176,10 @@
 > Moloshnikov (2010b, 2012)
 
 43. *B. mawsoni* Young 1988
-> Young (1988)
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Aztec, Aztec siltstone, Antarctica
+> - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
+
 
 44. *B. maxima* Gross 1933
 > Gross (1933), Lukševičs (2001)
@@ -283,7 +296,9 @@
 > Lukševičs & Sorokin (1999)
 
 74. *B. vuwae* Young 1988
-> Young (1988)
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Aztec, Aztec siltstone, Antarctica
+> - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
 75. *B. wilsoni* Miles 1968
 > Miles (1968), Browne *et al.* (2002)
