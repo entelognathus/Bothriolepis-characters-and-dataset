@@ -61,12 +61,12 @@
 
 [*Bothriolepis canadensis*](https://deepbone.org/public/#/explor?s_id=3476&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1880
 > Frasnian, Upper Devonian, 382.7, 372.2
-> - Miguasha, Québec, Canada; Catskill Formation” of Pennsylvania, North America; Orkney Islands, Scotland.
+> - Miguasha, Québec, Canada; Catskill Formation of Pennsylvania, North America; Orkney Islands, Scotland.
 > - Stensiö, 1948; [Werdelin and Long, 1986](https://www.idunn.no/doi/abs/10.1111/j.1502-3931.1986.tb00727.x); [Thomson and Thomas, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0679%3AOTSOSO%5D2.0.CO%3B2); Arsenault *et al*., 2004; [Burrow, 2005](https://www.idunn.no/doi/full/10.1080/00241160510013286); [Janvier *et al*., 2007](https://www.tandfonline.com/doi/pdf/10.1671/0272-4634(2007)27%5B709%3ANEFTCL%5D2.0.CO%3B2); [Downs and Donoghue, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10765); [Béchard *et al*., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi); [Long *et al*., 2015](https://www.nature.com/articles/nature13825); [Charest *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2018.0199); [Charest *et al*., 2022](https://www.tandfonline.com/doi/abs/10.1080/02724634.2022.2116335)
 
 [*Bothriolepis cellulosa*](https://deepbone.org/public/#/explor?s_id=3480&functionId=Deepbone_header_searchResultOpen) Pander (in Keyserling), 1846
 > Frasnian, Upper Devonian, 382.7, 372.2
-> - 2km east-northeast of the mouth of the Tuim River, western shore of southern part, LakeBele, Khakasia;  Snetnaya Gora and Pskov Beds, the right bank of Velikaya River in Pskov near Piskovichi, Russia;  the right bank of Pērse River (right tributary of Daugava River) near Koknese (Kokenhusen); Snetnaya Gora, Sēlija and Atzele Members of the Pļaviņas Formation, Pastamuiža on Daugava River, Latvia
+> - 2km east-northeast of the mouth of the Tuim River, western shore of southern part, LakeBele, Khakasia;  Snetnaya Gora and Pskov Beds, the right bank of Velikaya River in Pskov near Piskovichi, Russia;  the right bank of Pērse River (right tributary of Daugava River) near Koknese (Kokenhusen); Snetnaya Gora, Sēlija and Atzele Members of the Pļaviņas Formation, Pastamuiža on Daugava River, Latvia; Lower Ust’ Yarega Formation, Pizhma River of the Middle Timan
 > - **check Baltic States; Timan and Tuva Depression (Denison, 1978; Lukševičs, 2001)**. Note: for the locality, small name in front of large name.
 > - Pander (in Keyserling), 1846; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
@@ -81,14 +81,21 @@
 > - Rosebrae, Rosebrae beds, Upper Old Red Sandstone, Morayshire, Scotland
 > - Traquair,1895; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
-14. *B. cullodenensis* Long 1983
-> Long (1983)
+[*Bothriolepis cullodenensis*](https://deepbone.org/public/#/explor?s_id=3520&functionId=Deepbone_header_searchResultOpen) Long, 1983
+> Givetian, Middle Devonian, 387.7, 382.7
+> - the Howqua River and Bindaree Road of Mt Howitt, Victoria, Australia; Avon River Group, the Freestone Creek of the Mt Kent Conglomerate, Victoria, Australia
+> - [Long,1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146)
 
-15. *B. dairbhrensis* Dupret *et al.* 2023
-> Dupret *et al.* (2023)
+[*Bothriolepis dairbhrensis*](https://deepbone.org/public/#/explor?s_id=168132&functionId=Deepbone_header_searchResultOpen) Dupret *et al.*, 2023
+> Givetian, Middle Devonian, 387.7, 382.7
+> - the Valentia Slate Formation of the Iveragh Peninsula, Ireland
+> - [Dupret *et al.*, 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280208)
 
-16. *B. dorakarasugensis* Moloshnikov 2009
-> Moloshnikov (2009)
+[*Bothriolepis dorakarasugensis*](https://deepbone.org/public/#/explor?s_id=3459&functionId=Deepbone_header_searchResultOpen) Moloshnikov, 2009
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - upper reaches of the Dora-Kara-Sug Rive, Kokhai Formation,Frasnian beds of central Tuva
+> - [Dupret *et al.*, 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280208)
+> [Moloshnikov, 2009](https://link.springer.com/article/10.1134/S0031030109050128); [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
 
 17. *B. evaldi* Lyarskaja 1986
 > Lyarskaja (1986), Lukševičs (2001)
