@@ -94,8 +94,7 @@
 [*Bothriolepis dorakarasugensis*](https://deepbone.org/public/#/explor?s_id=3459&functionId=Deepbone_header_searchResultOpen) Moloshnikov, 2009
 > Frasnian, Upper Devonian, 382.7, 372.2
 > - upper reaches of the Dora-Kara-Sug Rive, Kokhai Formation,Frasnian beds of central Tuva
-> - [Dupret *et al.*, 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280208)
-> [Moloshnikov, 2009](https://link.springer.com/article/10.1134/S0031030109050128); [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
+> - [Moloshnikov, 2009](https://link.springer.com/article/10.1134/S0031030109050128); [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
 
 17. *B. evaldi* Lyarskaja 1986
 > Lyarskaja (1986), Lukševičs (2001)
