@@ -42,7 +42,7 @@
 [*Bothriolepis babichevi*](https://deepbone.org/public/#/explor?s_id=168276&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1992
 > Givetian, Middle Devonian, 387.7, 382.7
 > - lower subformation, Konyr Formation; village of Trudovoe, right bank of the Shiderti River, north eastern Karaganda, central Kazakhstan.
-> - Malinovskaya, 1992; Moloshnikov, 2012; [Malinovskaya, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
+> - Malinovskaya, 1992; [Malinovskaya, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
 
 > - Following Panteleyev and Moloshnikov (2003), Dupret *et al.* (2023) assigned this species to *Tubalepis*. Panteleyev and Moloshnikov (2003) identified *Tubalepis* being different from *Bothriolepis* by “the shape of the paranuchal plate, posterolateral coner of the otico-occipital depression on the skull roof, and in the absence of the median ventral plate”, but Moloshnikov (1992, 2010a, 2012) never mentioned any skull roof material of *B. babichevi*. Moloshnikov (2010a) had a clear description of the median ventral plate of *B. babichevi*, which contrasts the diagnosis of *Tubalepis* (median ventral plate absent). As such, we still assign this species to *Bothriolepis*.
 
