@@ -74,7 +74,7 @@
 > Famennian, Upper Devonian, 372.2, 358.9
 > - Ketleri, Ketleri outcrop, Ketleri Formation, Venta River, Latvia
 > - Upper Ketleri stage, in Denison, 1978; Pavari, Vidzeme, Latvia, locality name from (LUKšEVIČS and Zupiņš, 2004)
-> - Lyarskaja & Savvaitova, (1974); [Lukševičs,2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - Lyarskaja and Savvaitova, 1974; [Lukševičs,2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Bothriolepis cristata*](https://deepbone.org/public/#/explor?s_id=3536&functionId=Deepbone_header_searchResultOpen) Traquair, 1895
 > Famennian, Upper Devonian, 372.2, 358.9
@@ -84,7 +84,7 @@
 [*Bothriolepis cullodenensis*](https://deepbone.org/public/#/explor?s_id=3520&functionId=Deepbone_header_searchResultOpen) Long, 1983
 > Givetian, Middle Devonian, 387.7, 382.7
 > - the Howqua River and Bindaree Road of Mt Howitt, Victoria, Australia; Avon River Group, the Freestone Creek of the Mt Kent Conglomerate, Victoria, Australia
-> - [Long,1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146)
+> - [Long, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146)
 
 [*Bothriolepis dairbhrensis*](https://deepbone.org/public/#/explor?s_id=168132&functionId=Deepbone_header_searchResultOpen) Dupret *et al.*, 2023
 > Givetian, Middle Devonian, 387.7, 382.7
@@ -99,33 +99,43 @@
 [*Bothriolepis evaldi*](https://deepbone.cn/public/#/explor?s_id=3484&functionId=Deepbone_header_searchResultOpen) Lyarskaja, 1986
 > Middle Frasnian, Upper Devonian, 382.7, 372.2
 > - Ogre Formation, Kalnamuiža-1 (number 5 in Fig. 1) is cliff at the left bank of Amula River downstream from water-mill Kalnamuiža; the right bank of Kaibala River 200 m from estuary, Latvia
-> - [Lyarskaja, 1986]; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - Lyarskaja, 1986; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Bothriolepis fergusoni*](https://deepbone.cn/public/#/explor?s_id=3521&functionId=Deepbone_header_searchResultOpen) Long, 1983
 > Givetian, Middle Devonian, 387.7, 382.7
 > - Mt Howitt Formation, Mt. Howitt, Victoria, Australia
-> - Long (1983)
+> - [Long, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146)
 
-19. *B. gigantea* Traquair 1888
-> Traquair (1888), Becker *et al.* (2012)
+[*Bothriolepis gigantea*](https://deepbone.cn/public/#/explor?s_id=3531&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Alves Beds, Carden Hill quarry, rock outcrops on Carden Hill, railway cutting at Carden Moor, Cloves, Earnside, Mill stone quarry, Newton quarry, quarry near Crook of Alves (Carswell quarry?), Rocky Park,  Shoggle Burn and Sweethillock, Elgin district, Scotland
+> - Traquair, 1888; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
-20. *B. gippslandiensis* Hills 1929
-> Hills (1929), Young & Gorter (1981)
+[*Bothriolepis gippslandiensis*](https://deepbone.cn/public/#/explor?s_id=3519&functionId=Deepbone_header_searchResultOpen) Hills, 1929
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Blue Range Formation, Blue Hills, near Taggerty, Mt. Howitt, Victoria, Australia
+> Hills, 1929; [Long, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146)
 
-21. *B. grenfellensis* Johanson 1997
-> Johanson (1997a)
+[*Bothriolepis grenfellensis*](https://deepbone.cn/public/#/explor?s_id=3491&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Redcliff Mountain, 20 km NE of Grenfell, New South Wales, Australia
+> - [Johanson,1997a](https://www.tandfonline.com/doi/abs/10.1080/03115519708619173)
 
-22. *B. groenlandica* Heintz 1930
-> Heintz (1930), Blom *et al.* (2007)
+[*Bothriolepis groenlandica*](https://deepbone.cn/public/#/explor?s_id=82750&functionId=Deepbone_header_searchResultOpen) Heintz, 1930
+> Famennian, Upper Devonian, 372.2, 358.9
+> - East Greenland
+> Heintz, 1930; Denison, 1978
 
-23. *B. hayi* Miles 1968
-> Miles (1968)
+[*Bothriolepis hayi*](https://deepbone.cn/public/#/explor?s_id=3540&functionId=Deepbone_header_searchResultOpen) Miles, 1968
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Oxendean beds, Oxendean, Berwickshire, Scotland
+> - [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
 24. *B. hicklingi* Miles 1968
-> Miles (1968), Browne *et al.* (2002)
+> [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709); Browne *et al.* (2002)
 
 25. *B. hydrophila* Agassiz 1844
-> Agassiz (1844), Miles (1968)
+> Agassiz (1844), [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
 26. *B. jani* Lukševičs 1986
 > Lukševičs (1986)
@@ -156,7 +166,7 @@
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
 33. *B. laverocklochensis* Miles 1968
-> Miles (1968)
+> [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
 34. *B. leptocheira* Traquair 1892
 > Traquair (1892), Lukševičs (2001), Lukševičs *et al.* ( 2017)
@@ -270,7 +280,7 @@
 > Moloshnikov (2003) 
 
 64. *B. stevensoni* Miles 1968
-> Miles (1968)
+> [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
@@ -283,7 +293,7 @@
 > Long & Werdelin (1986)
 
 67. *B. taylori* Miles 1968
-> Miles (1968)
+> [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
 68. *B. traquairi*  Bryant 1924
 > Bryant (1924), Denison (1978)
@@ -315,7 +325,7 @@
 > - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
 75. *B. wilsoni* Miles 1968
-> Miles (1968), Browne *et al.* (2002)
+> [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709), Browne *et al.* (2002)
 
 76. *B. yeungae* Johanson 1998
 > Johanson (1998)
