@@ -96,11 +96,15 @@
 > - upper reaches of the Dora-Kara-Sug Rive, Kokhai Formation,Frasnian beds of central Tuva
 > - [Moloshnikov, 2009](https://link.springer.com/article/10.1134/S0031030109050128); [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
 
-17. *B. evaldi* Lyarskaja 1986
-> Lyarskaja (1986), Lukševičs (2001)
+[*Bothriolepis evaldi*](https://deepbone.cn/public/#/explor?s_id=3484&functionId=Deepbone_header_searchResultOpen) Lyarskaja, 1986
+> Middle Frasnian, Upper Devonian, 382.7, 372.2
+> - Ogre Formation, Kalnamuiža-1 (number 5 in Fig. 1) is cliff at the left bank of Amula River downstream from water-mill Kalnamuiža; the right bank of Kaibala River 200 m from estuary, Latvia
+> - [Lyarskaja, 1986]; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
-18. *B. fergusoni* Long 1983
-> Long (1983)
+[*Bothriolepis fergusoni*](https://deepbone.cn/public/#/explor?s_id=3521&functionId=Deepbone_header_searchResultOpen) Long, 1983
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Mt Howitt Formation, Mt. Howitt, Victoria, Australia
+> - Long (1983)
 
 19. *B. gigantea* Traquair 1888
 > Traquair (1888), Becker *et al.* (2012)
