@@ -129,12 +129,12 @@
 [*Bothriolepis hayi*](https://deepbone.cn/public/#/explor?s_id=3540&functionId=Deepbone_header_searchResultOpen) Miles, 1968
 > Frasnian, Upper Devonian, 382.7, 372.2
 > - Oxendean beds, Oxendean, Berwickshire, Scotland
-> - Denison, 1978; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
+> - [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709); Denison, 1978
 
 [*Bothriolepis hicklingi*](https://www.deepbone.org/public/#/explor?s_id=3542&functionId=Deepbone_header_searchResultOpen) Miles, 1968
 > Famennian, Upper Devonian, 372.2, 358.9
 > - Rosebrae, Rosebrae beds, Upper Old Red Sandstone, the Berwickshire coast (Greenheugh, Siccar Point, Redheugh), Scotland
-> - Denison, 1978; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709); 
+> - [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709); Denison, 1978
 
 [*Bothriolepis hydrophila*](https://www.deepbone.org/public/#/explor?s_id=3537&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
 > Famennian, Upper Devonian, 372.2, 358.9
@@ -143,22 +143,28 @@
 
 [*Bothriolepis jani*](https://www.deepbone.org/public/#/explor?s_id=3485&functionId=Deepbone_header_searchResultOpen) Lukševičs, 1986
 > Famennian, Upper Devonian, 372.2, 358.9
->- Tērvete Formation, at the right bank of Skujaine River down Klūnas village, Latvia; Mūri Formation, at the right bank of Svēte River near Ķurbes hamlet, Latvia 
+> - Tērvete Formation, at the right bank of Skujaine River down Klūnas village, Latvia; Mūri Formation, at the right bank of Svēte River near Ķurbes hamlet, Latvia 
 > - Lukševičs, 1986; [Lukševičs,2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
-[*Bothriolepis jarviki*] Stensiö 1948
-> Stensiö (1948), Blom *et al.* (2007)
+[*Bothriolepis jarviki*](https://www.deepbone.org/public/#/explor?s_id=82751&functionId=Deepbone_header_searchResultOpen) Stensiö, 1948
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Udkiggen Formation, Kap Graah Group,  East Greenland
+> - Stensiö, 1948; Denison, 1978; [Blom *et al.*, 2007](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A40549&dswid=3807)
 
-[*Bothriolepis jazwicensis*] Szrek 2004
-> Szrek (2004)
+[*Bothriolepis jazwicensis*](https://www.deepbone.org/public/#/explor?s_id=3474&functionId=Deepbone_header_searchResultOpen) Szrek, 2004
+> lower Famennian, Upper Devonian, 372.2
+> - Udkiggen Formation, Jazwica Quarry on the Lgawa Hill, 4 km NE of Checiny, near Kielce, Holy Cross Mountains, south-central Poland
+> - [Szrek, 2004](https://geojournals.pgi.gov.pl/agp/article/view/10321)
 
-[*Bothriolepis karawaka*] Young 1988
+[*Bothriolepis karawaka*](https://www.deepbone.org/public/#/explor?s_id=3505&functionId=Deepbone_header_searchResultOpen) Young, 1988
 > Givetian, Middle Devonian, 387.7, 382.7
 > - Aztec, Aztec siltstone, Antarctica
 > - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
-[*Bothriolepis kassini*] Malinovskaya 1988
-> Malinovskaya (1988, 1992), Moloshnikov (2010a)
+[*Bothriolepis kassini*](https://www.deepbone.org/public/#/explor?s_id=2106&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1988
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Sofa Formation, Shatskaya Group, right bank of the Shiderty River, Central Kazakhstan
+> - Malinovskaya (1988, 1992); [Moloshnikov, 2010](https://link.springer.com/article/10.1134/S0031030111030099); [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
 
 [*Bothriolepis kohni*] Young 1988
 > Givetian, Middle Devonian, 387.7, 382.7
@@ -166,19 +172,23 @@
 > - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
 
-[*Bothriolepis kwangtungensis*] P'an 1964
-> P'an (1964)
+[*Bothriolepis kwangtungensis*](https://www.deepbone.org/public/#/explor?s_id=3528&functionId=Deepbone_header_searchResultOpen) P'an, 1964
+> Eifelian, Middle Devonian, 393.3, 387.7
+> - Dahepo, Lechang, Guangdong
+> - P'an, 1964; Denison, 1978
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-[*Bothriolepis laverocklochensis*] Miles 1968
+[*Bothriolepis laverocklochensis*] Miles, 1968
 > [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
 [*Bothriolepis leptocheira*] Traquair 1892
 > Traquair (1892), Lukševičs (2001), Lukševičs *et al.* ( 2017)
 
-[*Bothriolepis lochangensis*] P'an 1964
-> P'an (1964)
+[*Bothriolepis lochangensis*](https://www.deepbone.org/public/#/explor?s_id=3529&functionId=Deepbone_header_searchResultOpen) P'an, 1964
+> Eifelian, Middle Devonian, 393.3, 387.7
+> - Dahepo, Lechang, Guangdong
+> - P'an, 1964; Denison, 1978
 
 [*Bothriolepis lohesti*] Leriche 1931
 > Leriche (1931), Olive (2015)
