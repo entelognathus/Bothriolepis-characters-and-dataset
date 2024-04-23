@@ -124,213 +124,219 @@
 [*Bothriolepis groenlandica*](https://deepbone.cn/public/#/explor?s_id=82750&functionId=Deepbone_header_searchResultOpen) Heintz, 1930
 > Famennian, Upper Devonian, 372.2, 358.9
 > - East Greenland
-> Heintz, 1930; Denison, 1978
+> Denison, 1978; Heintz, 1930
 
 [*Bothriolepis hayi*](https://deepbone.cn/public/#/explor?s_id=3540&functionId=Deepbone_header_searchResultOpen) Miles, 1968
 > Frasnian, Upper Devonian, 382.7, 372.2
 > - Oxendean beds, Oxendean, Berwickshire, Scotland
-> - [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
+> - Denison, 1978; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
-24. *B. hicklingi* Miles 1968
-> [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709); Browne *et al.* (2002)
+[*Bothriolepis hicklingi*](https://www.deepbone.org/public/#/explor?s_id=3542&functionId=Deepbone_header_searchResultOpen) Miles, 1968
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Rosebrae, Rosebrae beds, Upper Old Red Sandstone, the Berwickshire coast (Greenheugh, Siccar Point, Redheugh), Scotland
+> - Denison, 1978; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709); 
 
-25. *B. hydrophila* Agassiz 1844
-> Agassiz (1844), [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
+[*Bothriolepis hydrophila*](https://www.deepbone.org/public/#/explor?s_id=3537&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Holoptychius beds, Upper Old Red Sandstone, Dura Den, Scotland
+> - Agassiz, 1844; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
-26. *B. jani* Lukševičs 1986
-> Lukševičs (1986)
+[*Bothriolepis jani*](https://www.deepbone.org/public/#/explor?s_id=3485&functionId=Deepbone_header_searchResultOpen) Lukševičs, 1986
+> Famennian, Upper Devonian, 372.2, 358.9
+>- Tērvete Formation, at the right bank of Skujaine River down Klūnas village, Latvia; Mūri Formation, at the right bank of Svēte River near Ķurbes hamlet, Latvia 
+> - Lukševičs, 1986; [Lukševičs,2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
-27. *B. jarviki* Stensiö 1948
+[*Bothriolepis jarviki*] Stensiö 1948
 > Stensiö (1948), Blom *et al.* (2007)
 
-28. *B. jazwicensis* Szrek 2004
+[*Bothriolepis jazwicensis*] Szrek 2004
 > Szrek (2004)
 
-29. *B. karawaka* Young 1988
+[*Bothriolepis karawaka*] Young 1988
 > Givetian, Middle Devonian, 387.7, 382.7
 > - Aztec, Aztec siltstone, Antarctica
 > - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
-30. *B. kassini* Malinovskaya 1988
+[*Bothriolepis kassini*] Malinovskaya 1988
 > Malinovskaya (1988, 1992), Moloshnikov (2010a)
 
-31. *B. kohni* Young 1988
+[*Bothriolepis kohni*] Young 1988
 > Givetian, Middle Devonian, 387.7, 382.7
 > - Aztec, Aztec siltstone, Antarctica
 > - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
 
-32. *B. kwangtungensis* P'an 1964
+[*Bothriolepis kwangtungensis*] P'an 1964
 > P'an (1964)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-33. *B. laverocklochensis* Miles 1968
+[*Bothriolepis laverocklochensis*] Miles 1968
 > [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
-34. *B. leptocheira* Traquair 1892
+[*Bothriolepis leptocheira*] Traquair 1892
 > Traquair (1892), Lukševičs (2001), Lukševičs *et al.* ( 2017)
 
-35. *B. lochangensis* P'an 1964
+[*Bothriolepis lochangensis*] P'an 1964
 > P'an (1964)
 
-36. *B. lohesti* Leriche 1931
+[*Bothriolepis lohesti*] Leriche 1931
 > Leriche (1931), Olive (2015)
 
-37. *B. longi* Johanson & Young 1999
+[*Bothriolepis longi*] Johanson & Young 1999
 > Johanson & Young (1999)
 
-38. *B. macphersoni* Young 1988
+[*Bothriolepis macphersoni*] Young 1988
 > Givetian, Middle Devonian, 387.7, 382.7
 > - Aztec, Aztec siltstone, Antarctica
 > - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
-39. *B. macrocephala* Egerton 1862
+[*Bothriolepis macrocephala*] Egerton 1862
 > Egerton (1862)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-40. *B. maeandrina* Hoffman 1911
+[*Bothriolepis maeandrina*] Hoffman 1911
 > Hoffman (1911) and Denison (1978) only described few specimens with sinuous ridges. No further studies about *B. maeandrina* can be consulted and its character codings remain extremely inadequate. Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-41. *B. major* Agassiz 1844
+[*Bothriolepis major*] Agassiz 1844
 > Agassiz (1844-45) described two specimens from Scotland as *Pterichthys major*, which were reassigned to *B. major* by Stensiö (1948), and Miles (1968). Many specimens of *Bothriolepis* in different sites of Scotland were referred to as *B. major*, but most of them can be hardly classified into *B. major* based on Agassiz’s description. But the only source cited by Miles (1968) is a syntype figure from Agassiz. Our dataset does not contain *B. major* because there is no solid diagnosis of *B. major*. Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-42. *B. markovskii* Moloshnikov 2010
+[*Bothriolepis markovskii*] Moloshnikov 2010
 > Moloshnikov (2010b, 2012)
 
-43. *B. mawsoni* Young 1988
+[*Bothriolepis mawsoni*] Young 1988
 > Givetian, Middle Devonian, 387.7, 382.7
 > - Aztec, Aztec siltstone, Antarctica
 > - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
 
-44. *B. maxima* Gross 1933
+[*Bothriolepis maxima*] Gross 1933
 > Gross (1933), Lukševičs (2001)
 
-45. *B. nielseni* Stensiö 1948
+[*Bothriolepis nielseni*] Stensiö 1948
 > Stensiö (1948)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-46. *B. nikitinae* Malinovskaya 1988
+[*Bothriolepis nikitinae*] Malinovskaya 1988
 > Malinovskaya (1988), Moloshnikov (2012)
 
-47. *B. nitida* Leidy 1856
+[*Bothriolepis nitida*] Leidy 1856
 > Leidy (1856), Young (1988), Thomson & Thomas (2001)
 
-48. *B. niushoushanensis*  P'an *et al.* 1980
+[*Bothriolepis niushoushanensis*]  P'an *et al.* 1980
 > P'an *et al.* (1980), Pan *et al*. (1987)
 
-49. *B. obesa* Traquair 1888
+[*Bothriolepis obesa*] Traquair 1888
 > Traquair (1888), Denison (1978)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-50. *B. obrutschewi* Gross 1942
+[*Bothriolepis obrutschewi*] Gross 1942
 > Gross (1942), Lukševičs (2001)
 
-51. *B. ornata* Eichwald 1840
+[*Bothriolepis ornata*] Eichwald 1840
 > Eichwald (1840), Lukševičs (1996, 2001)
 
 > Type species of *Bothriolepis*.
 
-52. *B. panderi* Lahusen 1880
+[*Bothriolepis panderi*] Lahusen 1880
 > Lahusen (1880), Lukševičs (2001)
 
-53. *B. paradoxa* Agassiz 1845
+[*Bothriolepis paradoxa*] Agassiz 1845
 > Agassiz (1845); Trewin (2002) 
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-54. *B. pavariensis* Lyarskaja & Savvaitova 1974
+[*Bothriolepis pavariensis*] Lyarskaja & Savvaitova 1974
 > Lyarskaja & Savvaitova (1974)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-55. *B. perija* Young & Moody (2002)
+[*Bothriolepis perija*] Young & Moody (2002)
 > Young & Moody (2002)
 
-56. *B. portalensis* Young 1988
+[*Bothriolepis portalensis*] Young 1988
 > Young (1988)
 
-57. *B. prima* Gross 1942
+[*Bothriolepis prima*] Gross 1942
 > Gross (1942), Lukševičs (2001)
 
-58. *B. rex* Downs *et al.* 2016
+[*Bothriolepis rex*] Downs *et al.* 2016
 > Downs *et al.* (2016)
 
-59. *B. sanzarensis* Moloshnikov 2010
+[*Bothriolepis sanzarensis*] Moloshnikov 2010
 > Moloshnikov (2010c; 2012)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-60. *B. shaokuanensis* Chang 1963
+[*Bothriolepis shaokuanensis*] Chang 1963
 > Chang (1963)
 
-61. *B. siberica* Obruchev 1941
+[*Bothriolepis siberica*] Obruchev 1941
 > Obruchev (1941), Moloshnikov (2012)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-62. *B. sinensis* Chi 1940
+[*Bothriolepis sinensis*] Chi 1940
 > Chi (1940), Lu (1988), Luo *et al*. (2023) 
 
-63. *B. sosnensis* Moloshnikov 2003
+[*Bothriolepis sosnensis*] Moloshnikov 2003
 > Moloshnikov (2003) 
 
-64. *B. stevensoni* Miles 1968
+[*Bothriolepis stevensoni*] Miles 1968
 > [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-65. *B. tastenica* Malinovskaya 1988
+[*Bothriolepis tastenica*] Malinovskaya 1988
 > Malinovskaya (1988), Moloshnikov (2011)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-66. *B. tatongensis* Long & Werdelin 1986
+[*Bothriolepis tatongensis*] Long & Werdelin 1986
 > Long & Werdelin (1986)
 
-67. *B. taylori* Miles 1968
+[*Bothriolepis taylori*] Miles 1968
 > [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
-68. *B. traquairi*  Bryant 1924
+[*Bothriolepis traquairi*]  Bryant 1924
 > Bryant (1924), Denison (1978)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-69. *B. traudscholdi* Jaekel 1927
+[*Bothriolepis traudscholdi*] Jaekel 1927
 > Jaekel (1927), Lukševičs (2001)
 
-70. *B. tungseni* Chang 1965
+[*Bothriolepis tungseni*] Chang 1965
 > Chang (1965)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-71. *B. turanica* Obruchev 1939
+[*Bothriolepis turanica*] Obruchev 1939
 > Obruchev (1939), Moloshnikov (2012)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-72. *B. virginiensis* Weems *et al.* 1981
+[*Bothriolepis virginiensis*] Weems *et al.* 1981
 > Weems *et al.* (1981), Thomson & Thomas (2001), Weems (2004)
 
-73. *B. volongensis* Lukševičs & Sorokin 1999
+[*Bothriolepis volongensis*] Lukševičs & Sorokin 1999
 > Lukševičs & Sorokin (1999)
 
-74. *B. vuwae* Young 1988
+[*Bothriolepis vuwae*] Young 1988
 > Givetian, Middle Devonian, 387.7, 382.7
 > - Aztec, Aztec siltstone, Antarctica
 > - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
-75. *B. wilsoni* Miles 1968
+[*Bothriolepis wilsoni*] Miles 1968
 > [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709), Browne *et al.* (2002)
 
-76. *B. yeungae* Johanson 1998
+[*Bothriolepis yeungae*] Johanson 1998
 > Johanson (1998)
 
-77. *B. yunnanensis* Liu 1962
+[*Bothriolepis yunnanensis*] Liu 1962
 > Liu (1962) 
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
