@@ -67,7 +67,6 @@
 [*Bothriolepis cellulosa*](https://deepbone.org/public/#/explor?s_id=3480&functionId=Deepbone_header_searchResultOpen) Pander (in Keyserling), 1846
 > Frasnian, Upper Devonian, 382.7, 372.2
 > - 2km east-northeast of the mouth of the Tuim River, western shore of southern part, LakeBele, Khakasia;  Snetnaya Gora and Pskov Beds, the right bank of Velikaya River in Pskov near Piskovichi, Russia;  the right bank of Pērse River (right tributary of Daugava River) near Koknese (Kokenhusen); Snetnaya Gora, Sēlija and Atzele Members of the Pļaviņas Formation, Pastamuiža on Daugava River, Latvia; Lower Ust’ Yarega Formation, Pizhma River of the Middle Timan
-> - **check Baltic States; Timan and Tuva Depression (Denison, 1978; Lukševičs, 2001)**. Note: for the locality, small name in front of large name.
 > - Pander (in Keyserling), 1846; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Bothriolepis ciecere*](https://deepbone.org/public/#/explor?s_id=3465&functionId=Deepbone_header_searchResultOpen) Lyarskaja (in Lyarskaja & Savvaitova), 1974
@@ -166,7 +165,7 @@
 > - Sofa Formation, Shatskaya Group, right bank of the Shiderty River, Central Kazakhstan
 > - Malinovskaya (1988, 1992); [Moloshnikov, 2010](https://link.springer.com/article/10.1134/S0031030111030099); [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
 
-[*Bothriolepis kohni*] Young 1988
+[*Bothriolepis kohni*] Young, 1988
 > Givetian, Middle Devonian, 387.7, 382.7
 > - Aztec, Aztec siltstone, Antarctica
 > - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
@@ -179,19 +178,26 @@
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-[*Bothriolepis laverocklochensis*] Miles, 1968
-> [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
+[*Bothriolepis laverocklochensis*](https://www.deepbone.org/public/#/explor?s_id=3535&functionId=Deepbone_header_searchResultOpen) Miles, 1968
+> Eifelian, Middle Devonian, 393.3, 387.7
+> - Rosebrae Beds, Aztec, Aztec siltstone, Laverockloch quarry, Antarctica
+> - [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709); Denison, 1978
 
-[*Bothriolepis leptocheira*] Traquair 1892
-> Traquair (1892), Lukševičs (2001), Lukševičs *et al.* ( 2017)
+[*Bothriolepis leptocheira*](https://www.deepbone.org/public/#/explor?s_id=1525&functionId=Deepbone_header_searchResultOpen) Traquair, 1893
+> Eifelian, Middle Devonian, 393.3, 387.7
+> - Aztec, Aztec siltstone, Bracken Bay, Ayrshire (Heads of Ayr), Scotland, Antarctica; the right bank of Imula River near
+Bienes hamlet, western Latvia; Amula Formation and Eleja Formation at the right bank of Amula River 1 km upsteam from water-mill Kalnamuiža; Malyutka Formation of Severnaya Zemlya, outcrops along Matusevich River
+> - Traquair, 1892; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709); Denison, 1978; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne); [Lukševičs, 1999a](https://geojournals.pgi.gov.pl/agp/article/view/10329); [Lukševičs *et al.*, 2017](https://www.app.pan.pl/archive/published/app62/app002652016.pdf)
 
 [*Bothriolepis lochangensis*](https://www.deepbone.org/public/#/explor?s_id=3529&functionId=Deepbone_header_searchResultOpen) P'an, 1964
 > Eifelian, Middle Devonian, 393.3, 387.7
 > - Dahepo, Lechang, Guangdong
 > - P'an, 1964; Denison, 1978
 
-[*Bothriolepis lohesti*] Leriche 1931
-> Leriche (1931), Olive (2015)
+[*Bothriolepis lohesti*](https://www.deepbone.org/public/#/explor?s_id=3442&functionId=Deepbone_header_searchResultOpen) Leriche, 1931
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Montfort/Evieux Formation, Chèvremont, Liège Province, Belgium
+> - Leriche, 1931; [Olive, 2015](https://bioone.org/journals/acta-palaeontologica-polonica/volume-60/issue-3/app.00015.2013/Devonian-Antiarch-Placoderms-from-Belgium-Revisited/10.4202/app.00015.2013.full)
 
 [*Bothriolepis longi*] Johanson & Young 1999
 > Johanson & Young (1999)
