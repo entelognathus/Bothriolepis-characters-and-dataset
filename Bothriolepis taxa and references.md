@@ -199,29 +199,43 @@ Bienes hamlet, western Latvia; Amula Formation and Eleja Formation at the right 
 > - Montfort/Evieux Formation, Chèvremont, Liège Province, Belgium
 > - Leriche, 1931; [Olive, 2015](https://bioone.org/journals/acta-palaeontologica-polonica/volume-60/issue-3/app.00015.2013/Devonian-Antiarch-Placoderms-from-Belgium-Revisited/10.4202/app.00015.2013.full)
 
-[*Bothriolepis longi*] Johanson & Young 1999
-> Johanson & Young (1999)
+[*Bothriolepis longi*](https://www.deepbone.org/public/#/explor?s_id=3487&functionId=Deepbone_header_searchResultOpen) Johanson and Young, 1999
+> Givetian or Frasnian, Middle or Upper Devonian, 387.7, 382.7 or 382.7, 372.2
+> - Northern tributary of Nettleton's Creek, northeast of Mongarlowe, east of Braidwood, New South Wales
+> - [Johanson and Young, 1999](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1234/reference_id_1234_20200101134111353.pdf)
 
-[*Bothriolepis macphersoni*] Young 1988
+[*Bothriolepis macphersoni*](https://www.deepbone.org/public/#/explor?s_id=3506&functionId=Deepbone_header_searchResultOpen) Young, 1988
 > Givetian, Middle Devonian, 387.7, 382.7
 > - Aztec, Aztec siltstone, Antarctica
 > - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
-[*Bothriolepis macrocephala*] Egerton 1862
-> Egerton (1862)
+[*Bothriolepis macrocephala*](https://www.deepbone.org/public/#/explor?s_id=154114&functionId=Deepbone_header_searchResultOpen) Egerton, 1862
+> Upper Devonian, 382.7, 385.9
+> - Upper Old Red Sandstone, England
+> - Egerton, 1862; Denison, 1978
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-[*Bothriolepis maeandrina*] Hoffman 1911
+[*Bothriolepis maeandrina*](https://www.deepbone.org/public/#/explor?s_id=154119&functionId=Deepbone_header_searchResultOpen) Hoffman, 1911
+> Upper Devonian, 382.7, 385.9
+> - Upper Old Red Sandstone, England
+> - Hoffman, 1911; Denison, 1978
+
 > Hoffman (1911) and Denison (1978) only described few specimens with sinuous ridges. No further studies about *B. maeandrina* can be consulted and its character codings remain extremely inadequate. Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-[*Bothriolepis major*] Agassiz 1844
+[*Bothriolepis major*](https://www.deepbone.org/public/#/explor?s_id=3530&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
+> Upper Devonian, 382.7, 385.9
+> -  Edenkillie Beds, Whitemire; the bank of the R. Findhorn
+> - Agassiz, 1844; Stensiö, 1948; Traquair, 1983;1985; Denison, 1978; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
+
 > Agassiz (1844-45) described two specimens from Scotland as *Pterichthys major*, which were reassigned to *B. major* by Stensiö (1948), and Miles (1968). Many specimens of *Bothriolepis* in different sites of Scotland were referred to as *B. major*, but most of them can be hardly classified into *B. major* based on Agassiz’s description. But the only source cited by Miles (1968) is a syntype figure from Agassiz. Our dataset does not contain *B. major* because there is no solid diagnosis of *B. major*. Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-[*Bothriolepis markovskii*] Moloshnikov 2010
-> Moloshnikov (2010b, 2012)
+[*Bothriolepis markovskii*](https://www.deepbone.org/public/#/explor?s_id=2115&functionId=Deepbone_header_searchResultOpen) Moloshnikov, 2010
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Orlovka Formation, village of Serpievka, Sim River Basin, Ivan-Katavskii District, Chelyabinsk Region, southern Ural Mountains, Russia
+> [Moloshnikov,2010b](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/251190254_On_high-armor_bothriolepidid_placoderms_Pisces_Placodermi_Bothriolepididae_from_the_Upper_Devonian_of_the_southern_Ural_Mountains_and_Kuznetsk_Coal_Basin/links/55181f4d0cf2f7d80a3dc064/On-high-armor-bothriolepidid-placoderms-Pisces-Placodermi-Bothriolepididae-from-the-Upper-Devonian-of-the-southern-Ural-Mountains-and-Kuznetsk-Coal-Basin.pdf) [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
 
-[*Bothriolepis mawsoni*] Young 1988
+[*Bothriolepis mawsoni*](https://www.deepbone.org/public/#/explor?s_id=3507&functionId=Deepbone_header_searchResultOpen) Young 1988
 > Givetian, Middle Devonian, 387.7, 382.7
 > - Aztec, Aztec siltstone, Antarctica
 > - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
