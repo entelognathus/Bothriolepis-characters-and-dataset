@@ -235,28 +235,38 @@ Bienes hamlet, western Latvia; Amula Formation and Eleja Formation at the right 
 > - Orlovka Formation, village of Serpievka, Sim River Basin, Ivan-Katavskii District, Chelyabinsk Region, southern Ural Mountains, Russia
 > [Moloshnikov,2010b](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/251190254_On_high-armor_bothriolepidid_placoderms_Pisces_Placodermi_Bothriolepididae_from_the_Upper_Devonian_of_the_southern_Ural_Mountains_and_Kuznetsk_Coal_Basin/links/55181f4d0cf2f7d80a3dc064/On-high-armor-bothriolepidid-placoderms-Pisces-Placodermi-Bothriolepididae-from-the-Upper-Devonian-of-the-southern-Ural-Mountains-and-Kuznetsk-Coal-Basin.pdf) [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
 
-[*Bothriolepis mawsoni*](https://www.deepbone.org/public/#/explor?s_id=3507&functionId=Deepbone_header_searchResultOpen) Young 1988
+[*Bothriolepis mawsoni*](https://www.deepbone.org/public/#/explor?s_id=3507&functionId=Deepbone_header_searchResultOpen) Young, 1988
 > Givetian, Middle Devonian, 387.7, 382.7
 > - Aztec, Aztec siltstone, Antarctica
 > - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
 
-[*Bothriolepis maxima*] Gross 1933
-> Gross (1933), Lukševičs (2001)
+[*Bothriolepis maxima*](https://www.deepbone.org/public/#/explor?s_id=3483&functionId=Deepbone_header_searchResultOpen) Gross, 1933
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Katlesi Formation, Kuprava quarry, Latvia
+> - Gross, 1933; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
-[*Bothriolepis nielseni*] Stensiö 1948
-> Stensiö (1948)
+[*Bothriolepis nielseni*](https://www.deepbone.org/public/#/explor?s_id=4520&functionId=Deepbone_header_searchResultOpen) Stensiö, 1948
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Aina Dal Formation, Celsius Bjerg Group, Aina Dal, East Greenland
+> - Stensiö, 1948; Denison, 1978
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-[*Bothriolepis nikitinae*] Malinovskaya 1988
-> Malinovskaya (1988), Moloshnikov (2012)
+[*Bothriolepis nikitinae*](https://www.deepbone.org/public/#/explor?s_id=3456&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1988
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Sofa Formation, right bank of the Shiderti River, 75 km northeast of the village of Molodezhnyi, Krasnyi Pakhar, entral Kazakhstan
+> - Malinovskaya, 1988; [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
 
-[*Bothriolepis nitida*] Leidy 1856
-> Leidy (1856), Young (1988), Thomson & Thomas (2001)
+[*Bothriolepis nitida*](https://www.deepbone.org/public/#/explor?s_id=3469&functionId=Deepbone_header_searchResultOpen) Leidy, 1856
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Catskill Formation, Blossburg, Tioga county, Pennsylvania
+> - Leidy, 1856, Denison, 1978; [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305); [Thomson and Thomas,2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0679%3AOTSOSO%5D2.0.CO%3B2)
 
-[*Bothriolepis niushoushanensis*]  P'an *et al.* 1980
-> P'an *et al.* (1980), Pan *et al*. (1987)
+[*Bothriolepis niushoushanensis*](https://www.deepbone.org/public/#/explor?s_id=3511&functionId=Deepbone_header_searchResultOpen)  P'an *et al.*, 1980
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Shixiagou Formation, Shixia Gully, Niusou Mountain, Zhongning County, Ningxia, China
+> P'an *et al.*, 1980; Pan *et al*, 1987
 
 [*Bothriolepis obesa*] Traquair 1888
 > Traquair (1888), Denison (1978)
