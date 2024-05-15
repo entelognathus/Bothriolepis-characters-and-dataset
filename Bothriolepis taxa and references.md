@@ -264,20 +264,26 @@ Bienes hamlet, western Latvia; Amula Formation and Eleja Formation at the right 
 > - Leidy, 1856, Denison, 1978; [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305); [Thomson and Thomas,2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0679%3AOTSOSO%5D2.0.CO%3B2)
 
 [*Bothriolepis niushoushanensis*](https://www.deepbone.org/public/#/explor?s_id=3511&functionId=Deepbone_header_searchResultOpen)  P'an *et al.*, 1980
-> Givetian, Middle Devonian, 387.7, 382.7
+> Eifelian, Middle Devonian, 393.3, 387.7
 > - Shixiagou Formation, Shixia Gully, Niusou Mountain, Zhongning County, Ningxia, China
 > P'an *et al.*, 1980; Pan *et al*, 1987
 
-[*Bothriolepis obesa*] Traquair 1888
-> Traquair (1888), Denison (1978)
+[*Bothriolepis obesa*](https://www.deepbone.org/public/#/explor?s_id=3538&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Jedburgh Formation, Rule Water, Jedburgh district, Scotland
+> - Traquair, 1888; Denison; 1978; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-[*Bothriolepis obrutschewi*] Gross 1942
-> Gross (1942), Lukševičs (2001)
+[*Bothriolepis obrutschewi*](https://www.deepbone.org/public/#/explor?s_id=3479&functionId=Deepbone_header_searchResultOpen) Gross, 1942
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Amata Formation, Daugava River near Pastamuiza, Latvia
+> - Gross, 1942; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
-[*Bothriolepis ornata*] Eichwald 1840
-> Eichwald (1840), Lukševičs (1996, 2001)
+[*Bothriolepis ornata*](https://www.deepbone.org/public/#/explor?s_id=1392&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Tervete Formation, Tervete, Skujaine river, Latvia
+> - Eichwald, 1840, Denison; 1978; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 > Type species of *Bothriolepis*.
 
