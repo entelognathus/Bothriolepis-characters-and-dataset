@@ -331,7 +331,7 @@ and Mshanka Rivers in Novgorod region
 [*Bothriolepis sanzarensis*](https://www.deepbone.org/public/#/explor?s_id=3460&functionId=Deepbone_header_searchResultOpen) Moloshnikov, 2010
 > Frasnian, Upper Devonian, 382.7, 372.2
 > - the western marginal area of the Turkestan Mountain Ridge, Samarkand Region, Uzbekistan
-> - Moloshnikov,2010c](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/249529238_A_new_find_of_the_placoderm_genus_Bothriolepis_Eichwald_in_the_Upper_Devonian_of_Uzbekistan/links/54e6d66f0cf2cd2e02909c6b/A-new-find-of-the-placoderm-genus-Bothriolepis-Eichwald-in-the-Upper-Devonian-of-Uzbekistan.pdf); [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
+> - [Moloshnikov,2010c](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/249529238_A_new_find_of_the_placoderm_genus_Bothriolepis_Eichwald_in_the_Upper_Devonian_of_Uzbekistan/links/54e6d66f0cf2cd2e02909c6b/A-new-find-of-the-placoderm-genus-Bothriolepis-Eichwald-in-the-Upper-Devonian-of-Uzbekistan.pdf); [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 > -  the western marginal area of the Turkestan Mountain Ridge, Samarkand Region, Uzbekistan
