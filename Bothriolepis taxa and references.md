@@ -309,31 +309,46 @@ and Mshanka Rivers in Novgorod region
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
 [*Bothriolepis perija*](https://www.deepbone.org/public/#/explor?s_id=74313&functionId=Deepbone_header_searchResultOpen) Young and Moody, 2002
-> Young and Moody 2002
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Campo Chico Formation, Caño Colorado Sur, the United States
+> - [Young and Moody, 2002](https://fr.copernicus.org/articles/5/155/2002/fr-5-155-2002.pdf)
 
-[*Bothriolepis portalensis*] Young 1988
-> Young (1988)
+[*Bothriolepis portalensis*](https://www.deepbone.org/public/#/explor?s_id=3503&functionId=Deepbone_header_searchResultOpen) Young, 1988
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Aztec, Aztec siltstone, Portal Mountain, the northern Warren Range, southeastern spur of Alligator Peak, and the southern Warren Range, Antarctica
+> - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
-[*Bothriolepis prima*] Gross 1942
-> Gross (1942), Lukševičs (2001)
+[*Bothriolepis prima*](https://www.deepbone.org/public/#/explor?s_id=3478&functionId=Deepbone_header_searchResultOpen) Gross, 1942
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Amata Formation, Daugava River near Pastamuiža in the vicinity of Koknese (Kokenhusen), Latvia; Šventoji Formation, Pelyša River, Lithuania; Staritsa Beds of the Yam-Tesovo Formation, YamTesovo at Oredezh River, Leningrad region of Russia
+> - Gross, 1942; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
-[*Bothriolepis rex*] Downs *et al.* 2016
-> Downs *et al.* (2016)
+[*Bothriolepis rex*](https://www.deepbone.org/public/#/explor?s_id=3441&functionId=Deepbone_header_searchResultOpen) Downs *et al.*, 2016
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Nordstrand Point Formation, Okse Bay on southern Ellesmere Island, Nunavut, Canada
+> - [Downs *et al.*, 2016](https://www.researchgate.net/profile/Jason-Downs-3/publication/308944705_A_new_large-bodied_species_of_Bothriolepis_Antiarchi_from_the_Upper_Devonian_of_Ellesmere_Island_Nunavut_Canada/links/5a70b1aba6fdcc33daa9df1c/A-new-large-bodied-species-of-Bothriolepis-Antiarchi-from-the-Upper-Devonian-of-Ellesmere-Island-Nunavut-Canada.pdf)
 
-[*Bothriolepis sanzarensis*] Moloshnikov 2010
-> Moloshnikov (2010c; 2012)
+[*Bothriolepis sanzarensis*](https://www.deepbone.org/public/#/explor?s_id=3460&functionId=Deepbone_header_searchResultOpen) Moloshnikov, 2010
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - the western marginal area of the Turkestan Mountain Ridge, Samarkand Region, Uzbekistan
+> - Moloshnikov,2010c](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/249529238_A_new_find_of_the_placoderm_genus_Bothriolepis_Eichwald_in_the_Upper_Devonian_of_Uzbekistan/links/54e6d66f0cf2cd2e02909c6b/A-new-find-of-the-placoderm-genus-Bothriolepis-Eichwald-in-the-Upper-Devonian-of-Uzbekistan.pdf); [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
+
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+> -  the western marginal area of the Turkestan Mountain Ridge, Samarkand Region, Uzbekistan
+
+[*Bothriolepis shaokuanensis*](https://www.deepbone.org/public/#/explor?s_id=3527&functionId=Deepbone_header_searchResultOpen) Chang, 1963
+> Eifelian, Middle Devonian, 393.3, 387.7
+> - Laohutou Formation, Huanggangling and Renhua, Shaoguan, Guangdong
+> - Chang, 1963; Denison; 1978
+
+[*Bothriolepis siberica*](https://www.deepbone.org/public/#/explor?s_id=3458&functionId=Deepbone_header_searchResultOpen) Obruchev, 1941
+> Frasnian to middle Famennian, Upper Devonian, 382.7, 358.9
+> - Oidanovo (?) Formation, Lake Shira, KyzylKaya, Khakasia
+> Obruchev, 1941; Denison; 1978; [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-[*Bothriolepis shaokuanensis*] Chang 1963
-> Chang (1963)
-
-[*Bothriolepis siberica*] Obruchev 1941
-> Obruchev (1941), Moloshnikov (2012)
-
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-[*Bothriolepis sinensis*] Chi 1940
+[*Bothriolepis sinensis*](https://www.deepbone.org/public/#/explor?s_id=49&functionId=Deepbone_header_searchResultOpen) Chi, 1940
 > Chi (1940), Lu (1988), Luo *et al*. (2023) 
 
 [*Bothriolepis sosnensis*] Moloshnikov 2003
