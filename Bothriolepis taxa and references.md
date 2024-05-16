@@ -67,7 +67,7 @@
 [*Bothriolepis cellulosa*](https://deepbone.org/public/#/explor?s_id=3480&functionId=Deepbone_header_searchResultOpen) Pander (in Keyserling), 1846
 > Frasnian, Upper Devonian, 382.7, 372.2
 > - 2km east-northeast of the mouth of the Tuim River, western shore of southern part, LakeBele, Khakasia;  Snetnaya Gora and Pskov Beds, the right bank of Velikaya River in Pskov near Piskovichi, Russia;  the right bank of Pērse River (right tributary of Daugava River) near Koknese (Kokenhusen); Snetnaya Gora, Sēlija and Atzele Members of the Pļaviņas Formation, Pastamuiža on Daugava River, Latvia; Lower Ust’ Yarega Formation, Pizhma River of the Middle Timan
-> - Pander (in Keyserling), 1846; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - Pander (in Keyserling), 1846; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Bothriolepis ciecere*](https://deepbone.org/public/#/explor?s_id=3465&functionId=Deepbone_header_searchResultOpen) Lyarskaja (in Lyarskaja & Savvaitova), 1974
 > Famennian, Upper Devonian, 372.2, 358.9
@@ -98,7 +98,7 @@
 [*Bothriolepis evaldi*](https://deepbone.cn/public/#/explor?s_id=3484&functionId=Deepbone_header_searchResultOpen) Lyarskaja, 1986
 > Middle Frasnian, Upper Devonian, 382.7, 372.2
 > - Ogre Formation, Kalnamuiža-1 (number 5 in Fig. 1) is cliff at the left bank of Amula River downstream from water-mill Kalnamuiža; the right bank of Kaibala River 200 m from estuary, Latvia
-> - Lyarskaja, 1986; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - Lyarskaja, 1986; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Bothriolepis fergusoni*](https://deepbone.cn/public/#/explor?s_id=3521&functionId=Deepbone_header_searchResultOpen) Long, 1983
 > Givetian, Middle Devonian, 387.7, 382.7
@@ -143,7 +143,7 @@
 [*Bothriolepis jani*](https://www.deepbone.org/public/#/explor?s_id=3485&functionId=Deepbone_header_searchResultOpen) Lukševičs, 1986
 > Famennian, Upper Devonian, 372.2, 358.9
 > - Tērvete Formation, at the right bank of Skujaine River down Klūnas village, Latvia; Mūri Formation, at the right bank of Svēte River near Ķurbes hamlet, Latvia 
-> - Lukševičs, 1986; [Lukševičs,2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - Lukševičs, 1986; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs,2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Bothriolepis jarviki*](https://www.deepbone.org/public/#/explor?s_id=82751&functionId=Deepbone_header_searchResultOpen) Stensiö, 1948
 > Famennian, Upper Devonian, 372.2, 358.9
@@ -243,8 +243,8 @@ Bienes hamlet, western Latvia; Amula Formation and Eleja Formation at the right 
 
 [*Bothriolepis maxima*](https://www.deepbone.org/public/#/explor?s_id=3483&functionId=Deepbone_header_searchResultOpen) Gross, 1933
 > Frasnian, Upper Devonian, 382.7, 372.2
-> - Katlesi Formation, Kuprava quarry, Latvia
-> - Gross, 1933; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - Ogre Formation, Imula River not far from Lankserde hamlet and  the other outcrops at Imula River near Kalnarāji hamlet and Vītiņi hamlet, exposure and caves Velna Ala at Abava River, outcrops along Ogre River, outcrop at Mūsa River close to Ceraukste village, Latvia; Katleši Formation, the right bank of Daugava River near Lielvārde castle, exposure at the right bank of Liepna River not far from Katleši village, Kuprava quarry for mining clays and Jēkabpils quarry, Latvia; Prilovat’ Formation, Lovat’River close to Kurskoye Gorodische village and at the middle current of Lovat’ River near Luka village, Russia; Verkhnyaya Paluitsa and Nizhnyaya Paluitsa River surrounding Shugozero village, Tikhvin district of Leningrad region; Pamūšis Formation, amunelis River near Didžpanemunis and Pakalniečiai, and from borehole Stačiunai, Lithuania
+> - Gross, 1933; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Bothriolepis nielseni*](https://www.deepbone.org/public/#/explor?s_id=4520&functionId=Deepbone_header_searchResultOpen) Stensiö, 1948
 > Famennian, Upper Devonian, 372.2, 358.9
@@ -277,31 +277,39 @@ Bienes hamlet, western Latvia; Amula Formation and Eleja Formation at the right 
 
 [*Bothriolepis obrutschewi*](https://www.deepbone.org/public/#/explor?s_id=3479&functionId=Deepbone_header_searchResultOpen) Gross, 1942
 > Frasnian, Upper Devonian, 382.7, 372.2
-> - Amata Formation, Daugava River near Pastamuiza, Latvia
-> - Gross, 1942; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - Amata Formation, Daugava River near Pastamuiza and outcrop on the Pērse River near Koknese close to the type locality, exposure on the left bank of Daugava River near Zvirgzdi, Latvia; Šventoji Formation; Pelyša River; Paroveja borehole, Lithuania; Yam-Tesovo Formation, Piskovichi and YamTesovo, Russia; Uste Chirka Formation and lowermost Uste Srednyaya Beds of the Uste Yarega Formation, Middle Timan; Kumushka Formation, North Timan; Matusevich Formation, Severnaya Zemlya
+> - Gross, 1942; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Bothriolepis ornata*](https://www.deepbone.org/public/#/explor?s_id=1392&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
 > Famennian, Upper Devonian, 372.2, 358.9
-> - Tervete Formation, Tervete, Skujaine river, Latvia
-> - Eichwald, 1840, Denison; 1978; [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> -  Lnyanka Beds, Priksha River, Russia; Tērvete Formation, the right bank of Skujaine River down Klūnas
+village, Latvia; Pokayama Formation, North Timan; Msta River near Beryozovik village; Belaya, Lnyanka
+and Mshanka Rivers in Novgorod region
+> - Eichwald, 1840, Denison; 1978; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 > Type species of *Bothriolepis*.
 
-[*Bothriolepis panderi*] Lahusen 1880
-> Lahusen (1880), Lukševičs (2001)
+[*Bothriolepis panderi*](https://www.deepbone.org/public/#/explor?s_id=3481&functionId=Deepbone_header_searchResultOpen) Lahusen, 1880
+> lower Frasnian, Upper Devonian, 382.7
+> -  Snetnaya Gora Beds, Right bank of Syas’River not far from Montsevo village, Russia
+> - Lahusen, 1880; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
-[*Bothriolepis paradoxa*] Agassiz 1845
-> Agassiz (1845); Trewin (2002) 
+[*Bothriolepis paradoxa*](https://www.deepbone.org/public/#/explor?s_id=3533&functionId=Deepbone_header_searchResultOpen) Agassiz, 1845
+> Frasnian, Upper Devonian, 382.7, 372.2
+> -  Alves Formation, Scaat Craig, Morayshire, Upper Old Red Sandstone, Scotland
+> - Agassiz, 1845; Denison; 1978; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-[*Bothriolepis pavariensis*] Lyarskaja & Savvaitova 1974
-> Lyarskaja & Savvaitova (1974)
+[*Bothriolepis pavariensis*](https://www.deepbone.org/public/#/explor?s_id=154117&functionId=Deepbone_header_searchResultOpen) Lyarskaja and Savvaitova, 1974
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Upper Ketleri stage, Latvia
+> - Lyarskaja and Savvaitova, 1974; Denison; 1978
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-[*Bothriolepis perija*] Young & Moody (2002)
-> Young & Moody (2002)
+[*Bothriolepis perija*](https://www.deepbone.org/public/#/explor?s_id=74313&functionId=Deepbone_header_searchResultOpen) Young and Moody, 2002
+> Young and Moody 2002
 
 [*Bothriolepis portalensis*] Young 1988
 > Young (1988)
