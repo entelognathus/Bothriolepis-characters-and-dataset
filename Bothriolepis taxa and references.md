@@ -344,47 +344,67 @@ and Mshanka Rivers in Novgorod region
 [*Bothriolepis siberica*](https://www.deepbone.org/public/#/explor?s_id=3458&functionId=Deepbone_header_searchResultOpen) Obruchev, 1941
 > Frasnian to middle Famennian, Upper Devonian, 382.7, 358.9
 > - Oidanovo (?) Formation, Lake Shira, KyzylKaya, Khakasia
-> Obruchev, 1941; Denison; 1978; [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
+> - Obruchev, 1941; Denison, 1978; [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
 [*Bothriolepis sinensis*](https://www.deepbone.org/public/#/explor?s_id=49&functionId=Deepbone_header_searchResultOpen) Chi, 1940
-> Chi (1940), Lu (1988), Luo *et al*. (2023) 
+> Eifelian, Middle Devonian, 393.3, 387.7
+> - Tiaomajian Formation, Tiaomajian, Hunan, China
+> - [Chi, 1940](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1755-6724.1940.mp20001007.x); Denison, 1978; Lu, 1988; [Luo *et al*., 2023](https://www.researchgate.net/profile/Vertebrata-Palasiatica/publication/374811815_Reappraisal_of_Bothriolepis_sinensis_Chi_1940_from_the_Tiaomachien_Formation_Hunan_China/links/65309f8d24bbe32d9a511493/Reappraisal-of-Bothriolepis-sinensis-Chi-1940-from-the-Tiaomachien-Formation-Hunan-China.pdf)
 
-[*Bothriolepis sosnensis*] Moloshnikov 2003
-> Moloshnikov (2003) 
+[*Bothriolepis sosnensis*](https://www.deepbone.org/public/#/explor?s_id=3464&functionId=Deepbone_header_searchResultOpen) Moloshnikov, 2003
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Zadonsk Formation, right bank of the Sosna River, quarry of the Limestone Factory (Gornos taevka), southwestern peripheral area of the town of Livny, Livnenskii District, Orel Region
+> - [Moloshnikov, 2003](http://repository.geologyscience.ru/handle/123456789/35402) [Moloshnikov, 2008](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/225254536_Devonian_antiarchs_Pisces_Antiarchi_from_central_and_Southern_European_Russia/links/54e6db270cf2cd2e0290ac1f/Devonian-antiarchs-Pisces-Antiarchi-from-central-and-Southern-European-Russia.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail)
 
-[*Bothriolepis stevensoni*] Miles 1968
-> [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
-
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-[*Bothriolepis tastenica*] Malinovskaya 1988
-> Malinovskaya (1988), Moloshnikov (2011)
-
-> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
-
-[*Bothriolepis tatongensis*] Long & Werdelin 1986
-> Long & Werdelin (1986)
-
-[*Bothriolepis taylori*] Miles 1968
-> [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
-
-[*Bothriolepis traquairi*]  Bryant 1924
-> Bryant (1924), Denison (1978)
+[*Bothriolepis stevensoni*](https://www.deepbone.org/public/#/explor?s_id=3541&functionId=Deepbone_header_searchResultOpen) Miles, 1968
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Prestonhaugh Formation, the Upper Old Red Sandstone of Prestonhaugh, Berwickshire
+> - [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-[*Bothriolepis traudscholdi*] Jaekel 1927
-> Jaekel (1927), Lukševičs (2001)
-
-[*Bothriolepis tungseni*] Chang 1965
-> Chang (1965)
+[*Bothriolepis tastenica*](https://www.deepbone.org/public/#/explor?s_id=3457&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1988
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Sofa Formation, right bank of the Shiderti River, 65 km east of the village of Molodezhnyi, Sau malkol’ locality,  central Kazakhstan
+> - Malinovskaya, 1988; [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-[*Bothriolepis turanica*] Obruchev 1939
-> Obruchev (1939), Moloshnikov (2012)
+[*Bothriolepis tatongensis*](https://www.deepbone.org/public/#/explor?s_id=3518&functionId=Deepbone_header_searchResultOpen) Long and Werdelin, 1986
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - the basal conglomerates of the Hollands Creek Rhyodacite, about 5 km south-west of Tatong, Victoria
+> - [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146)
+
+[*Bothriolepis taylori*](https://www.deepbone.org/public/#/explor?s_id=3534&functionId=Deepbone_header_searchResultOpen) Miles, 1968
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Edenkillie Formation, the quarry on the Muckle Burn at Whitemire, near the base of the Edenkillie Beds
+> - Denison, 1978; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
+
+[*Bothriolepis traquairi*](https://www.deepbone.org/public/#/explor?s_id=4391&functionId=Deepbone_header_searchResultOpen)  Bryant, 1924
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Escuminac Formation, Miguasha, Quebec, Canada
+> - Bryant 1924; Denison, 1978
+
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
+[*Bothriolepis traudscholdi*](https://www.deepbone.org/public/#/explor?s_id=3494&functionId=Deepbone_header_searchResultOpen) Jaekel, 1927
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Dubnik Formation, the right bank of the Syas’ River near Stolbovo village, Russia; Daugava Formation, Syas’ River near Yukhora village, not far from Stolbovo, and exposure of the dolomites at the left bank of the Gauja River not far from Vidaga village, Latvia
+>- Jaekel, 1927; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+
+[*Bothriolepis tungseni*](https://www.deepbone.org/public/#/explor?s_id=47&functionId=Deepbone_header_searchResultOpen) Chang, 1965
+> Eifelian, Middle Devonian, 393.3, 387.7
+> - Haikou formation, Zhaojiazhuang, Wuding, Yunnan, China
+> - Chang, 1965; Denison, 1978
+
+> Excluded in the phylogenetic analysis of Luo *et al*. (2023).
+
+[*Bothriolepis turanica*](https://www.deepbone.org/public/#/explor?s_id=2100&functionId=Deepbone_header_searchResultOpen) Obruchev, 1939
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - near Tashkent, western Tien Shan, Uzbekistan
+>  Obruchev 1939; Denison, 1978; [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
