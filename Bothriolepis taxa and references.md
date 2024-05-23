@@ -404,14 +404,16 @@ and Mshanka Rivers in Novgorod region
 [*Bothriolepis turanica*](https://www.deepbone.org/public/#/explor?s_id=2100&functionId=Deepbone_header_searchResultOpen) Obruchev, 1939
 > Frasnian, Upper Devonian, 382.7, 372.2
 > - near Tashkent, western Tien Shan, Uzbekistan
->  Obruchev 1939; Denison, 1978; [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
+> - Obruchev 1939; Denison, 1978; [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
-[*Bothriolepis virginiensis*] Weems *et al.* 1981
-> Weems *et al.* (1981), Thomson & Thomas (2001), Weems (2004)
+[*Bothriolepis virginiensis*](https://www.deepbone.org/public/#/explor?s_id=3471&functionId=Deepbone_header_searchResultOpen) Weems *et al.*, 1981
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Catskill Formation, near Leroy, Potter county, Pennsylvania
+> - Weems *et al.*, 1981; [Thomson and Thomas, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0679%3AOTSOSO%5D2.0.CO%3B2); [Weems, 2004](https://bioone.org/journals/journal-of-vertebrate-paleontology/volume-24/issue-1/20/BOTHRIOLEPIS-VIRGINIENSIS-A-VALID-SPECIES-OF-PLACODERM-FISH-SEPARABLE-FROM/10.1671/20.short)
 
-[*Bothriolepis volongensis*] Lukševičs & Sorokin 1999
+[*Bothriolepis volongensis*](https://www.deepbone.org/public/#/explor?s_id=74320&functionId=Deepbone_header_searchResultOpen) Lukševičs and Sorokin, 1999
 > Lukševičs & Sorokin (1999)
 
 [*Bothriolepis vuwae*] Young 1988
