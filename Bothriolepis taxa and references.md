@@ -69,10 +69,10 @@
 > - 2km east-northeast of the mouth of the Tuim River, western shore of southern part, LakeBele, Khakasia;  Snetnaya Gora and Pskov Beds, the right bank of Velikaya River in Pskov near Piskovichi, Russia;  the right bank of Pērse River (right tributary of Daugava River) near Koknese (Kokenhusen); Snetnaya Gora, Sēlija and Atzele Members of the Pļaviņas Formation, Pastamuiža on Daugava River, Latvia; Lower Ust’ Yarega Formation, Pizhma River of the Middle Timan
 > - Pander (in Keyserling), 1846; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
-[*Bothriolepis ciecere*](https://deepbone.org/public/#/explor?s_id=3465&functionId=Deepbone_header_searchResultOpen) Lyarskaja (in Lyarskaja & Savvaitova), 1974
+[*Bothriolepis ciecere*](https://deepbone.org/public/#/explor?s_id=3465&functionId=Deepbone_header_searchResultOpen) Lyarskaja (in Lyarskaja and Savvaitova), 1974
 > Famennian, Upper Devonian, 372.2, 358.9
 > - Ketleri, Ketleri outcrop, Ketleri Formation, Venta River, Latvia
-> - Upper Ketleri stage, in Denison, 1978; Pavari, Vidzeme, Latvia, locality name from (LUKšEVIČS and Zupiņš, 2004)
+> - Upper Ketleri stage, in Denison, 1978; Pavari, Vidzeme, Latvia, locality name from (Lukševičs and Zupiņš, 2004)
 > - Lyarskaja and Savvaitova, 1974; [Lukševičs,2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Bothriolepis cristata*](https://deepbone.org/public/#/explor?s_id=3536&functionId=Deepbone_header_searchResultOpen) Traquair, 1895
@@ -113,7 +113,7 @@
 [*Bothriolepis gippslandiensis*](https://deepbone.cn/public/#/explor?s_id=3519&functionId=Deepbone_header_searchResultOpen) Hills, 1929
 > Frasnian, Upper Devonian, 382.7, 372.2
 > - Blue Range Formation, Blue Hills, near Taggerty, Mt. Howitt, Victoria, Australia
-> Hills, 1929; [Long, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146)
+> - Hills, 1929; [Long, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146)
 
 [*Bothriolepis grenfellensis*](https://deepbone.cn/public/#/explor?s_id=3491&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
 > Famennian, Upper Devonian, 372.2, 358.9
@@ -123,7 +123,7 @@
 [*Bothriolepis groenlandica*](https://deepbone.cn/public/#/explor?s_id=82750&functionId=Deepbone_header_searchResultOpen) Heintz, 1930
 > Famennian, Upper Devonian, 372.2, 358.9
 > - East Greenland
-> Denison, 1978; Heintz, 1930
+> - Denison, 1978; Heintz, 1930
 
 [*Bothriolepis hayi*](https://deepbone.cn/public/#/explor?s_id=3540&functionId=Deepbone_header_searchResultOpen) Miles, 1968
 > Frasnian, Upper Devonian, 382.7, 372.2
@@ -225,7 +225,7 @@ Bienes hamlet, western Latvia; Amula Formation and Eleja Formation at the right 
 
 [*Bothriolepis major*](https://www.deepbone.org/public/#/explor?s_id=3530&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
 > Upper Devonian, 382.7, 385.9
-> -  Edenkillie Beds, Whitemire; the bank of the R. Findhorn
+> - Edenkillie Beds, Whitemire; the bank of the R. Findhorn
 > - Agassiz, 1844; Stensiö, 1948; Traquair, 1983;1985; Denison, 1978; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
 > Agassiz (1844-45) described two specimens from Scotland as *Pterichthys major*, which were reassigned to *B. major* by Stensiö (1948), and Miles (1968). Many specimens of *Bothriolepis* in different sites of Scotland were referred to as *B. major*, but most of them can be hardly classified into *B. major* based on Agassiz’s description. But the only source cited by Miles (1968) is a syntype figure from Agassiz. Our dataset does not contain *B. major* because there is no solid diagnosis of *B. major*. Excluded in the phylogenetic analysis of Luo *et al*. (2023).
@@ -233,7 +233,7 @@ Bienes hamlet, western Latvia; Amula Formation and Eleja Formation at the right 
 [*Bothriolepis markovskii*](https://www.deepbone.org/public/#/explor?s_id=2115&functionId=Deepbone_header_searchResultOpen) Moloshnikov, 2010
 > Frasnian, Upper Devonian, 382.7, 372.2
 > - Orlovka Formation, village of Serpievka, Sim River Basin, Ivan-Katavskii District, Chelyabinsk Region, southern Ural Mountains, Russia
-> [Moloshnikov,2010b](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/251190254_On_high-armor_bothriolepidid_placoderms_Pisces_Placodermi_Bothriolepididae_from_the_Upper_Devonian_of_the_southern_Ural_Mountains_and_Kuznetsk_Coal_Basin/links/55181f4d0cf2f7d80a3dc064/On-high-armor-bothriolepidid-placoderms-Pisces-Placodermi-Bothriolepididae-from-the-Upper-Devonian-of-the-southern-Ural-Mountains-and-Kuznetsk-Coal-Basin.pdf) [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
+> - [Moloshnikov,2010b](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/251190254_On_high-armor_bothriolepidid_placoderms_Pisces_Placodermi_Bothriolepididae_from_the_Upper_Devonian_of_the_southern_Ural_Mountains_and_Kuznetsk_Coal_Basin/links/55181f4d0cf2f7d80a3dc064/On-high-armor-bothriolepidid-placoderms-Pisces-Placodermi-Bothriolepididae-from-the-Upper-Devonian-of-the-southern-Ural-Mountains-and-Kuznetsk-Coal-Basin.pdf) [Moloshnikov,2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf)
 
 [*Bothriolepis mawsoni*](https://www.deepbone.org/public/#/explor?s_id=3507&functionId=Deepbone_header_searchResultOpen) Young, 1988
 > Givetian, Middle Devonian, 387.7, 382.7
@@ -266,7 +266,7 @@ Bienes hamlet, western Latvia; Amula Formation and Eleja Formation at the right 
 [*Bothriolepis niushoushanensis*](https://www.deepbone.org/public/#/explor?s_id=3511&functionId=Deepbone_header_searchResultOpen)  P'an *et al.*, 1980
 > Eifelian, Middle Devonian, 393.3, 387.7
 > - Shixiagou Formation, Shixia Gully, Niusou Mountain, Zhongning County, Ningxia, China
-> P'an *et al.*, 1980; Pan *et al*, 1987
+> - P'an *et al.*, 1980; Pan *et al*, 1987
 
 [*Bothriolepis obesa*](https://www.deepbone.org/public/#/explor?s_id=3538&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
 > Frasnian, Upper Devonian, 382.7, 372.2
@@ -282,7 +282,7 @@ Bienes hamlet, western Latvia; Amula Formation and Eleja Formation at the right 
 
 [*Bothriolepis ornata*](https://www.deepbone.org/public/#/explor?s_id=1392&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
 > Famennian, Upper Devonian, 372.2, 358.9
-> -  Lnyanka Beds, Priksha River, Russia; Tērvete Formation, the right bank of Skujaine River down Klūnas
+> - Lnyanka Beds, Priksha River, Russia; Tērvete Formation, the right bank of Skujaine River down Klūnas
 village, Latvia; Pokayama Formation, North Timan; Msta River near Beryozovik village; Belaya, Lnyanka
 and Mshanka Rivers in Novgorod region
 > - Eichwald, 1840, Denison; 1978; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
@@ -291,12 +291,12 @@ and Mshanka Rivers in Novgorod region
 
 [*Bothriolepis panderi*](https://www.deepbone.org/public/#/explor?s_id=3481&functionId=Deepbone_header_searchResultOpen) Lahusen, 1880
 > lower Frasnian, Upper Devonian, 382.7
-> -  Snetnaya Gora Beds, Right bank of Syas’River not far from Montsevo village, Russia
+> - Snetnaya Gora Beds, Right bank of Syas’River not far from Montsevo village, Russia
 > - Lahusen, 1880; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Bothriolepis paradoxa*](https://www.deepbone.org/public/#/explor?s_id=3533&functionId=Deepbone_header_searchResultOpen) Agassiz, 1845
 > Frasnian, Upper Devonian, 382.7, 372.2
-> -  Alves Formation, Scaat Craig, Morayshire, Upper Old Red Sandstone, Scotland
+> - Alves Formation, Scaat Craig, Morayshire, Upper Old Red Sandstone, Scotland
 > - Agassiz, 1845; Denison; 1978; [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709)
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
@@ -392,7 +392,7 @@ and Mshanka Rivers in Novgorod region
 [*Bothriolepis traudscholdi*](https://www.deepbone.org/public/#/explor?s_id=3494&functionId=Deepbone_header_searchResultOpen) Jaekel, 1927
 > Frasnian, Upper Devonian, 382.7, 372.2
 > - Dubnik Formation, the right bank of the Syas’ River near Stolbovo village, Russia; Daugava Formation, Syas’ River near Yukhora village, not far from Stolbovo, and exposure of the dolomites at the left bank of the Gauja River not far from Vidaga village, Latvia
->- Jaekel, 1927; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - Jaekel, 1927; [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Bothriolepis tungseni*](https://www.deepbone.org/public/#/explor?s_id=47&functionId=Deepbone_header_searchResultOpen) Chang, 1965
 > Eifelian, Middle Devonian, 393.3, 387.7
@@ -414,33 +414,47 @@ and Mshanka Rivers in Novgorod region
 > - Weems *et al.*, 1981; [Thomson and Thomas, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0679%3AOTSOSO%5D2.0.CO%3B2); [Weems, 2004](https://bioone.org/journals/journal-of-vertebrate-paleontology/volume-24/issue-1/20/BOTHRIOLEPIS-VIRGINIENSIS-A-VALID-SPECIES-OF-PLACODERM-FISH-SEPARABLE-FROM/10.1671/20.short)
 
 [*Bothriolepis volongensis*](https://www.deepbone.org/public/#/explor?s_id=74320&functionId=Deepbone_header_searchResultOpen) Lukševičs and Sorokin, 1999
-> Lukševičs & Sorokin (1999)
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Rassokha Formation, North Timan, Volonga River
+> - Lukševičs and Sorokin, 1999
 
-[*Bothriolepis vuwae*] Young 1988
+[*Bothriolepis vuwae*](https://www.deepbone.org/public/#/explor?s_id=3508&functionId=Deepbone_header_searchResultOpen) Young, 1988
 > Givetian, Middle Devonian, 387.7, 382.7
 > - Aztec, Aztec siltstone, Antarctica
 > - [Young, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=7173305)
 
-[*Bothriolepis wilsoni*] Miles 1968
-> [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709), Browne *et al.* (2002)
+[*Bothriolepis wilsoni*](https://www.deepbone.org/public/#/explor?s_id=3539&functionId=Deepbone_header_searchResultOpen) Miles, 1968
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Harelaw Formation, the Old Red Sandstone of Harelaw quarry near Chirnside, Berwickshire
+> - [Miles, 1968](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131709); Denison, 1978
 
-[*Bothriolepis yeungae*] Johanson 1998
-> Johanson (1998)
+[*Bothriolepis yeungae*](https://www.deepbone.org/public/#/explor?s_id=3489&functionId=Deepbone_header_searchResultOpen) Johanson, 1998
+> Famennian, Upper Devonian, 372.2, 358.9
+> - 10 km SW of Canowindra, NSW, Australia
+> - [Johanson, 1998](https://media.australian.museum/media/Uploads/Journals/17865/1289.pdf); [Johanson, 2002](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1502-3931.2002.tb00077.x)
 
-[*Bothriolepis yunnanensis*] Liu 1962
-> Liu (1962) 
+[*Bothriolepis yunnanensis*](https://www.deepbone.org/public/#/explor?s_id=3321&functionId=Deepbone_header_searchResultOpen) Liu, 1962
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Haikou Formation, 1 km north to Zhanyi Town in Qujing City, Yunnan
+> - Liu, 1962
 
 > Excluded in the phylogenetic analysis of Luo *et al*. (2023).
 
 # outgroup taxa
-*Remigolepis walker* Johanson 1997
-> Johanson (1997b)
+[*Remigolepis walker*](https://www.deepbone.org/public/#/explor?s_id=3493&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
+> Famennian, Upper Devonian, 372.2, 358.9
+> - Mandangery Sandstone, Canowindra, New South Wales, Australia
+> - [Johanson, 1997b](https://www.cambridge.org/core/journals/geological-magazine/article/abs/new-remigolepis-placodermi-antiarchi-from-canowindra-new-south-wales-australia/F6BB8C18D6935C66AF9DD7A09F1A9DB7)
 
-*Dianolepis liui* Chang 1965
-> Chang (1965), P'an *et al.* (2018)
+[*Dianolepis liui*](https://www.deepbone.org/public/#/explor?s_id=48&functionId=Deepbone_header_searchResultOpen) Chang, 1965
+> Givetian, Middle Devonian, 387.7, 382.7
+> - Haikou Formaton, Zhaojiazhuang, Wuding, Yunnan, China
+> Chang, 1965; [P'an *et al.*, 2018](https://www.tandfonline.com/doi/abs/10.1080/03115518.2017.1338357)
 
-*Grossilepis tuberculata* Lukševičs 1996
-> Lukševičs (1996), Dupret *et al*. (2023)
+[*Grossilepis tuberculata*](https://www.deepbone.org/public/#/explor?s_id=3324&functionId=Deepbone_header_searchResultOpen) Gross, 1941
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Pļaviņas Formation, the bank of Pērse River near Koknese, Latvia; the Snetnaya Gora Member in several localities in western and eastern Latvia; Pskov region of Russia
+> - [Lukševičs, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1224/reference_id_1224_20200814163739652.pdf); [Lukševičs, 2001](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 ## References
 Agassiz, L. (1844). *Monographie des poisons fossiles du vieux Grès rouge, ou Système dévonien des Îles Britanniques et de Russie*. Soleure, chez Gent & Gassman. 
