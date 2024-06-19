@@ -1,0 +1,332 @@
+#NEXUS
+[written Tue Jun 13 21:45:02 CST 2023 by Mesquite  version 3.61 (build 927) at DESKTOP-44UTPR5/192.168.3.41]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=66;
+	TAXLABELS
+		Dianolepis_liui Grossilepis_tuberculata B._africana B._alvesiensis B._amankonyrica B._askinae B._babichevi B._barretti B._canadensis B._cellulosa B._ciecere B._cristata B._cullodenensis B._dairbhrensis_ B._dorakarasugensis B._evaldi B._fergusoni B._gigantea B._gippslandiensis B._grenfellensis B._groenlandica B._hayi B._hicklingi B._hydrophila B._jani B._jarviki B._jazwicensis_ B._karawaka B._kassini_ B._kohni B._kwangtungensis B._laverocklochensis 'B. leptocheira-curonica' B._lochangensis B._lohesti B._longi B._macphersoni B._markovskii_ B._mawsoni B._maxima B._nikitinae B._nitida B._niushoushanensis B._obrutschewi B._ornata B._panderi B._paradoxa B._perija_ B._portalensis B._prima B._rex_ B._shaokuanensis B._siberica B._sinensis B._sosnensis B.tastenica_ B._tatongensis B._taylori B._traudscholdi B._tungseni_ B._virginiensis B._volongensis B._vuwae B._wilsoni B._yeungae B._zhujiangyuanensis 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  Character_Matrix;
+	DIMENSIONS  NCHAR=72;
+	FORMAT DATATYPE = STANDARD RESPECTCASE GAP = - MISSING = ? SYMBOLS = "  0 1 2 3 4";
+	CHARSTATELABELS 
+		1 Shape_of_preorbital_recess /  simple_and_rounded trilobate pentagonal trifid 'fan-shaped',
+		2 Anterior_extension_of_anterior_postorbital_process_of_neurocranium /  posterior_of_posterior_level_of_orbital_fenestra at_or_anterior_of_posterior_level_of_orbital_fenestra,
+		3 'Well-developed median occipital crista' /  absent present,
+		4 'Separate triangular and ventrally-facing attachment surface for prelateral plate on lateral plate' /  absent present,
+		5 Anterior_portion_of_posterior_attachment_area_for_submarginal_plate_covers_spiracular_groove /  absent present,
+		6 'Anterior margin of skull roof (for adults only)' /  rounded squared pointed_anterior_tip,
+		7 Shape_of_orbitonasal_fenestra /  anterior_and_posterior_margins_straight_and_parallel 'anteriorly concave and posteriorly convex (inversed bean)' 'anteriorly convex and posteriorly concave (bean)' 'concave anteriorly and posteriorly (peanut shaped)' 'convex anteriorly and posteriorly (rounded)',
+		8 Preorbital_region_of_skull /  short elongated,
+		9 Positions_of_mesial_and_ventral_laminae_of_lateral_and_paranuchal_plates /  same_level lag,
+		10 'Position of lateral corner of skull roof relative to junction of premedian, lateral and paranuchal plates' /  lateral_corner_anterior_of_junction lateral_corner_posterior_of_or_at_same_level_as_junction,
+		11 'Position of posterior margin of orbit relative to junction of lateral, postmarginal and paranuchal plates' /  posterior_margin_anterior_of_junction posterior_margin_posterior_of_or_at_same_level_as_junction,
+		12 Posterolateral_indentation_on_postmarginal_and_paranuchal_plates_for_trunk_shield /  'unmarked, rather flat' marked,
+		13 Thickened_bone_along_orbital_margin_of_premedian_and_lateral_plates /  absent present,
+		14 'Width of orbital fenestra greater than 1/3 of the skull roof' /  absent present,
+		15 Shape_of_premedian_plate /  narrow broad,
+		16 Lateral_margin_of_premedian_plate /  'straight/concave' convex,
+		17 Posterior_margin_of_premedian_plate /  'straight/convex' concave,
+		18 'Width ratio of anterior margin/mesial constriction of premedian plate' /  ' <1' ?1,
+		19 'Width ratio of anterior margin/posterior margin of premedian plate' /  ' <1' ?1,
+		20 'Width ratio of mesial constriction/posterior margin of premedian plate' /  ' <1' ?1,
+		21 Lateral_corner_of_skull_roof_relative_to_orbital_margin_of_postpineal_plate /  anterior_of_orbital_margin_of_postpineal_plate at_same_level_as_or_posterior_of_orbital_margin_of_postpineal_plate,
+		22 Anterior_margin_of_postpineal_plate /  concave 'flat/ convex',
+		23 Flanged_margin_of_postpineal_plate /  absent present,
+		24 Nuchal_plate_reaches_posterior_margin_of_orbital_fenestra /  absent present,
+		25 Contact_between_nuchal_plate_and_posterior_margin_of_orbital_fenestra /  pinpoint marginal,
+		26 Shape_of_nuchal_plate /  'broad (wider than long)' 'narrow (longer than wide) or square (as wide as long)',
+		27 Anterolateral_margin_of_nuchal_plate /  contact_margin_with_lateral_plate_straight contact_margin_with_lateral_plate_convex,
+		28 Posterolateral_corner_of_nuchal_plate /  long short,
+		29 Contact_margin_between_nuchal_and_paranuchal_plates /  'straight/ sigmoid' nuchal_plate_convex nuchal_plate_concave,
+		30 'Width ratio of anteromesial margin/anterolateral margin of nuchal plate' /  '<1' ?1,
+		31 'Length ratio of anterolateral margin/posterolateral margin of nuchal plate' /  '<1' ?1,
+		32 'Squarish nuchal plate with convex anterior division of the lateral margin and short postero-lateral corners' /  absent present,
+		33 Obtected_nuchal_area_on_paranuchal_plate /  absent present,
+		34 Size_of_lateral_pits_ /  small enlarged,
+		35 Shape_of_postmarginal_plate /  triangular_and_quadrangular 'pentagonal (extra angle on margin with lateral plate)',
+		36 'Ratio of length/width of postmarginal plate' /  '<1' ?1,
+		37 shape_of_semilunar_plate /  long_and_shallow short_and_deep,
+		38 The_broadest_part_of_anterior_median_dorsal_plate_at_lateral_corners_in_adults /  absent present,
+		39 Lateral_corners_of_anterior_median_dorsal_plate_appear_early_in_ontogeny /  absent present,
+		40 Median_Dorsal_plates_crest /  absent present,
+		41 Condition_of_median_dorsal_plate_crest /  minor well_developed,
+		42 Contact_margin_of_anterior_median_dorsal_plate_and_anterior_dorsolateral_plate /  straight sigmoid_or_sinuous,
+		43 Contact_margin_of_anterior_median_dorsal_plate_and_mixilateral_plate /  straight sigmoid_or_sinuous,
+		44 Groove_on_ventral_side_of_anterior_median_dorsal_plate /  flat_or_absent developed,
+		45 Groove_on_ventral_side_of_Posterior_median_dorsal_plate /  flat_or_absent developed,
+		46 The_broadest_portion_of_mixilateral_plate_at_its_dorsal_corners_in_adults /  no yes,
+		47 Crista_transversalis_anterior_transversely_oriented_on_ventral_lamina_of_anterior_ventrolateral_plate /  no yes,
+		48 'Ventro-lateral ridge makes a keel on anterior ventrolateral plate' /  no yes,
+		49 Shape_of_axillary_foramen /  higher_than_long longer_than_high_or_as_long_as_high,
+		50 'Slender proximal segment of pectoral fin (length/width ratio greater than 7)' /  absent present,
+		51 'Mesial marginal plate 1/2 and ventral central plate 1/2 all contact in one point' /  absent present,
+		52 'Contact ventral central plate 1, ventral central plate 2, mesial marginal plate 1, mesial marginal plate 2 in pectoral fin' /  'mesial marginal plate 1 + ventral central plate 2 separate ventral central plate 1 from mesial marginal plate 2' ventral_central_plate_1_and_mesial_marginal_plate_2_contact,
+		53 Dorsal_central_plate_5_in_distal_segment /  absent present,
+		54 'Middle pit-line long' /  absent present,
+		55 'Supra-occipital sensory groove long' /  absent present,
+		56 Branch_of_infraorbital_sensory_line_diverging_on_prelateral_plate_parallel_to_the_rostral_margin_of_head_shield /  no yes,
+		57 Main_lateral_line_groove_reaches_posterior_margin_of_mixilateral_or_posterior_dorsolateral_plate /  no yes,
+		58 Long_branch_of_infraorbital_sensory_groove_diverging_on_prelateral_plate /  no yes,
+		59 Junction_of_rostral_infraorbital_sensory_line_in_midline_on_premedian_plate /  straight_or_light_posterior_indentation very_deep_posterior_indentation no_connection,
+		60 'Semi-circular groove on lateral plate' /  reduced developed,
+		61 Shape_of_central_sensory_groove /  straight curved,
+		62 Central_sensory_groove /  only_on_nuchal_plate on_nuchal_and_lateral_plates,
+		63 Central_sensory_groove /  directed_to_semicircular_groove 'directed to junction of lateral, paranuchal and nuchal plates',
+		64 Central_sensory_groove_extends_anteriorly_of_the_extension_line_of_anterior_margin_of_orbital_fenestra /  absent present,
+		65 'Central sensory groove followed posteriorly by supraoccipital cross-commissural pitline groove after converging on nuchal plate' /  absent present,
+		66 'Pectoral pit-line traced on the ventral central plate 1 and extends to ventral central plate 2' /  absent present,
+		67 Anterior_submarginal_plate_attachment_supported_by_a_separate_ridge_in_transverse_lateral_groove /  no yes,
+		68 Ornamentation_in_juveniles /  tubercular reticular,
+		69 Ornamentation_in_adults /  tubercular reticular,
+		70 shape_of_postpineal_plate /  long_and_shallow short_and_deep,
+		71 anterior_oblique_dorsal_sensory_line_groove_on_anterior_median_dorsal_plate /  absent present,
+		72 'Shape of obtected nuchal area (nm) anterior margin' /  'straight/ sinuous' convex concave ; 
+	MATRIX
+	Dianolepis_liui          00?00221?001110011111100?00001000001???????11????????000?02010-01?1-00?2
+	Grossilepis_tuberculata  0???02011110000001110101100?211000010000?1011?00001?000000-01100101?0000
+	B._africana              11???1010101???0011111011000?1101001?1?1010??1?0?????00?1?00?????????002
+	B._alvesiensis           1?1?00310101001101111101100?200?1?01?1?10{0 1}1??1?0?0???00?1?0111001?0?1102
+	B._amankonyrica          ??????????????????????????????????????1?000000???????????1????????????0?
+	B._askinae               01??02100101000011111101100?210?1001011101010111?001?0001000{0 1}1000?0?1102
+	B._babichevi             ??????????????????????????????????????1?0011111101??????1???????????0?0?
+	B._barretti              10??02011100000001111101100?010?1101???????????0?0???000??1011010?0?1??2
+	B._canadensis            0?1102110101000110111101100?211?100101?100{0 1}??1?0101?10{0 1}01?1001010?0?1102
+	B._cellulosa             0?1?02010111000101110101100?21000?010110?10??1000000000000101100100?1100
+	B._ciecere               300102310101111101110101100?010010011110?00?11111?00000000100100010?10?0
+	B._cristata              ?????010?11??011101111111001010???0?11?1100??1?10000001011?00100????111?
+	B._cullodenensis         00?102310111000111111101100?210??101?1?1111??1?0?0???00?1?1111001?0?1?01
+	B._dairbhrensis_         31?1?1010??0???100111001100?200?1?0101?1010??11??001?01???11010???00??02
+	B._dorakarasugensis      ?????????????????????????00121???????1?00101?1?0?1??1???1??1????????1101
+	B._evaldi                ??1?001?0101011111110101100?011010010110?01??1001010000000101100110?1012
+	B._fergusoni             0???013001000110?1111111100?010?1101?1?1000??1???0??100???1101000?0?1101
+	B._gigantea              311???110?0?00110011?101100?210?10???1?10001????00???01???1101011???1110
+	B._gippslandiensis       0?1?01110111010101110101101?010??111?1?1110??1?01001?000101111000?0?1101
+	B._grenfellensis         31?1?2110010000001110101100?200?1101?1?1000????0?????00???1111001???1100
+	B._groenlandica          3010?221011110?111111001101?210?1010?111011??1?01000000?1?11110??00?1?10
+	B._hayi                  3?1?021101010?0101111101101?210?1011?1?1010111?0?0???0001?01{0 1}1011?0?1100
+	B._hicklingi             3???02110111001101111101100?010?1001?1?101011??0?01??000??1111010???1?00
+	B._hydrophila            1???001101010??101111101100?200?1?01?1?100{0 1}??1?0?????0101?00010?????11??
+	B._jani                  3?1?02110???1??001110101100?2100100??110?0110110101?01101000110?1?0?1000
+	B._jarviki               3???0???????0??1?111?10110??200?10???1?????1???01100?0{0 1}0??01?10???0?1?02
+	B._jazwicensis_          ?????010?101001001101111100?210?1?10?1?0001??1???????00?10?011000???1102
+	B._karawaka              21?112110001000101111101100?210?1011?1?1000?0?0?1000?00???1111011?1?1102
+	B._kassini_              ?????????????????????????????????????1?0000001??????????00?1?1000???0?0?
+	B._kohni                 ????02111101000100111101101?200?10?1??????0?0??0?????01???1111010?1?11?2
+	B._kwangtungensis        ?????????????????????????????????????1?00001??11?1??????????????????1?0?
+	B._laverocklochensis     ?????200?001?011011111011001110?1?11?1?0000??1????????0?110101010???1010
+	'B. leptocheira-curonica'311?02110101001100110101101?01011001?110?10?0?001100111000001100110?1102
+	B._lochangensis          ?????????????????????10??001111??????1?00111????????????????0?00????111?
+	B._lohesti               ??????0?????????0????1011?012?0??????1?00001?????1??????????01010???110?
+	B._longi                 01?11211010?000111111101100?210?100101?1000?0?1??00??00???1111011?0?1102
+	B._macphersoni           21??02311010000101110101100?010?10010???????????10??001???1111010?0?1??0
+	B._markovskii_           ???????????????????????110112101?????1?11000????????????????????????1100
+	B._mawsoni               ???????10???0??0?????????????10??0???1?1010??1?0?0??????1??0010???0?1102
+	B._maxima                3111?2110?1?000101110101100?2110100?0110?10??1001010000100001101010?1100
+	B._nikitinae             ?????1?1?10??0000111??????????????01?1?0?001????????????????????????0?0?
+	B._nitida                3????2010101000001111101100?10??1001?1?0??0??1???0??100???1111010?0?1100
+	B._niushoushanensis      2?1?02111111?11101111101100?210?0001?1?0?100?1?0101?0000??100101??1?1002
+	B._obrutschewi           00???21001010?0111110101000?110001010110?10001000?0100000001110?100?1000
+	B._ornata                300??21100011?1000110101101?210010011110?11111001010000000110100010?1001
+	B._panderi               ?????211?111000100110101100?2000??110110?1?1???0????000000??110???0?1000
+	B._paradoxa              2???????????0????????????????10??0???????001?????0??????????????1?1?1??2
+	B._perija_               ?????1?????????????????11110210??????0?1000001??????????????????????111?
+	B._portalensis           21?0?211011100010011110??00?200?1001?111000????01001?00???1111010???1110
+	B._prima                 0????1110101001111110101100121000?010110?10??100000100000001010010??1000
+	B._rex_                  ?????1????????1????????100010001?0??????????0????????????00????????????0
+	B._shaokuanensis         2?1??2110111010111111101100?210?0011?????????????1???000??1111001?1?10?2
+	B._siberica              ?????1??????????????????????????11???1?0?101????????????????????????1?00
+	B._sinensis              400?0011????01111????1???????????0???1???0011????10????????????00???????
+	B._sosnensis             ???????????????????????10001200??????1?0?001????????????????????????0002
+	B.tastenica_             ???????????????????????110002100?????1?11??01???????????????????????111?
+	B._tatongensis           3?0??2010111000101110101110?200?1011?????10????0?????00???0111010???1??1
+	B._taylori               ????????0???0??10111???1100?211?10???1?1011????0?0???01???0??1??1?0?110?
+	B._traudscholdi          0101?2110101000111110101?01?2000?001?110?10??100?0??0000001001001?0?1100
+	B._tungseni_             011?0??1????011??????????????????????????????????1?????0?0?????0????1???
+	B._virginiensis          ?????21101110??111111101100?201?0?01?1?1000??1?0?????01???01011??????101
+	B._volongensis           00?????10??0???00011???1101?210?10???1?0?10??10??????00???11010??1??1002
+	B._vuwae                 ????021101010?0101111101101?010?1001???????1???0?????000??1111011?0?1?00
+	B._wilsoni               ????0?31????00000111?101101?010?10???1?10?01?1???0???0001?1?11011?0?1100
+	B._yeungae               32?1?0110101???111111101100??110?00101?1010??100101?100?0001????????1102
+	B._zhujiangyuanensis     ?????000?101?011011111?1100?21101?010??10001111??1??101??10111000???1102
+
+;
+
+END;
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1- 72;
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1- 72;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1686663902738;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 5327608084194806539;
+			tell It;
+				setDefaultOrder  79 77 1 3 4 6 7 8 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 40 41 42 44 45 46 48 49 50 51 53 54 55 56 58 59 60 61 63 64 65 67 68 70 71 72 73 74 76;
+				attachments ;
+			endTell;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 8946020061134567412;
+			mqVersion 361;
+			checksumv 0 3 2419228494 null  getNumChars 72 numChars 72 getNumTaxa 66 numTaxa 66   short true   bits 2305843009213693983   states 31   sumSquaresStatesOnly 10072.0 sumSquares -3.2281802128991707E19 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 100;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1280 593;
+			setLocation -8 0;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #8946020061134567412 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1180 521;
+					setLocation -8 0;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					endTell;
+					setActive;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					colorCells  #mesquite.charMatrices.NoColor.NoColor;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames off;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges on;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleReduceCellBorders off;
+					toggleAutoWCharNames on;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					togglePaleMissing off;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize on;
+					toggleColorsPanel off;
+					toggleDiagonal on;
+					setDiagonalHeight 80;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.AlterData.AlterData;
+				tell It;
+					toggleBySubmenus off;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesEditor.StateNamesEditor;
+				tell It;
+					makeWindow;
+					tell It;
+						setExplanationSize 30;
+						setAnnotationSize 20;
+						setFontIncAnnot 0;
+						setFontIncExp 0;
+						setSize 1180 521;
+						setLocation -8 0;
+						setFont SanSerif;
+						setFontSize 10;
+						getToolPalette;
+						tell It;
+							setTool mesquite.categ.StateNamesEditor.StateNamesWindow.ibeam;
+						endTell;
+						rowsAreCharacters on;
+						toggleConstrainChar on;
+						toggleConstrainCharNum 3;
+						togglePanel off;
+						toggleSummaryPanel off;
+					endTell;
+					showWindow;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor;
+				tell It;
+					panelOpen true;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+
