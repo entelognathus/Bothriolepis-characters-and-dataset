@@ -1,5 +1,5 @@
 #NEXUS
-[written Wed Jun 19 09:19:16 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
+[written Wed Jun 19 09:21:54 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
 
 BEGIN TAXA;
 	TITLE Taxa;
@@ -85,7 +85,7 @@ BEGIN CHARACTERS;
 		67 Anterior_submarginal_plate_attachment_supported_by_a_separate_ridge_in_transverse_lateral_groove /  no yes,
 		68 Ornamentation_in_juveniles /  tubercular reticular,
 		69 Ornamentation_in_adults /  tubercular reticular,
-		70 'Breadth/length ratio of postpineal plate' /  ?0.5 '>0.5',
+		70 'Breadth/length ratio of postpineal plate' /  '<=0.5' '>0.5',
 		71 Anterior_oblique_dorsal_sensory_line_groove_on_anterior_median_dorsal_plate /  absent present,
 		72 Anterior_margin_of_obtected_nuchal_area /  'straight/ sinuous' convex concave ; 
 	MATRIX
@@ -172,7 +172,7 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1718759956482;
+		timeSaved 1718760114577;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 5327608084194806539;
