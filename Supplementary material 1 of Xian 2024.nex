@@ -1,5 +1,5 @@
 #NEXUS
-[written Wed Jun 19 08:58:25 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
+[written Wed Jun 19 09:01:36 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
 
 BEGIN TAXA;
 	TITLE Taxa;
@@ -33,9 +33,9 @@ BEGIN CHARACTERS;
 		15 Shape_of_premedian_plate /  narrow broad,
 		16 Lateral_margin_of_premedian_plate /  'straight/concave' convex,
 		17 Posterior_margin_of_premedian_plate /  'straight/convex' concave,
-		18 'Width ratio of anterior margin/mesial constriction of premedian plate' /  '<1' ?1,
-		19 'Width ratio of anterior margin/posterior margin of premedian plate' /  '<1' ?1,
-		20 'Width ratio of mesial constriction/posterior margin of premedian plate' /  '<1' ?1,
+		18 'Width ratio of anterior margin/mesial constriction of premedian plate' /  '<1' '>=1',
+		19 'Width ratio of anterior margin/posterior margin of premedian plate' /  '<1' '>=1',
+		20 'Width ratio of mesial constriction/posterior margin of premedian plate' /  '<1' '>=1',
 		21 Lateral_corner_of_skull_roof_relative_to_orbital_margin_of_postpineal_plate /  anterior_of_orbital_margin_of_postpineal_plate at_same_level_as_or_posterior_of_orbital_margin_of_postpineal_plate,
 		22 Anterior_margin_of_postpineal_plate /  concave 'flat/ convex',
 		23 Flanged_margin_of_postpineal_plate /  absent present,
@@ -45,13 +45,13 @@ BEGIN CHARACTERS;
 		27 Anterolateral_margin_of_nuchal_plate /  contact_margin_with_lateral_plate_straight contact_margin_with_lateral_plate_convex,
 		28 Posterolateral_corner_of_nuchal_plate /  long short,
 		29 Contact_margin_between_nuchal_and_paranuchal_plates /  'straight/ sigmoid' nuchal_plate_convex nuchal_plate_concave,
-		30 'Width ratio of anteromesial margin/anterolateral margin of nuchal plate' /  '<1' ?1,
-		31 'Length ratio of anterolateral margin/posterolateral margin of nuchal plate' /  '<1' ?1,
+		30 'Width ratio of anteromesial margin/anterolateral margin of nuchal plate' /  '<1' '>=1',
+		31 'Length ratio of anterolateral margin/posterolateral margin of nuchal plate' /  '<1' '>=1',
 		32 'Squarish nuchal plate with convex anterior division of the lateral margin and short postero-lateral corners' /  absent present,
 		33 Obtected_nuchal_area_on_paranuchal_plate /  absent present,
 		34 Size_of_lateral_pits /  small enlarged,
 		35 Shape_of_postmarginal_plate /  triangular_and_quadrangular 'pentagonal (extra angle on margin with lateral plate)',
-		36 'Ratio of length/width of postmarginal plate' /  '<1' ?1,
+		36 'Ratio of length/width of postmarginal plate' /  '<1' '>=1',
 		37 shape_of_semilunar_plate /  long_and_shallow short_and_deep,
 		38 The_broadest_part_of_anterior_median_dorsal_plate_at_lateral_corners_in_adults /  absent present,
 		39 Lateral_corners_of_anterior_median_dorsal_plate_appear_early_in_ontogeny /  absent present,
@@ -172,7 +172,7 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1718758705966;
+		timeSaved 1718758896971;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 5327608084194806539;
