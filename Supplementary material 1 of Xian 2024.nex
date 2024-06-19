@@ -1,5 +1,5 @@
 #NEXUS
-[written Tue Jun 13 21:45:02 CST 2023 by Mesquite  version 3.61 (build 927) at DESKTOP-44UTPR5/192.168.3.41]
+[written Wed Jun 19 08:58:25 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
 
 BEGIN TAXA;
 	TITLE Taxa;
@@ -33,9 +33,9 @@ BEGIN CHARACTERS;
 		15 Shape_of_premedian_plate /  narrow broad,
 		16 Lateral_margin_of_premedian_plate /  'straight/concave' convex,
 		17 Posterior_margin_of_premedian_plate /  'straight/convex' concave,
-		18 'Width ratio of anterior margin/mesial constriction of premedian plate' /  ' <1' ?1,
-		19 'Width ratio of anterior margin/posterior margin of premedian plate' /  ' <1' ?1,
-		20 'Width ratio of mesial constriction/posterior margin of premedian plate' /  ' <1' ?1,
+		18 'Width ratio of anterior margin/mesial constriction of premedian plate' /  '<1' ?1,
+		19 'Width ratio of anterior margin/posterior margin of premedian plate' /  '<1' ?1,
+		20 'Width ratio of mesial constriction/posterior margin of premedian plate' /  '<1' ?1,
 		21 Lateral_corner_of_skull_roof_relative_to_orbital_margin_of_postpineal_plate /  anterior_of_orbital_margin_of_postpineal_plate at_same_level_as_or_posterior_of_orbital_margin_of_postpineal_plate,
 		22 Anterior_margin_of_postpineal_plate /  concave 'flat/ convex',
 		23 Flanged_margin_of_postpineal_plate /  absent present,
@@ -49,7 +49,7 @@ BEGIN CHARACTERS;
 		31 'Length ratio of anterolateral margin/posterolateral margin of nuchal plate' /  '<1' ?1,
 		32 'Squarish nuchal plate with convex anterior division of the lateral margin and short postero-lateral corners' /  absent present,
 		33 Obtected_nuchal_area_on_paranuchal_plate /  absent present,
-		34 Size_of_lateral_pits_ /  small enlarged,
+		34 Size_of_lateral_pits /  small enlarged,
 		35 Shape_of_postmarginal_plate /  triangular_and_quadrangular 'pentagonal (extra angle on margin with lateral plate)',
 		36 'Ratio of length/width of postmarginal plate' /  '<1' ?1,
 		37 shape_of_semilunar_plate /  long_and_shallow short_and_deep,
@@ -172,7 +172,7 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1686663902738;
+		timeSaved 1718758705966;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 5327608084194806539;
@@ -184,7 +184,7 @@ Begin MESQUITE;
 		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
 		tell It;
 			setID 0 8946020061134567412;
-			mqVersion 361;
+			mqVersion 381;
 			checksumv 0 3 2419228494 null  getNumChars 72 numChars 72 getNumTaxa 66 numTaxa 66   short true   bits 2305843009213693983   states 31   sumSquaresStatesOnly 10072.0 sumSquares -3.2281802128991707E19 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
 			mqVersion;
 		endTell;
@@ -197,7 +197,7 @@ Begin MESQUITE;
 			setAnnotationSize 0;
 			setFontIncAnnot 0;
 			setFontIncExp 0;
-			setSize 1280 593;
+			setSize 1873 952;
 			setLocation -8 0;
 			setFont SanSerif;
 			setFontSize 10;
@@ -216,7 +216,7 @@ Begin MESQUITE;
 					setAnnotationSize 20;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
-					setSize 1180 521;
+					setSize 1773 880;
 					setLocation -8 0;
 					setFont SanSerif;
 					setFontSize 10;
@@ -224,7 +224,6 @@ Begin MESQUITE;
 					tell It;
 						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
 					endTell;
-					setActive;
 					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
 					colorCells  #mesquite.charMatrices.NoColor.NoColor;
 					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
@@ -244,6 +243,7 @@ Begin MESQUITE;
 					toggleShowDefaultCharNames off;
 					toggleConstrainCW on;
 					toggleBirdsEye off;
+					toggleColorOnlyTaxonNames off;
 					toggleShowPaleGrid off;
 					toggleShowPaleCellColors off;
 					toggleShowPaleExcluded off;
@@ -284,7 +284,7 @@ Begin MESQUITE;
 						setAnnotationSize 20;
 						setFontIncAnnot 0;
 						setFontIncExp 0;
-						setSize 1180 521;
+						setSize 1773 880;
 						setLocation -8 0;
 						setFont SanSerif;
 						setFontSize 10;
@@ -292,6 +292,7 @@ Begin MESQUITE;
 						tell It;
 							setTool mesquite.categ.StateNamesEditor.StateNamesWindow.ibeam;
 						endTell;
+						setActive;
 						rowsAreCharacters on;
 						toggleConstrainChar on;
 						toggleConstrainCharNum 3;
