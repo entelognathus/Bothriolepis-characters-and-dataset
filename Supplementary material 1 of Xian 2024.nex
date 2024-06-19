@@ -1,5 +1,5 @@
 #NEXUS
-[written Wed Jun 19 09:01:36 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
+[written Wed Jun 19 09:19:16 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
 
 BEGIN TAXA;
 	TITLE Taxa;
@@ -85,9 +85,9 @@ BEGIN CHARACTERS;
 		67 Anterior_submarginal_plate_attachment_supported_by_a_separate_ridge_in_transverse_lateral_groove /  no yes,
 		68 Ornamentation_in_juveniles /  tubercular reticular,
 		69 Ornamentation_in_adults /  tubercular reticular,
-		70 shape_of_postpineal_plate /  long_and_shallow short_and_deep,
-		71 anterior_oblique_dorsal_sensory_line_groove_on_anterior_median_dorsal_plate /  absent present,
-		72 'Shape of obtected nuchal area (nm) anterior margin' /  'straight/ sinuous' convex concave ; 
+		70 'Breadth/length ratio of postpineal plate' /  ?0.5 '>0.5',
+		71 Anterior_oblique_dorsal_sensory_line_groove_on_anterior_median_dorsal_plate /  absent present,
+		72 Anterior_margin_of_obtected_nuchal_area /  'straight/ sinuous' convex concave ; 
 	MATRIX
 	Dianolepis_liui          00?00221?001110011111100?00001000001???????11????????000?02010-01?1-00?2
 	Grossilepis_tuberculata  0???02011110000001110101100?211000010000?1011?00001?000000-01100101?0000
@@ -172,7 +172,7 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1718758896971;
+		timeSaved 1718759956482;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 5327608084194806539;
