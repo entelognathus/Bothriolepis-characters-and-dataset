@@ -65,7 +65,7 @@ BEGIN CHARACTERS;
 		47 Crista_transversalis_anterior_transversely_oriented_on_ventral_lamina_of_anterior_ventrolateral_plate,
 		48 'Ventro-lateral ridge makes a keel on anterior ventrolateral plate',
 		49 Shape_of_axillary_foramen,
-		50 'Slender proximal segment of pectoral fin (length/width ratio greater than 7)',
+		50 'Slender proximal segment of pectoral fin (length/width ratio greater than 4 in mature individuals)',
 		51 'Mesial marginal plate 1/2 and ventral central plate 1/2 all contact in one point',
 		52 'Contact ventral central plate 1, ventral central plate 2, mesial marginal plate 1, mesial marginal plate 2 in pectoral fin',
 		53 Dorsal_central_plate_5_in_distal_segment,
