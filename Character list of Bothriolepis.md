@@ -1,4 +1,4 @@
-##List of characters
+#List of characters
 
 1\. Shape of preorbital recess: (0) simple and rounded; (1) trilobate; (2) pentagonal; (3) trifid; (4) fan-shaped.
 
