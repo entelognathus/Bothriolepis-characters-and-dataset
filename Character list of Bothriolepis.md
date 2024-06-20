@@ -204,7 +204,7 @@
 
 > Young (1988), Character 27k; Lukševičs (2001), Character 4; Dupret et al. (2023), Character 38; Luo et al. (2023), Character 49.
 
-50\. Slender proximal segment of pectoral fin (length/width ratio greater than 4): (0) absent; (1) present.
+50\. Slender proximal segment of pectoral fin (length/width ratio greater than 4 in mature individuals): (0) absent; (1) present.
 
 > Luo et al. (2023), Character 50.
 
