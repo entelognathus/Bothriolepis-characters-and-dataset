@@ -288,7 +288,7 @@
 
 > Dupret *et al.* (2023) considered the ornamentation in juveniles and adults in single character, we reformulated it into 2 characters (Characters 68 and 69).
 
-70\. Shape of postpineal plate: (0) long and narrow; (1) short and broad.
+70\. Breadth/length ratio of postpineal plate: (0) ≤0.5; (1) >0.5.
 
 > New character.
 
