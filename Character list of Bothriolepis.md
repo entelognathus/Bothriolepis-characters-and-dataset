@@ -16,11 +16,11 @@
 
 4\. Separate triangular and ventrally-facing attachment surface for prelateral plate on lateral plate: (0) absent; (1) present.
 
-> Young (1988), Character 27m; Luksevics (2021), Character l; Luo et al. (2023), Character 4.
+> Young (1988), Character 27m; Lukševičs (2021), Character l; Luo et al. (2023), Character 4.
 
 5\. Anterior portion of posterior attachment area for submarginal plate covers spiracular groove: (0) absent; (1) present.
 
-> Luksevics (2001), Character m; Luo et al. (2023), Character 5.
+> Lukševičs (2001), Character m; Luo et al. (2023), Character 5.
 
 6\. Anterior margin of skull roof (for adults only): (0) rounded; (1) squared; (2) pointed anterior tip.
 
@@ -56,7 +56,7 @@
 
 13\. Thickened bone along orbital margin of premedian and lateral plates: (0) absent; (1) present.
 
-> Young (1988), Character o; Luksevics (2001), Character 8; Luo et al. (2023), Character 13.
+> Young (1988), Character o; Lukševičs (2001), Character 8; Luo et al. (2023), Character 13.
 
 14\. Width of orbital fenestra greater than 1/3 of the skull roof: (0) absent; (1) present.
 
@@ -126,13 +126,13 @@
 
 > Dupret et al. (2023), Character 23; Luo et al. (2023), Character 30.
 
-31\. Length ratio of <a name="_hlk130547778"></a>anterolateral margin/<a name="_hlk130547798"></a>posterolateral margin of nuchal plate: (0) <1; (1) ≥1.
+31\. Length ratio of anterolateral margin / posterolateral margin of nuchal plate: (0) <1; (1) ≥1.
 
 > Dupret et al. (2023), Character 24; Luo et al. (2023), Character 31.
 
 32\. Squarish nuchal plate with convex anterior division of the lateral margin and short postero-lateral corners: (0) absent; (1) present.
 
-> Young (1988), Character p; Johanson & Young (1999), Character 10; Luksevics (2001), Character 13; Dupret et al. (2023), Character 25; Luo et al. (2023), Character 32.
+> Young (1988), Character p; Johanson & Young (1999), Character 10; Lukševičs (2001), Character 13; Dupret et al. (2023), Character 25; Luo et al. (2023), Character 32.
 
 33. Obtected nuchal area on paranuchal plate: (0) absent; (1) present.
 
@@ -158,11 +158,11 @@
 
 38\. The broadest part of anterior median dorsal plate at lateral corners in adults: (0) absent; (1) present.
 
-> Young (1988), Character b; Luksevics (2001), Character 1; Dupret et al. (2023), Character 30; Luo et al. (2023), Character 38.
+> Young (1988), Character b; Lukševičs (2001), Character 1; Dupret et al. (2023), Character 30; Luo et al. (2023), Character 38.
 
 39\. Lateral corners of anterior median dorsal plate appear early in ontogeny: (0) absent; (1) present.
 
-> Young (1988), Character c; Luksevics (2001), Character 2; Character b; Dupret et al. (2023), Character 31; Luo et al. (2023), Character 39.
+> Young (1988), Character c; Lukševičs (2001), Character 2; Character b; Dupret et al. (2023), Character 31; Luo et al. (2023), Character 39.
 
 40\. Median dorsal plate crest: (0) absent; (1) present.
 
@@ -194,7 +194,7 @@
 
 47\. Crista transversalis anterior transversely oriented on ventral lamina of anterior ventrolateral plate: (0) no; (1) yes.
 
-> Young (1988), Character n; Luksevics (2001), Character 11; Dupret et al. (2023), Character 36; Luo et al. (2023), Character 47.
+> Young (1988), Character n; Lukševičs (2001), Character 11; Dupret et al. (2023), Character 36; Luo et al. (2023), Character 47.
 
 48\. Ventro-lateral ridge makes a keel on anterior ventrolateral plate: (0) no; (1) yes.
 
@@ -206,12 +206,13 @@
 
 50\. Slender proximal segment of pectoral fin (length/width ratio greater than 4): (0) absent; (1) present.
 
-> Luksevics (2001), Character 10; Luo et al. (2023), Character 50.
-> In the definition of ‘Character 50’ in Luo et al. (2023), the slender proximal segment of pectoral fin is defined by ‘length/width ratio greater than 7’. Here, we modified this definition as ‘length/width ratio greater than 4 in mature individuals’. This is because this feature (length/width ratio in proximal segment of pectoral fin) is demonstrably variable based on the individual size of a single species, but in the fully mature one, we consider it as a stable proportion. The proportion of 4 is referred from Stensiö (1948, p. 151) which states that ‘in most species, it is 4-3.3 times as long as broad in fully mature individuals, but in several species, it is of a longer and slenderer shape’. For those species erected based on only young individuals or species that cannot be determined as mature ones, we scored their character state as “?” in the data matrix.
+> Luo et al. (2023), Character 50.
+
+> - This character was formulated by Luo et al. (2023), in which the slender proximal segment of pectoral appendage was defined as ‘length/width ratio greater than 7’. Here, we modified the definition of the slender proximal segment as ‘length/width ratio greater than 4.0 in mature individuals’. This is because this feature (length/width ratio of proximal segment of pectoral appendage) is demonstrably variable based on the individual size of a single species, but in the fully mature one, we consider it as a stable proportion. The proportion of 4.0 is referred from Stensiö (1948, p. 151), who stated that ‘in most species, it is 4-3.3 times as long as broad in fully mature individuals, but in several species, it is of a longer and slenderer shape’. For those species erected based on only young individuals or species that cannot be determined as mature ones, we scored their character state as “?” in the data matrix.
 
 51\. Mesial marginal plates 1 and 2, and ventral central plates 1 and 2, all contact in one point: (0) absent; (1) present.
 
-> Young (1988), Character h; Luksevics (2001), Character 3; Luo et al. (2023), Character 51.
+> Young (1988), Character h; Lukševičs (2001), Character 3; Luo et al. (2023), Character 51.
 
 52\. Contact of ventral central plate 1, ventral central plate 2, mesial marginal plate 1, mesial marginal plate 2 in pectoral fin: (0) mesial marginal plate 1 + ventral central plate 2 separate ventral central plate 1 from mesial marginal plate 2; (1) ventral central plate 1 and mesial marginal plate 2 in contact.
 
@@ -219,7 +220,7 @@
 
 53\. Dorsal central plate 5 in distal segment: (0) absent; (1) present.
 
-> Luksevics (2001), Character 14; Dupret et al. (2023), Character 40; Luo et al. (2023), Character 53.
+> Lukševičs (2001), Character 14; Dupret et al. (2023), Character 40; Luo et al. (2023), Character 53.
 
 54\. Middle pit-line long: (0) absent; (1) present.
 
