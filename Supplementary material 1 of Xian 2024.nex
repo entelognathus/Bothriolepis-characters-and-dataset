@@ -1,5 +1,5 @@
 #NEXUS
-[written Wed Jun 19 09:25:42 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
+[written Thu Jun 20 13:26:52 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
 
 BEGIN TAXA;
 	TITLE Taxa;
@@ -65,7 +65,7 @@ BEGIN CHARACTERS;
 		47 Crista_transversalis_anterior_transversely_oriented_on_ventral_lamina_of_anterior_ventrolateral_plate /  no yes,
 		48 'Ventro-lateral ridge makes a keel on anterior ventrolateral plate' /  no yes,
 		49 Shape_of_axillary_foramen /  higher_than_long longer_than_high_or_as_long_as_high,
-		50 'Slender proximal segment of pectoral fin (length/width ratio greater than 7)' /  absent present,
+		50 'Slender proximal segment of pectoral appendage (length/width ratio greater than 4.0 in mature individuals)' /  absent present,
 		51 'Mesial marginal plate 1/2 and ventral central plate 1/2 all contact in one point' /  absent present,
 		52 'Contact ventral central plate 1, ventral central plate 2, mesial marginal plate 1, mesial marginal plate 2 in pectoral fin' /  'mesial marginal plate 1 + ventral central plate 2 separate ventral central plate 1 from mesial marginal plate 2' ventral_central_plate_1_and_mesial_marginal_plate_2_contact,
 		53 Dorsal_central_plate_5_in_distal_segment /  absent present,
@@ -172,7 +172,7 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1718760342252;
+		timeSaved 1718861212426;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 5327608084194806539;
@@ -224,7 +224,6 @@ Begin MESQUITE;
 					tell It;
 						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
 					endTell;
-					setActive;
 					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
 					colorCells  #mesquite.charMatrices.NoColor.NoColor;
 					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
@@ -281,6 +280,10 @@ Begin MESQUITE;
 				tell It;
 					makeWindow;
 					tell It;
+						getTable;
+						tell It;
+							rowNamesWidth 571;
+						endTell;
 						setExplanationSize 30;
 						setAnnotationSize 20;
 						setFontIncAnnot 0;
@@ -293,6 +296,7 @@ Begin MESQUITE;
 						tell It;
 							setTool mesquite.categ.StateNamesEditor.StateNamesWindow.ibeam;
 						endTell;
+						setActive;
 						rowsAreCharacters on;
 						toggleConstrainChar on;
 						toggleConstrainCharNum 3;
