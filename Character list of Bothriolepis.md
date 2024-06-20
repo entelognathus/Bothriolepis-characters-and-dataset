@@ -1,4 +1,4 @@
-**List of characters**
+##List of characters
 
 1\. Shape of preorbital recess: (0) simple and rounded; (1) trilobate; (2) pentagonal; (3) trifid; (4) fan-shaped.
 
@@ -126,7 +126,7 @@
 
 > Dupret et al. (2023), Character 23; Luo et al. (2023), Character 30.
 
-31\. Length ratio of anterolateral margin / posterolateral margin of nuchal plate: (0) <1; (1) ≥1.
+31\. Length ratio of anterolateral margin/posterolateral margin of nuchal plate: (0) <1; (1) ≥1.
 
 > Dupret et al. (2023), Character 24; Luo et al. (2023), Character 31.
 
