@@ -1,10 +1,10 @@
-#List of characters
+## List of characters
 
 1\. Shape of preorbital recess: (0) simple and rounded; (1) trilobate; (2) pentagonal; (3) trifid; (4) fan-shaped.
 
 > Young (1988), Character 27e, i, r; Dupret et al. (2023), Character 1; Luo et al. (2023), Character 1. 
 
-> The state (trapezoidal for *Livnolepis*, Dupret *et al*., 2023) is omitted in our dataset because no *Bothriolepis* species bears this state. *Remigolepis walker* and *Dianolepis liui* are coded as the state “0”, following Johanson (1997b) and Pan *et al*. (2018). 
+> - The state (trapezoidal for *Livnolepis*, Dupret *et al*., 2023) is omitted in our dataset because no *Bothriolepis* species bears this state. *Remigolepis walker* and *Dianolepis liui* are coded as the state “0”, following Johanson (1997b) and Pan *et al*. (2018). 
 
 2\. Anterior extension of anterior postorbital process of neurocranium: (0) posterior of posterior level of orbital fenestra; (1) at or anterior of posterior level of orbital fenestra.
 
@@ -36,7 +36,7 @@
 
 > Young (1988), Character 27l, Dupret et al. (2023), Character 5; Luo et al. (2023), Character 8.
 
-> *Dianolepis liui* is coded as ‘1’ (Pan *et al*., 2018); *B. obrutschewi* as ‘0’ (Lukševičs, 2001).
+> - *Dianolepis liui* is coded as ‘1’ (Pan *et al*., 2018); *B. obrutschewi* as ‘0’ (Lukševičs, 2001).
 
 9\. Positions of mesial and ventral laminae of lateral and paranuchal plates: (0) same level; (1) lag.
 
