@@ -446,15 +446,15 @@
 
 ## References
 
-Young, G.C., 1988. Antiarchs (placoderm fishes) from the Devonian Aztec Siltstone, Southern Victoria Land, Antarctica. Palaeontographica Abteilung A, Paläozoologie, Stratigraphie, 202: 1–125.
+Young, G.C., (1988). Antiarchs (placoderm fishes) from the Devonian Aztec Siltstone, Southern Victoria Land, Antarctica. Palaeontographica Abteilung A, Paläozoologie, Stratigraphie, 202: 1–125.
 
-Long, J.A., 1983. New bothriolepid fish from the Late Devonian of Victoria, Australia. Palaeontology, 26(2): 295–320.
+Long, J.A., (1983). New bothriolepid fish from the Late Devonian of Victoria, Australia. Palaeontology, 26(2): 295–320.
 
-Dupret, V., Byrne, H.M., Castro, N., Hammer, Ø., Higgs, K.T., Long, J.A., Niedźwiedzki, G., Qvarnström, M., Stössel, I., and Ahlberg, P.E., 2023. The *Bothriolepis* (Placodermi, Antiarcha) material from the Valentia Slate Formation of the Iveragh Peninsula (middle Givetian, Ireland): Morphology, evolutionary and systematic considerations, phylogenetic and palaeogeographic implications. PloS One, 18(2): e0280208.
+Dupret, V., Byrne, H.M., Castro, N., Hammer, Ø., Higgs, K.T., Long, J.A., Niedźwiedzki, G., Qvarnström, M., Stössel, I., and Ahlberg, P.E., (2023). The *Bothriolepis* (Placodermi, Antiarcha) material from the Valentia Slate Formation of the Iveragh Peninsula (middle Givetian, Ireland): Morphology, evolutionary and systematic considerations, phylogenetic and palaeogeographic implications. PloS One, 18(2): e0280208.
 
-Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., 2023. Reappraisal of *Bothriolepis sinensis* Chi, 1940 from the Tiaomachien Formation, Hunan, China. Vertebrata PalAsiatica, 61(4): 261–276.
+Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., (2023). Reappraisal of *Bothriolepis sinensis* Chi, 1940 from the Tiaomachien Formation, Hunan, China. Vertebrata PalAsiatica, 61(4): 261–276.
 
-Lukševičs, E., 2001. Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
+Lukševičs, E., (2001). Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
 
-Johanson, Z., and Young, G., 1999. New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
+Johanson, Z., and Young, G., (1999). New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
 
