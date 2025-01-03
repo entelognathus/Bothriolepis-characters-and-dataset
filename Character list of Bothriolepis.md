@@ -1,39 +1,39 @@
 ## List of characters
 
 1. Shape of preorbital recess: (0) simple and rounded; (1) trilobate; (2) pentagonal; (3) trifid; (4) fan-shaped.
-
 > Young (1988), Character 27e, i, r; Dupret *et al.* (2023), Character 1; Luo *et al.* (2023), Character 1; Xian *et al*. (2025), Character 1. 
 
 > - The state (trapezoidal for *Livnolepis*, Dupret *et al*., 2023) is omitted in this dataset, because no *Bothriolepis* species bears this state. *Remigolepis walker* and *Dianolepis liui* are coded as the state “0”, following Johanson (1997b) and Pan *et al*. (2018).
 
 > - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis sihaodianensis* is .
+> - **To Xiao Yan, the question to us is whether *B. sihuaodianensis* is *B. yunnanensis*. As such, you need to check the newly found fossil material of B. yunnanensis by Wenjin Zhao in the suburb of Zhanyi.**
 
 2. Anterior extension of anterior postorbital process of neurocranium: (0) posterior of posterior level of orbital fenestra; (1) at or anterior of posterior level of orbital fenestra.
-
 > Dupret *et al.* (2023), Character 2; Luo *et al.* (2023), Character 2; Xian *et al*. (2025), Character 2.
 
 > - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis sihaodianensis* is .
 
 3. Well-developed median occipital crista: (0) absent; (1) present.
-
 > Long (1983), Character 8; Luo *et al.* (2023), Character 3; Xian *et al*. (2025), Character 3.
 
 > - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis sihaodianensis* is .
 
 4. Separate triangular and ventrally-facing attachment surface for prelateral plate on lateral plate: (0) absent; (1) present.
-
 > Young (1988), Character 27m; Lukševičs (2021), Character l; Luo *et al.* (2023), Character 4; Xian *et al*. (2025), Character 4.
 
 > - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis sihaodianensis* is .
 
 5. Anterior portion of posterior attachment area for submarginal plate covers spiracular groove: (0) absent; (1) present.
-
 > Lukševičs (2001), Character m; Luo *et al.* (2023), Character 5; Xian *et al*. (2025), Character 5.
 
 > - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis sihaodianensis* is .
 
 6. Anterior margin of skull roof (for adults only): (0) rounded; (1) squared; (2) pointed anterior tip.
-
 > Dupret *et al.* (2023), Character 3; Luo *et al.* (2023), Character 6; Xian *et al*. (2025), Character 6.
 
 > The states (2) and (3) in Dupret **et al.** (2023) are difficult to be discriminated. As such, we merged these two states into one state “pointed anterior tip”.
