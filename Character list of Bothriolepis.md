@@ -5,46 +5,47 @@
 
 > - The state (trapezoidal for *Livnolepis*, Dupret *et al*., 2023) is omitted in this dataset, because no *Bothriolepis* species bears this state. *Remigolepis walker* and *Dianolepis liui* are coded as the state “0”, following Johanson (1997b) and Pan *et al*. (2018).
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis sihaodianensis* is .
 > - **To Xiao Yan, the question to us is whether *B. sihuaodianensis* is *B. yunnanensis*. As such, you need to check the newly found fossil material of B. yunnanensis by Wenjin Zhao in the suburb of Zhanyi.**
 
 2. Anterior extension of anterior postorbital process of neurocranium: (0) posterior of posterior level of orbital fenestra; (1) at or anterior of posterior level of orbital fenestra.
-> Dupret *et al.* (2023), Character 2; Luo *et al.* (2023), Character 2; Xian *et al*. (2025), Character 2.
+> Dupret *et al.* (2023), Character 2; Luo *et al.* (2023), Character 2; Xian *et al*. (2
+> 025), Character 2.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis sihaodianensis* is .
 
 3. Well-developed median occipital crista: (0) absent; (1) present.
 > Long (1983), Character 8; Luo *et al.* (2023), Character 3; Xian *et al*. (2025), Character 3.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis sihaodianensis* is .
 
 4. Separate triangular and ventrally-facing attachment surface for prelateral plate on lateral plate: (0) absent; (1) present.
 > Young (1988), Character 27m; Lukševičs (2021), Character l; Luo *et al.* (2023), Character 4; Xian *et al*. (2025), Character 4.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis sihaodianensis* is .
 
 5. Anterior portion of posterior attachment area for submarginal plate covers spiracular groove: (0) absent; (1) present.
 > Lukševičs (2001), Character m; Luo *et al.* (2023), Character 5; Xian *et al*. (2025), Character 5.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis sihaodianensis* is .
 
 6. Anterior margin of skull roof (for adults only): (0) rounded; (1) squared; (2) pointed anterior tip.
 > Dupret *et al.* (2023), Character 3; Luo *et al.* (2023), Character 6; Xian *et al*. (2025), Character 6.
 
-> The states (2) and (3) in Dupret **et al.** (2023) are difficult to be discriminated. As such, we merged these two states into one state “pointed anterior tip”.
+> The states (2) and (3) in Dupret *et al.* (2023) are difficult to be discriminated. As such, we merged these two states into one state “pointed anterior tip”.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 7. Shape of orbitonasal fenestra: (0) anterior and posterior margins straight and parallel; (1) anteriorly concave and posteriorly convex (inversed bean); (2) anteriorly convex and posteriorly concave (bean); (3) concave anteriorly and posteriorly (peanut shaped); (4) convex anteriorly and posteriorly (rounded).
 
 > Dupret *et al.* (2023), Character 4; Luo *et al.* (2023), Character 7; Xian *et al*. (2025), Character 7.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 8. Preorbital region of skull: (0) short; (1) elongated.
 
@@ -52,97 +53,97 @@
 
 > - *Dianolepis liui* is coded as ‘1’ (Pan *et al*., 2018); *B. obrutschewi* as ‘0’ (Lukševičs, 2001).
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 9. Positions of mesial and ventral laminae of lateral and paranuchal plates: (0) same level; (1) lag.
 
 > Dupret *et al.* (2023), Character 6; Luo *et al.* (2023), Character 9; Xian *et al*. (2025), Character 9.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 10. Position of lateral corner of skull roof relative to junction of premedian, lateral and paranuchal plates: (0) lateral corner anterior of junction; (1) lateral corner posterior of or at same level as junction.
 
 > Dupret *et al.* (2023), Character 7; Luo *et al.* (2023), Character 10; Xian *et al*. (2025), Character 10.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 11. Position of posterior margin of orbit relative to junction of lateral, postmarginal and paranuchal plates: (0) posterior margin anterior of junction; (1) posterior margin posterior of or at same level as junction.
 
 > Dupret *et al.* (2023), Character 8; Luo *et al.* (2023), Character 11; Xian *et al*. (2025), Character 11.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 12. Posterolateral indentation on postmarginal and paranuchal plates for trunk shield: (0) unmarked, rather flat; (1) marked.
 
 > Dupret *et al.* (2023), Character 9; Luo *et al.* (2023), Character 12; Xian *et al*. (2025), Character 12.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 13. Thickened bone along orbital margin of premedian and lateral plates: (0) absent; (1) present.
 
 > Young (1988), Character o; Lukševičs (2001), Character 8; Luo *et al.* (2023), Character 13; Xian *et al*. (2025), Character 13.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 14. Width of orbital fenestra greater than 1/3 of the skull roof: (0) absent; (1) present.
 
 > Luo *et al.* (2023), Character 14; Xian *et al*. (2025), Character 14.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 15. Shape of premedian plate: (0) narrow (ratio of W/L < 1); (1) broad (ratio of W/L ≥ 1).
 
 > Luo *et al.* (2023), Character 15; Xian *et al*. (2025), Character 15.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 16. Lateral margin of premedian plate: (0) straight/concave; (1) convex.
 
 > Dupret *et al.* (2023), Character 10; Luo *et al.* (2023), Character 16; Xian *et al*. (2025), Character 16.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 17. Posterior margin of premedian plate: (0) straight/convex; (1) concave.
 
 > Dupret *et al.* (2023), Character 11; Luo *et al.* (2023), Character 17; Xian *et al*. (2025), Character 17.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 18. Width ratio of anterior margin/mesial constriction of premedian plate: (0) <1; (1) ≥1. 
 
 > Dupret *et al.* (2023), Character 12; Luo *et al.* (2023), Character 18; Xian *et al*. (2025), Character 18.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 19. Width ratio of anterior margin/posterior margin of premedian plate: (0) <1; (1) ≥1.
 
 > Dupret *et al.* (2023), Character 13; Luo *et al.* (2023), Character 19; Xian *et al*. (2025), Character 19.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 20. Width ratio of mesial constriction/posterior margin of premedian plate: (0) <1; (1) ≥1.
 
 > Dupret *et al.* (2023), Character 14; Luo *et al.* (2023), Character 20; Xian *et al*. (2025), Character 20.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 21. Lateral corner of skull roof relative to orbital margin of postpineal plate: (0) anterior of orbital margin of postpineal plate; (1) at same level as or posterior of orbital margin of postpineal plate.
 
 > Lukševičs, (2001), Character 18; Dupret *et al.* (2023), Character 16; Luo *et al.* (2023), Character 21; Xian *et al*. (2025), Character 21.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 22. Anterior margin of postpineal plate: (0) concave; (1) flat/convex.
 
 > Dupret *et al.* (2023), Character 17; Luo *et al.* (2023), Character 22; Xian *et al*. (2025), Character 22.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 23. Flanged margin of postpineal plate: (0) absent; (1) present.
 
 > Dupret *et al.* (2023), Character 18; Luo *et al.* (2023), Character 23; Xian *et al*. (2025), Character 23.
 
-> - The coding of *Bothriolepis chuandongensis* is . 
+> - The coding of *Bothriolepis chuandongensis* is ?. 
 
 24. Nuchal plate reaches posterior margin of orbital fenestra: (0) absent; (1) present.
 
