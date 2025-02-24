@@ -333,13 +333,13 @@
 
 > Lukševičs (2001), Character 9; Dupret *et al.* (2023), Character 41; Luo *et al.* (2023), Character 54; Xian *et al*. (2025), Character 54.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 55. Supra-occipital sensory groove long: (0) absent; (1) present.
 
 > Lukševičs (2001), Character 9; Dupret *et al.* (2023), Character 42; Luo *et al.* (2023), Character 55; Xian *et al*. (2025), Character 55.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is 0.
 
 56. Branch of infraorbital sensory line diverging on prelateral plate parallel to the rostral margin of head shield: (0) no; (1) yes.
 
@@ -351,73 +351,73 @@
 
 > Lukševičs (2001), Character 16; Dupret *et al.* (2023), Character 44; Luo *et al.* (2023), Character 57; Xian *et al*. (2025), Character 57.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 58. Long branch of infraorbital sensory groove diverging on prelateral plate: (0) no; (1) yes. 
 
 > Lukševičs (2001), Character 19; Dupret *et al.* (2023), Character 45; Luo *et al.* (2023), Character 58; Xian *et al*. (2025), Character 58.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 59. Junction of rostral infraorbital sensory line in midline on premedian plate: (0) straight or light posterior indentation; (1) very deep posterior indentation; (2) no connection.
 
 > Dupret *et al.* (2023), Character 46; Luo *et al.* (2023), Character 59; Xian *et al*. (2025), Character 59.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 60. Semi-circular groove on lateral plate: (0) reduced; (1) developed.
 
 > Dupret *et al.* (2023), Character 47; Luo *et al.* (2023), Character 60; Xian *et al*. (2025), Character 60.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 61. Shape of central sensory groove: (0) straight; (1) curved.
 
 > Dupret *et al.* (2023), Character 48; Luo *et al.* (2023), Character 61; Xian *et al*. (2025), Character 61.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is 0.
 
 62. Central sensory groove: (0) only on nuchal plate; (1) on nuchal and lateral plates.
 
 > Dupret *et al.* (2023), Character 49; Luo *et al.* (2023), Character 62; Xian *et al*. (2025), Character 62.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is 1.
 
 63. Central sensory groove: (0) directed to semicircular groove; (1) directed to junction of lateral, paranuchal and nuchal plates.
 
 > Dupret *et al.* (2023), Character 50; Luo *et al.* (2023), Character 63; Xian *et al*. (2025), Character 63.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 64. Central sensory groove extends anteriorly of the extension line of anterior margin of orbital fenestra: (0) absent; (1) present
 
 > Luo *et al.* (2023), Character 64; Xian *et al*. (2025), Character 64.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 65. Central sensory groove followed posteriorly by supraoccipital cross-commissural pitline groove after converging on nuchal plate: (0) absent; (1) present.
 
 > Luo *et al.* (2023), Character 65; Xian *et al*. (2025), Character 65.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is 1.
 
 66. Pectoral pit-line traced on the ventral central plate 1 and extends to ventral central plate 2: (0) absent; (1) present.
 
 > Lukševičs (2001), Character 5; Luo *et al.* (2023), Character 66; Xian *et al*. (2025), Character 66.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 67. Anterior submarginal plate attachment supported by a separate ridge in transverse lateral groove: (0) no; (1) yes.
 
 > Young (1988), Character 27j; Dupret *et al.* (2023), Character 34; Luo *et al.* (2023), Character 67; Xian *et al*. (2025), Character 67.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 68. Ornamentation in juveniles: (0) tubercular; (1) reticular.
 
 > Young (1988), Character a; Luo *et al.* (2023), Character 68; Xian *et al*. (2025), Character 68.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 69. Ornamentation in adults: (0) tubercular; (1) reticular.
 
@@ -425,25 +425,25 @@
 
 > Dupret **et al.** (2023) considered the ornamentation in juveniles and adults in single character, we reformulated it into 2 characters (Characters 68 and 69).
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is 1.
 
 70. Breadth/length ratio of postpineal plate: (0) ≤0.5; (1) >0.5.
 
 > Xian *et al*. (2025), Character 70.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is ?.
 
 71. Anterior oblique dorsal sensory line groove on anterior median dorsal plate: (0) absent; (1) present.
 
 > Xian *et al*. (2025), Character 71.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is 1.
 
 72. Anterior margin of obtected nuchal area:(0) straight or sinuous; (1) convex; (2) concave.
 
 > Xian *et al*. (2025), Character 72.
 
-> - The coding of *Bothriolepis chuandongensis* is .
+> - The coding of *Bothriolepis chuandongensis* is 1.
 
 ## References
 
