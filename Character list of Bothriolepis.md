@@ -143,7 +143,8 @@
 
 > Dupret *et al.* (2023), Character 18; Luo *et al.* (2023), Character 23; Xian *et al*. (2025), Character 23.
 
-> - The coding of *Bothriolepis chuandongensis* is ?. 
+> - The coding of *Bothriolepis chuandongensis* is ?.
+> - Should be *B. cristata* considered as 0? Its clearly differ with *B. fergusoni*. Luo
 
 24. Nuchal plate reaches posterior margin of orbital fenestra: (0) absent; (1) present.
 
