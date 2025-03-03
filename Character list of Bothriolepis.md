@@ -444,7 +444,7 @@
 
 > Xian *et al*. (2025), Character 72.
 
-> - The coding of *Bothriolepis chuandongensis* is 1.
+> - The coding of *Bothriolepis chuandongensis* is 2.
 
 ## References
 
