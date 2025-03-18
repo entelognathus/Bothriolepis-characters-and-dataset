@@ -204,7 +204,7 @@
 
 > Lukševičs (2001), Character 6; Dupret *et al.* (2023), Character 26; Luo *et al.* (2023), Character 33; Xian *et al*. (2025), Character 33.
 
-> - The coding of *Bothriolepis chuandongensis* is ?.
+> - The coding of *Bothriolepis chuandongensis* is 0.
 
 34. Size of lateral pits: (0) small; (1) enlarged.
 
@@ -254,7 +254,7 @@
 
 > Dupret *et al.* (2023), Character 32; Luo *et al.* (2023), Character 41; Xian *et al*. (2025), Character 41.
 
-> - The coding of *Bothriolepis chuandongensis* is -.
+> - The coding of *Bothriolepis chuandongensis* is 0.
 
 42. Contact margin of anterior median dorsal plate and anterior dorsolateral plate: (0) straight; (1) sigmoid or sinuous.
 
@@ -296,7 +296,7 @@
 
 > Lukševičs (2001), Character 20; Dupret *et al.* (2023), Character 37; Luo *et al.* (2023), Character 48; Xian *et al*. (2025), Character 48.
 
-> - The coding of *Bothriolepis chuandongensis* is 0.
+> - The coding of *Bothriolepis chuandongensis* is 1.
 
 49. Shape of axillary foramen: (0) higher than long; (1) longer than high or as long as high.
 
@@ -376,7 +376,7 @@
 
 > Dupret *et al.* (2023), Character 48; Luo *et al.* (2023), Character 61; Xian *et al*. (2025), Character 61.
 
-> - The coding of *Bothriolepis chuandongensis* is 0.
+> - The coding of *Bothriolepis chuandongensis* is 1.
 
 62. Central sensory groove: (0) only on nuchal plate; (1) on nuchal and lateral plates.
 
