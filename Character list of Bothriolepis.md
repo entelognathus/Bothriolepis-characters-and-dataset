@@ -6,33 +6,32 @@
 > - The state (trapezoidal for *Livnolepis*, Dupret *et al*., 2023) is omitted in this dataset, because no *Bothriolepis* species bears this state. *Remigolepis walker* and *Dianolepis liui* are coded as the state “0”, following Johanson (1997b) and Pan *et al*. (2018).
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis sihaodianensis* is .
-> - **To Xiao Yan, the question to us is whether *B. sihuaodianensis* is *B. yunnanensis*. As such, you need to check the newly found fossil material of B. yunnanensis by Wenjin Zhao in the suburb of Zhanyi.**
+> - The coding of *Bothriolepis yunnanensis* is ?.
 
 2. Anterior extension of anterior postorbital process of neurocranium: (0) posterior of posterior level of orbital fenestra; (1) at or anterior of posterior level of orbital fenestra.
 > Dupret *et al.* (2023), Character 2; Luo *et al.* (2023), Character 2; Xian *et al*. (2
 > 025), Character 2.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis sihaodianensis* is .
+> - The coding of *Bothriolepis yunnanensis* is ?.
 
 3. Well-developed median occipital crista: (0) absent; (1) present.
 > Long (1983), Character 8; Luo *et al.* (2023), Character 3; Xian *et al*. (2025), Character 3.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis sihaodianensis* is .
+> - The coding of *Bothriolepis yunnanensis* is ?.
 
 4. Separate triangular and ventrally-facing attachment surface for prelateral plate on lateral plate: (0) absent; (1) present.
 > Young (1988), Character 27m; Lukševičs (2021), Character l; Luo *et al.* (2023), Character 4; Xian *et al*. (2025), Character 4.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis sihaodianensis* is .
+> - The coding of *Bothriolepis yunnanensis* is ?.
 
 5. Anterior portion of posterior attachment area for submarginal plate covers spiracular groove: (0) absent; (1) present.
 > Lukševičs (2001), Character m; Luo *et al.* (2023), Character 5; Xian *et al*. (2025), Character 5.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis sihaodianensis* is .
+> - The coding of *Bothriolepis yunnanensis* is ?.
 
 6. Anterior margin of skull roof (for adults only): (0) rounded; (1) squared; (2) pointed anterior tip.
 > Dupret *et al.* (2023), Character 3; Luo *et al.* (2023), Character 6; Xian *et al*. (2025), Character 6.
@@ -42,17 +41,18 @@
 > - The coding of *Bothriolepis chuandongensis* is ?.
 
 7. Shape of orbitonasal fenestra: (0) anterior and posterior margins straight and parallel; (1) anteriorly concave and posteriorly convex (inversed bean); (2) anteriorly convex and posteriorly concave (bean); (3) concave anteriorly and posteriorly (peanut shaped); (4) convex anteriorly and posteriorly (rounded).
-
 > Dupret *et al.* (2023), Character 4; Luo *et al.* (2023), Character 7; Xian *et al*. (2025), Character 7.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 
 8. Preorbital region of skull: (0) short; (1) elongated.
+> Young (1988), Character 27l; Dupret *et al.* (2023), Character 5; Luo *et al.* (2023), Character 8; Xian *et al*. (2025), Character 8.
 
-> Young (1988), Character 27l, Dupret *et al.* (2023), Character 5; Luo *et al.* (2023), Character 8; Xian *et al*. (2025), Character 8.
+> - The character "elongated preorbital region of skull" was first used by Young (1988) to define the grouping '*B. kohni*, *B. portalensis*, and *B. shaokuanensis*'. The character was later adopted by Dupret *et al*. (2023), however, all *Bothriolepis* species except *B. askinae* and *B. fergusoni* were coded as the elongated preorbital region of skull. *B. obrutschewi* (Lukševičs, 2001)  was coded as ‘0/1’ (Dupret *et al*., 2023). This character was followed by Luo *et al.* (2023) and Xian *et al*. (2025), with short preorbital region of skull for *B. askinae*, *B. fergusoni*, and some added species (*B. cristata*, *B. laverocklochensis* (Miles, 1968), *B. jazwicensis* (Szrek, 2004)). This reflects the definition in Dupret *et al.* (2023), Luo *et al.* (2023), Xian *et al*. (2025) different from the original definition (Young, 1988).
+> - To avoid this ambiguity, we reformuate this character as "length index of preorbital region to postorbital region of skull: <1 (0), >=1 (1)". 
+
 
 > - *Dianolepis liui* is coded as ‘1’ (Pan *et al*., 2018); *B. obrutschewi* as ‘0’ (Lukševičs, 2001).
-
 > - The coding of *Bothriolepis chuandongensis* is ?.
 
 9. Positions of mesial and ventral laminae of lateral and paranuchal plates: (0) same level; (1) lag.
