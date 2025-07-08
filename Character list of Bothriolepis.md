@@ -351,7 +351,7 @@ many in 1
 
 56. Branch of infraorbital sensory line diverging on prelateral plate parallel to the rostral margin of head shield: (0) no; (1) yes.
 
-> Lukševičs (2001), Character 12; Dupret *et al.* (2023), Character 43; Luo *et al.* (2023), Character 56; Xian *et al*. (2025), Character 56.
+> Lukševičs (2001), Character 12; Dupret *et al.* (2023), Character 49; Luo *et al.* (2023), Character 56; Xian *et al*. (2025), Character 56.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 
