@@ -195,7 +195,7 @@ many in 1
 
 > - The coding of *Bothriolepis chuandongensis* is 1.
 
-31. Length ratio of anterolateral margin/posterolateral margin of nuchal plate: (0) <1; (1) ≥1.
+31. Length ratio of anterolateral margin/posterolateral margin of nuchal plate: (0) <1; (1) =1; (2) >1.
 
 > Dupret *et al.* (2023), Character 24; Luo *et al.* (2023), Character 31; Xian *et al*. (2025), Character 31.
 
