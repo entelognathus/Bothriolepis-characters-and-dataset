@@ -47,7 +47,7 @@
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 3.
 
-8. Length index of preorbital region to postorbital region of skull: (0) < 70, (1) >= 70, < 120, (2) >= 120 (ordered).
+8. Length index of preorbital region to postorbital region of skull: (0) < 70, (1) ≥ 70, < 120, (2) ≥ 120 (ordered).
 > Young (1988), Character 27l; Dupret *et al.* (2023), Character 5; Luo *et al.* (2023), Character 8; Xian *et al*. (2025), Character 8.
 
 > - The character "elongated preorbital region of skull" was first used by Young (1988) to define the grouping '*B. kohni*, *B. portalensis*, and *B. shaokuanensis*'. The character "preorbital region of skull: (0) short; (1) elongated' was later adopted by Dupret *et al*. (2023), however, all *Bothriolepis* species except *B. askinae* and *B. fergusoni* were coded as the elongated preorbital region of skull. *B. obrutschewi* (Lukševičs, 2001)  was coded as ‘0/1’ (Dupret *et al*., 2023). This character was followed by Luo *et al.* (2023) and Xian *et al*. (2025), with short preorbital region of skull for *B. askinae*, *B. fergusoni*, and some added species (*B. cristata*, *B. laverocklochensis* (Miles, 1968), *B. jazwicensis* (Szrek, 2004)). This reflects the definition in Dupret *et al.* (2023), Luo *et al.* (2023), Xian *et al*. (2025) different from the original definition (Young, 1988).
@@ -149,9 +149,9 @@
 21. Lateral corner of skull roof relative to orbital margin of postpineal plate: (0) anterior of orbital margin of postpineal plate; (1) at same level as or posterior of orbital margin of postpineal plate.
 > Lukševičs, (2001), Character 18; Dupret *et al.* (2023), Character 16; Luo *et al.* (2023), Character 21; Xian *et al*. (2025), Character 21.
 
-> - Dupret et al. (2023), Luo et al. (2023), and Xian et al. (2025) coded *B. cellulosa*, *B. evaldi*, *B. leptocheira*, *B. obrutschewi*, *B. ornata*, *B. panderi*, and *B. traudscholdi* as 0. After re-examination, these codes have been revised to 1.
+> - Dupret et al. (2023), Luo et al. (2023), and Xian et al. (2025) coded *B. cellulosa* Lukševičs, (2001), *B. evaldi* Lukševičs, (2001) *B. leptocheira* Lukševičs, (2001), *B. obrutschewi* Lukševičs, (2001), *B. ornata* Lukševičs, (2001), *B. panderi* Lukševičs, (2001), and *B. traudscholdi* Lukševičs, (2001) as 0. After re-examination, these codes have been revised to 1. *B. jani* Lukševičs, (2001) changed to "?"
 
-*B. jani* ?
+
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 1.
 
@@ -236,7 +236,7 @@
 33. Obtected nuchal area on paranuchal plate: (0) absent; (1) present.
 
 > Lukševičs (2001), Character 6; Dupret *et al.* (2023), Character 26; Luo *et al.* (2023), Character 33; Xian *et al*. (2025), Character 33.
-> Dupret (2023), Luo (2023), and Xian (2025) coded *B. niushoushanensis* as 0. After re-examination, these codes have been revised to ?.
+> Dupret et al. (2023), Luo et al. (2023), and Xian et al. (2025) coded *B. niushoushanensis* as 0. After re-examination, these codes have been revised to ?.
 
 > - The coding of *Bothriolepis chuandongensis* is 0.
 > - The coding of *Bothriolepis yunnanensis* is 1.
@@ -520,9 +520,9 @@
 > - The coding of *Bothriolepis chuandongensis* is 2.
 > - The coding of *Bothriolepis yunnanensis* is 2.
 
-73.  Index between width of anterior margin and maximum width of the AMD plate，>=55(0); <55(1)
+73.  Index between width of anterior margin and maximum width of the AMD plate; (0) ≥55; (1) <55.
 > Young (1984, 1988, Character 22); Zhang and Young (1992, Character 3); Zhu (1996, Character 12); Jia, Zhu & Zhao (2010, Character 33); Pan et al. (2017, Character 12)
->-  Index (r1) between width of anterior margin and maximum width of anterior median dorsal plate (ordered): r1>55 (0); 35=<r1=<55 (1); 15=<r1<35 (2); <15 (3).
+>-  Index (r1) between width of anterior margin and maximum width of anterior median dorsal plate (ordered): r1>55 (0); 35≤r1≤55 (1); 15≤r1<35 (2); <15 (3).
 ## References
 
 Young, G.C., (1988). Antiarchs (placoderm fishes) from the Devonian Aztec Siltstone, Southern Victoria Land, Antarctica. Palaeontographica Abteilung A, Paläozoologie, Stratigraphie, 202: 1–125.
