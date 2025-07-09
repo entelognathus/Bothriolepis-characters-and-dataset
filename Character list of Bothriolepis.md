@@ -1,10 +1,10 @@
 ## List of characters
-
 1. Shape of preorbital recess: (0) simple and rounded; (1) trilobate; (2) pentagonal; (3) trifid; (4) fan-shaped.
 > Young (1988), Character 27e, i, r; Dupret *et al.* (2023), Character 1; Luo *et al.* (2023), Character 1; Xian *et al*. (2025), Character 1. 
 
 > - The state (trapezoidal for *Livnolepis*, Dupret *et al*., 2023) is omitted in this dataset, because no *Bothriolepis* species bears this state. *Remigolepis walker* and *Dianolepis liui* are coded as the state “0”, following Johanson (1997b) and Pan *et al*. (2018).
-> - Young (1988) considered the preorbital recess of *B. niushoushanensis* and *B. shaoguanensis* to be pentagonal, and Dupret (2023), Luo (2023), Xian (2025)coded them as pentagonal. Lu (1988) proposed that the preorbital recess of *B. sinensis* is fan-shaped. *B. niushoushanensis* also is fan-shaped. The preorbital recess of *B. shaoguanensis* is pentagonal, but the degree of protrusion of the median process in the preorbital recess of *B. shaoguanensis* is less pronounced than that of the typical pentagonal preorbital recess. we code the preorbital recess of *B. sinensis* and *B. niushoushanensis* as fan-shaped, and that of *B. shaoguanensis* as pentagonal.
+
+> - Young (1988) considered the preorbital recess of *B. niushoushanensis* and *B. shaokuanensis* to be pentagonal, followed by Dupret et al. (2023), Luo et al. (2023), Xian et al. (2025).  However, Lu (1988) suggested the preorbital recess of *B. niushoushanensis* is fan-shaped, as in *B. sinensis*, which is confirmed by the re-examination.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is ?.
