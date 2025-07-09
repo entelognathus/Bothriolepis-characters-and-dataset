@@ -7,32 +7,31 @@
 > - Young (1988) considered the preorbital recess of *B. niushoushanensis* and *B. shaokuanensis* to be pentagonal, followed by Dupret et al. (2023), Luo et al. (2023), Xian et al. (2025).  However, Lu (1988) suggested the preorbital recess of *B. niushoushanensis* is fan-shaped, as in *B. sinensis*, which is confirmed by the re-examination.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is ?.
+> - The coding of *Bothriolepis yunnanensis* is ?. (to be added)
 
 2. Anterior extension of anterior postorbital process of neurocranium: (0) posterior of posterior level of orbital fenestra; (1) at or anterior of posterior level of orbital fenestra.
-> Dupret *et al.* (2023), Character 2; Luo *et al.* (2023), Character 2; Xian *et al*. (2
-> 025), Character 2.
+> Dupret *et al.* (2023), Character 2; Luo *et al.* (2023), Character 2; Xian *et al*. (2025), Character 2.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is ?.
+> - The coding of *Bothriolepis yunnanensis* is ?. (to be added)
 
 3. Well-developed median occipital crista: (0) absent; (1) present.
 > Long (1983), Character 8; Luo *et al.* (2023), Character 3; Xian *et al*. (2025), Character 3.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is ?.
+> - The coding of *Bothriolepis yunnanensis* is ?. (to be added)
 
 4. Separate triangular and ventrally-facing attachment surface for prelateral plate on lateral plate: (0) absent; (1) present.
 > Young (1988), Character 27m; Lukševičs (2021), Character l; Luo *et al.* (2023), Character 4; Xian *et al*. (2025), Character 4.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is ?.
+> - The coding of *Bothriolepis yunnanensis* is ?. (to be added)
 
 5. Anterior portion of posterior attachment area for submarginal plate covers spiracular groove: (0) absent; (1) present.
 > Lukševičs (2001), Character m; Luo *et al.* (2023), Character 5; Xian *et al*. (2025), Character 5.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is ?.
+> - The coding of *Bothriolepis yunnanensis* is ?. (to be added)
 
 6. Anterior margin of skull roof (for adults only): (0) rounded; (1) squared; (2) pointed anterior tip.
 > Dupret *et al.* (2023), Character 3; Luo *et al.* (2023), Character 6; Xian *et al*. (2025), Character 6.
@@ -148,10 +147,11 @@
 > - The coding of *Bothriolepis yunnanensis* is 1.
 
 21. Lateral corner of skull roof relative to orbital margin of postpineal plate: (0) anterior of orbital margin of postpineal plate; (1) at same level as or posterior of orbital margin of postpineal plate.
-
 > Lukševičs, (2001), Character 18; Dupret *et al.* (2023), Character 16; Luo *et al.* (2023), Character 21; Xian *et al*. (2025), Character 21.
-> Dupret (2023), Luo (2023), and Xian (2025) coded *B. cellulosa*, *B. ciecere*, *B. evaldi*, *B. jani*, *B. leptocheira*, *B. maxima*, *B. obrutschewi*, *B. ornata*, *B. panderi*, *B. prima*, and *B. traudscholdi* as 0. After re-examination, these codes have been revised to 1.
 
+> - Dupret et al. (2023), Luo et al. (2023), and Xian et al. (2025) coded *B. cellulosa*, *B. evaldi*, *B. leptocheira*, *B. obrutschewi*, *B. ornata*, *B. panderi*, and *B. traudscholdi* as 0. After re-examination, these codes have been revised to 1.
+
+*B. jani* ?
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 1.
 
