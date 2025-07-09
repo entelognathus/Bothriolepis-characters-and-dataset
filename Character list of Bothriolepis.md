@@ -55,17 +55,17 @@
 
 > - *Dianolepis liui* is coded as ‘0’ (Pan *et al*., 2018); *B. obrutschewi* as ‘0/1’ (Lukševičs, 2001). 
 
-*B. kohni*, *B. portalensis*, and *B. shaokuanensis* as 2
-many in 1
-*B. fergusoni*, *B. cristata*, as 0.
+> -*B. kohni*, *B. portalensis*, and *B. shaokuanensis* as 2
+> -many in 1
+> -*B. fergusoni*, *B. cristata*, as 0.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 0.
-> - 
+
 9. Positions of mesial and ventral laminae of lateral and paranuchal plates: (0) same level; (1) lag.
-
 > Dupret *et al.* (2023), Character 6; Luo *et al.* (2023), Character 9; Xian *et al*. (2025), Character 9.
-
+> - In Dupret *et al.* (2023), this character was formulated as 'mesial lamina vs ventral lamina of La and PaN (vs. ioc)(new), 0 same level; 1 lag'. 1 in B. barretti (Young, 1998), B. kohni (Young, 1998), B. macphesoni (Young, 1998), B. niushoushanensis (Pan et al., 1980). 0/1 in B. portalensis (Young, 1998), B. ornata (Luc, 2001).  
+> - 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 
 10. Position of lateral corner of skull roof relative to junction of premedian, lateral and paranuchal plates: (0) lateral corner anterior of junction; (1) lateral corner posterior of or at same level as junction.
