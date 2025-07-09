@@ -51,21 +51,21 @@
 > Young (1988), Character 27l; Dupret *et al.* (2023), Character 5; Luo *et al.* (2023), Character 8; Xian *et al*. (2025), Character 8.
 
 > - The character "elongated preorbital region of skull" was first used by Young (1988) to define the grouping '*B. kohni*, *B. portalensis*, and *B. shaokuanensis*'. The character "preorbital region of skull: (0) short; (1) elongated' was later adopted by Dupret *et al*. (2023), however, all *Bothriolepis* species except *B. askinae* and *B. fergusoni* were coded as the elongated preorbital region of skull. *B. obrutschewi* (Lukševičs, 2001)  was coded as ‘0/1’ (Dupret *et al*., 2023). This character was followed by Luo *et al.* (2023) and Xian *et al*. (2025), with short preorbital region of skull for *B. askinae*, *B. fergusoni*, and some added species (*B. cristata*, *B. laverocklochensis* (Miles, 1968), *B. jazwicensis* (Szrek, 2004)). This reflects the definition in Dupret *et al.* (2023), Luo *et al.* (2023), Xian *et al*. (2025) different from the original definition (Young, 1988).
-> - To avoid this ambiguity, we reformuate this character as "length index of preorbital region to postorbital region of skull: < 70 (0), >= 70, > 120 (1), >= 120 (2)". 
 
-> - *Dianolepis liui* is coded as ‘0’ (Pan *et al*., 2018); *B. obrutschewi* as ‘1’ (Lukševičs, 2001). 
-
-*B. kohni*, *B. portalensis*, and *B. shaokuanensis* as 2
-many in 1
-*B. fergusoni*, *B. cristata*, as 0.
+> - To avoid this ambiguity, we reformuate this character as "length index of preorbital region to postorbital region of skull: (0) < 70, (1) >= 70, < 120, (2) >= 120 (ordered)". 
+> - *Dianolepis liui* is coded as ‘0’ (Pan *et al*., 2018)
+> - *B. fergusoni*, *B. cristata*, as 0.
+> - many in 1，*B. obrutschewi* as ‘1’ (Lukševičs, 2001)
+> - *B. kohni*, *B. portalensis*, and *B. shaokuanensis* as 2
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 1.
-> - 
+
 9. Positions of mesial and ventral laminae of lateral and paranuchal plates: (0) same level; (1) lag.
-
+> **Xiao Luo, ask Vincent the exact meaning of this character.**
 > Dupret *et al.* (2023), Character 6; Luo *et al.* (2023), Character 9; Xian *et al*. (2025), Character 9.
-
+> - In Dupret *et al.* (2023), this character was formulated as **'mesial lamina vs ventral lamina of La and PaN (vs. ioc)(new), 0 same level; 1 lag'**. 1 in *B. barretti* (Young, 1998), *B. kohni* (Young, 1998), *B. macphesoni* (Young, 1998), *B. niushoushanensis* (Pan et al., 1980). 0/1 in *B. portalensis* (Young, 1998), *B. ornata* (Lukševičs, 2001).  
+> - 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 0.
 
