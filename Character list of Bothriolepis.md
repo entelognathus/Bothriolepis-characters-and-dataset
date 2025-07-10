@@ -52,11 +52,8 @@
 
 > - The character "elongated preorbital region of skull" was first used by Young (1988) to define the grouping '*B. kohni*, *B. portalensis*, and *B. shaokuanensis*'. The character "preorbital region of skull: (0) short; (1) elongated' was later adopted by Dupret *et al*. (2023), however, all *Bothriolepis* species except *B. askinae* and *B. fergusoni* were coded as the elongated preorbital region of skull. *B. obrutschewi* (Lukševičs, 2001)  was coded as ‘0/1’ (Dupret *et al*., 2023). This character was followed by Luo *et al.* (2023) and Xian *et al*. (2025), with short preorbital region of skull for *B. askinae*, *B. fergusoni*, and some added species (*B. cristata*, *B. laverocklochensis* (Miles, 1968), *B. jazwicensis* (Szrek, 2004)). This reflects the definition in Dupret *et al.* (2023), Luo *et al.* (2023), Xian *et al*. (2025) different from the original definition (Young, 1988).
 
-> - To avoid this ambiguity, we reformuate this character as "length index of preorbital region to postorbital region of skull: (0) < 70, (1) >= 70, < 120, (2) >= 120 (ordered)". 
-> - *Dianolepis liui* is coded as ‘0’ (Pan *et al*., 2018)
-> - *B. fergusoni*, *B. cristata*, as 0.
-> - many in 1，*B. obrutschewi* as ‘1’ (Lukševičs, 2001)
-> - *B. kohni*, *B. portalensis*, and *B. shaokuanensis* as 2
+> - To avoid this ambiguity, we reformuate this character as "length index of preorbital region to postorbital region of skull: (0) < 70, (1) ≥ 70, < 120, (2) ≥ 120 (ordered)". 
+> - *Dianolepis liui* is coded as ‘0’ (Pan *et al*., 2018); *B. fergusoni*, and *B. cristata* as 0; a majority of the *Bothriolepis* species as 1; *B. kohni*, *B. portalensis*, and *B. shaokuanensis* as 2
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 1.
