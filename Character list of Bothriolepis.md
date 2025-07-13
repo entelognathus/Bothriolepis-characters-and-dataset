@@ -9,9 +9,9 @@
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is ?. (to be added)
 
-2. Anterior extension of anterior postorbital process of neurocranium: (0) posterior of anterior level of orbital fenestra; (1) at anterior of anterior level of orbital fenestra.
+2. Anterior extension of anterior postorbital process of neurocranium: (0) posterior of anterior level of orbital fenestra; (1) extends beyond orbital fenestra anteriorly.
 > Dupret *et al.* (2023), Character 2; Luo *et al.* (2023), Character 2; Xian *et al*. (2025), Character 2.
-> Character 2 in Dupret et al. (2023) is "anterior extension of postorbital process (new) 0: remains behind orbital fenestra 1: extends beyond orbital fenestra anteriorly". Here, "(0) posterior of posterior level of orbital fenestra; (1) at or anterior of posterior level of orbital fenestra" is revised to "(0) posterior of anterior level of orbital fenestra; (1) at anterior of posterior level of orbital fenestra".
+> Character 2 in Dupret et al. (2023) is "anterior extension of postorbital process (new) 0: remains behind orbital fenestra 1: extends beyond orbital fenestra anteriorly". Here, "(0) posterior of posterior level of orbital fenestra" is revised to "(0) posterior of anterior level of orbital fenestra".
 > The coding of *B. alvesiensis* (Miles, 1968), *B. canadensis* (Stensiö, 1948), and *B. tatongensis* (Long and Werdelin, 1986) was changed from "?" to 0.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
