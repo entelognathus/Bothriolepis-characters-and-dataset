@@ -45,6 +45,7 @@
 
 7. Shape of orbitonasal fenestra: (0) anterior and posterior margins straight and parallel; (1) anteriorly concave and posteriorly convex (inversed bean); (2) anteriorly convex and posteriorly concave (bean); (3) concave anteriorly and posteriorly (peanut shaped); (4) convex anteriorly and posteriorly (rounded).
 > Dupret *et al.* (2023), Character 4; Luo *et al.* (2023), Character 7; Xian *et al*. (2025), Character 7.
+> *B. alvesiensis* (Miles, 1968) were coded as 3 by Dupret *et al*. (2023), Luo *et al*. (2023), and Xian *et al*. (2025). After re-examination, the codings of this species are revised as 2.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 3.
