@@ -7,11 +7,13 @@
 > - Young (1988) considered the preorbital recess of *B. niushoushanensis* and *B. shaokuanensis* to be pentagonal, followed by Dupret et al. (2023), Luo et al. (2023), Xian et al. (2025).  However, Lu (1988) suggested the preorbital recess of *B. niushoushanensis* is fan-shaped, as in *B. sinensis*, which is confirmed by the re-examination.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is ?. (to be added)
+> - The coding of *Bothriolepis yunnanensis* is 4.
 
 2. Anterior extension of anterior postorbital process of neurocranium: (0) posterior of anterior level of orbital fenestra; (1) extends beyond orbital fenestra anteriorly.
 > Dupret *et al.* (2023), Character 2; Luo *et al.* (2023), Character 2; Xian *et al*. (2025), Character 2.
+
 > Character 2 in Dupret et al. (2023) is "anterior extension of postorbital process (new) 0: remains behind orbital fenestra 1: extends beyond orbital fenestra anteriorly". Here, "(0) posterior of posterior level of orbital fenestra" is revised to "(0) posterior of anterior level of orbital fenestra".
+
 > The coding of *B. alvesiensis* (Miles, 1968), *B. canadensis* (Stensiö, 1948), and *B. tatongensis* (Long and Werdelin, 1986) was changed from "?" to 0.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
@@ -45,7 +47,6 @@
 
 7. Shape of orbitonasal fenestra: (0) anterior and posterior margins straight and parallel; (1) anteriorly concave and posteriorly convex (inversed bean); (2) anteriorly convex and posteriorly concave (bean); (3) concave anteriorly and posteriorly (peanut shaped); (4) convex anteriorly and posteriorly (rounded).
 > Dupret *et al.* (2023), Character 4; Luo *et al.* (2023), Character 7; Xian *et al*. (2025), Character 7.
-> *B. alvesiensis* (Miles, 1968) was coded as 3 by Dupret *et al*. (2023), Luo *et al*. (2023), and Xian *et al*. (2025). After our re-examination, the coding of this species is revised as 2.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 3.
@@ -67,9 +68,9 @@
 > - In Dupret *et al.* (2023), this character was formulated as **'mesial lamina vs ventral lamina of La and PaN (vs. ioc)(new), 0 same level; 1 lag'**. 1 in *B. barretti* (Young, 1998), *B. kohni* (Young, 1998), *B. macphesoni* (Young, 1998), *B. niushoushanensis* (Pan et al., 1980). 0/1 in *B. portalensis* (Young, 1998), *B. ornata* (Lukševičs, 2001).  
 > - 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is 0.
+> - The coding of *Bothriolepis yunnanensis* is ?.
 
-10. Position of lateral corner of skull roof relative to junction of premedian, lateral and paranuchal plates: (0) lateral corner anterior of junction; (1) lateral corner posterior of or at same level as junction.
+10. Position of lateral corner of skull roof relative to junction of lateral, postmarginal and paranuchal plates: (0) lateral corner anterior of junction; (1) lateral corner posterior of or at same level as junction.
 
 > Dupret *et al.* (2023), Character 7; Luo *et al.* (2023), Character 10; Xian *et al*. (2025), Character 10.
 
@@ -95,7 +96,7 @@
 > Young (1988), Character o; Lukševičs (2001), Character 8; Luo *et al.* (2023), Character 13; Xian *et al*. (2025), Character 13.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is 0.
+> - The coding of *Bothriolepis yunnanensis* is ?.
 
 14. Width of orbital fenestra greater than 1/3 of the skull roof: (0) absent; (1) present.
 
@@ -189,7 +190,7 @@
 > Young (1988), Character 27p; Dupret *et al.* (2023), Character 21; Luo *et al.* (2023), Character 27; Xian *et al*. (2025), Character 27.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is 1.
+> - The coding of *Bothriolepis yunnanensis* is 0.
 
 28. Posterolateral corner of nuchal plate: (0) long; (1) short.
 > Young (1988), Character 27p; Luo *et al.* (2023), Character 28; Xian *et al*. (2025), Character 28.
@@ -270,7 +271,7 @@
 > Young (1988), Character 27f; Lukševičs (2001), Character 17; Dupret *et al.* (2023), Character 32; Luo *et al.* (2023), Character 40; Xian *et al*. (2025), Character 40.
 
 > - The coding of *Bothriolepis chuandongensis* is 0.
-> - The coding of *Bothriolepis yunnanensis* is 0.
+> - The coding of *Bothriolepis yunnanensis* is 1.
 
 41. Condition of median dorsal plate crest: (0) minor; (1) well developed.
 > Dupret *et al.* (2023), Character 32; Luo *et al.* (2023), Character 41; Xian *et al*. (2025), Character 41.
@@ -392,7 +393,7 @@
 > Dupret *et al.* (2023), Character 47; Luo *et al.* (2023), Character 60; Xian *et al*. (2025), Character 60.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is 0.
+> - The coding of *Bothriolepis yunnanensis* is 1.
 
 61. Shape of central sensory groove: (0) straight; (1) curved.
 > Dupret *et al.* (2023), Character 48; Luo *et al.* (2023), Character 61; Xian *et al*. (2025), Character 61.
@@ -416,13 +417,13 @@
 > Luo *et al.* (2023), Character 64; Xian *et al*. (2025), Character 64.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is 1.
+> - The coding of *Bothriolepis yunnanensis* is 0.
 
 65. Central sensory groove followed posteriorly by supraoccipital cross-commissural pitline groove after converging on nuchal plate: (0) absent; (1) present.
 > Luo *et al.* (2023), Character 65; Xian *et al*. (2025), Character 65.
 
 > - The coding of *Bothriolepis chuandongensis* is 1.
-> - The coding of *Bothriolepis yunnanensis* is 1.
+> - The coding of *Bothriolepis yunnanensis* is 0.
 
 66. Pectoral pit-line traced on the ventral central plate 1 and extends to ventral central plate 2: (0) absent; (1) present.
 > Lukševičs (2001), Character 5; Luo *et al.* (2023), Character 66; Xian *et al*. (2025), Character 66.
@@ -473,7 +474,7 @@
 
 >-  Index (r1) between width of anterior margin and maximum width of anterior median dorsal plate (ordered): r1 > 55 (0); 35 ≤ r1 ≤ 55 (1); 15 ≤ r1 <35 (2); < 15 (3).
 
-
+> - The coding of *Bothriolepis yunnanensis* is 1.
 ## References
 Young, G.C., (1988). Antiarchs (placoderm fishes) from the Devonian Aztec Siltstone, Southern Victoria Land, Antarctica. Palaeontographica Abteilung A, Paläozoologie, Stratigraphie, 202: 1–125.
 
