@@ -5,7 +5,7 @@
 > - The state (trapezoidal for *Livnolepis*, Dupret *et al*., 2023) is omitted in this dataset, because no *Bothriolepis* species bears this state. *Remigolepis walker* and *Dianolepis liui* are coded as the state “0”, following Johanson (1997b) and Pan *et al*. (2018).
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is 4.
+> - The coding of *Bothriolepis yunnanensis* is 0.
 
 2. Anterior extension of anterior postorbital process of neurocranium: (0) posterior of anterior level of orbital fenestra; (1) extends beyond orbital fenestra anteriorly.
 > Dupret *et al.* (2023), Character 2; Luo *et al.* (2023), Character 2; Xian *et al*. (2025), Character 2.
