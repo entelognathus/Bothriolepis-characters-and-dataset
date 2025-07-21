@@ -43,13 +43,15 @@
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 0.
 
-7. Shape of orbitonasal fenestra: (0) anterior and posterior margins straight and parallel; (1) anteriorly concave and posteriorly convex (inversed bean); (2) anteriorly convex and posteriorly concave (bean); (3) concave anteriorly and posteriorly (peanut shaped); (4) convex anteriorly and posteriorly (rounded).
-> Dupret *et al.* (2023), Character 4; Luo *et al.* (2023), Character 7; Xian *et al*. (2025), Character 7.
+7. Anterior margin of orbitonasal fenestra: (0) straight or roughly straight; (1) concave; (2) convex.
+> Dupret *et al.* (2023), Character 4, in part; Luo *et al.* (2023), Character 7, in part; Xian *et al*. (2025), Character 7, in part.
 
-> - After the double-check of the codings in Dupret *et al.* (2023), Luo *et al.* (2023), and Xian *et al*. (2025), we revise the following codings. 
+> - The orginal character (Dupret *et al.* 2023, Character 4; Luo *et al.* 2023, Character 7; Xian *et al*. 2025, Character 7: Shape of orbitonasal fenestra: (0) anterior and posterior margins straight and parallel; (1) anteriorly concave and posteriorly convex (inversed bean); (2) anteriorly convex and posteriorly concave (bean); (3) concave anteriorly and posteriorly (peanut shaped); (4) convex anteriorly and posteriorly (rounded)) is not well defined, resulting in confusing codings in the previous datasets. Here, we replace this character with two independant characters (Character 7 and Character 92) with unequivocal definitions. 
+
+> - For the state 1, the posterior margin of the premedian plate bears an obvious median process.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The anterior margin of the orbitonasal fenestra in *Bothriolepis yunnanensis* is slightly concave, and its posterior margin is straight. As such, 
+> - The coding of *Bothriolepis yunnanensis* is 0.
 
 8. Length index of preorbital region to postorbital region of skull: (0) < 70, (1) ≥ 70, < 120, (2) ≥ 120 (ordered).
 > Young (1988), Character 27l; Dupret *et al.* (2023), Character 5; Luo *et al.* (2023), Character 8; Xian *et al*. (2025), Character 8.
@@ -65,7 +67,7 @@
 9. Mesial lamina vs lateral lamina of lateral and paranuchal plates: (0) same level; (1) lag.
 > Dupret *et al.* (2023), Character 6; Luo *et al.* (2023), Character 9; Xian *et al*. (2025), Character 9.
 
-> - In Dupret *et al.* (2023), this character was formulated as **'mesial lamina vs ventral lamina of La and PaN (vs. ioc)(new), 0 same level; 1 lag'**. 1 in *B. barretti* (Young, 1998), *B. kohni* (Young, 1998), *B. macphesoni* (Young, 1998), *B. niushoushanensis* (Pan et al., 1980). 0/1 in *B. portalensis* (Young, 1998), *B. ornata* (Lukševičs, 2001).  
+> - In Dupret *et al.* (2023), this character was formulated as 'mesial lamina vs ventral lamina of La and PaN (vs. ioc)(new), 0 same level; 1 lag'. 1 in *B. barretti* (Young, 1998), *B. kohni* (Young, 1998), *B. macphesoni* (Young, 1998), *B. niushoushanensis* (Pan *et al*., 1980). 0/1 in *B. portalensis* (Young, 1998), *B. ornata* (Lukševičs, 2001).  
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 0.
@@ -472,9 +474,17 @@
 73.  Index between width of anterior margin and maximum width of anterior median dorsal plate: (0) > 55; (1) ≤ 55.
 > Young (1984, 1988, Character 22); Zhang and Young (1992, Character 3); Zhu (1996, Character 12); Jia, Zhu & Zhao (2010, Character 33); Pan *et al*. (2017, Character 12).
 
->-  Index (r1) between width of anterior margin and maximum width of anterior median dorsal plate (ordered): r1 > 55 (0); 35 ≤ r1 ≤ 55 (1); 15 ≤ r1 <35 (2); < 15 (3).
+> -  Index (r1) between width of anterior margin and maximum width of anterior median dorsal plate (ordered): r1 > 55 (0); 35 ≤ r1 ≤ 55 (1); 15 ≤ r1 <35 (2); < 15 (3).
 
 > - The coding of *Bothriolepis yunnanensis* is 1.
+>
+74. Posterior margin of orbitonasal fenestra: (0) straight or roughly straight; (1) concave.
+> Dupret *et al.* (2023), Character 4, in part; Luo *et al.* (2023), Character 7, in part; Xian *et al*. (2025), Character 7, in part.
+
+> - For the state 1, the postpineal plate bears an obvious anterior median process.
+
+75. 
+
 ## References
 Young, G.C., (1988). Antiarchs (placoderm fishes) from the Devonian Aztec Siltstone, Southern Victoria Land, Antarctica. Palaeontographica Abteilung A, Paläozoologie, Stratigraphie, 202: 1–125.
 
