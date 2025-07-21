@@ -2,7 +2,7 @@
 1. Shape of preorbital recess: (0) simple and rounded; (1) trilobate; (2) pentagonal; (3) trifid; (4) fan-shaped.
 > Young (1988), Character 27e, i, r; Dupret *et al.* (2023), Character 1; Luo *et al.* (2023), Character 1; Xian *et al*. (2025), Character 1. 
 
-> - The state (trapezoidal for *Livnolepis*, Dupret *et al*., 2023) is omitted in this dataset, because no *Bothriolepis* species bears this state. *Remigolepis walker* and *Dianolepis liui* are coded as the state “0”, following Johanson (1997b) and Pan *et al*. (2018).
+> - The state (trapezoidal for *Livnolepis*, Dupret *et al*., 2023) is omitted in this dataset, because no *Bothriolepis* species in our dataset bears this state. *Remigolepis walker* and *Dianolepis liui* are coded as the state “0”, following Johanson (1997b) and Pan *et al*. (2018).
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 0.
@@ -10,9 +10,9 @@
 2. Anterior extension of anterior postorbital process of neurocranium: (0) posterior of anterior level of orbital fenestra; (1) extends beyond orbital fenestra anteriorly.
 > Dupret *et al.* (2023), Character 2; Luo *et al.* (2023), Character 2; Xian *et al*. (2025), Character 2.
 
-> Character 2 in Dupret et al. (2023) is "anterior extension of postorbital process (new) 0: remains behind orbital fenestra 1: extends beyond orbital fenestra anteriorly". Here, "(0) posterior of posterior level of orbital fenestra" is revised to "(0) posterior of anterior level of orbital fenestra".
+> Character 2 in Dupret *et al*. (2023) is "anterior extension of postorbital process (new), 0: remains behind orbital fenestra; 1: extends beyond orbital fenestra anteriorly". Here, "(0) posterior of posterior level of orbital fenestra" is revised to "(0) posterior of anterior level of orbital fenestra".
 
-> The coding of *B. alvesiensis* (Miles, 1968), *B. canadensis* (Stensiö, 1948), and *B. tatongensis* (Long and Werdelin, 1986) was changed from "?" to 0.
+> The codings of *B. alvesiensis* (Miles, 1968), *B. canadensis* (Stensiö, 1948), and *B. tatongensis* (Long and Werdelin, 1986) are changed from "?" to 0.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is ?. (to be added)
