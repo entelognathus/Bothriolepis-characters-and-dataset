@@ -46,7 +46,7 @@
 7. Anterior margin of orbitonasal fenestra: (0) straight or roughly straight; (1) concave; (2) convex.
 > Dupret *et al.* (2023), Character 4, in part; Luo *et al.* (2023), Character 7, in part; Xian *et al*. (2025), Character 7, in part.
 
-> - The orginal character (Dupret *et al.* 2023, Character 4; Luo *et al.* 2023, Character 7; Xian *et al*. 2025, Character 7: Shape of orbitonasal fenestra: (0) anterior and posterior margins straight and parallel; (1) anteriorly concave and posteriorly convex (inversed bean); (2) anteriorly convex and posteriorly concave (bean); (3) concave anteriorly and posteriorly (peanut shaped); (4) convex anteriorly and posteriorly (rounded)) is not well defined, resulting in confusing codings in the previous datasets. Here, we replace this character with two independant characters (Character 7 and Character 92) with unequivocal definitions. 
+> - The orginal character (Dupret *et al.* 2023, Character 4; Luo *et al.* 2023, Character 7; Xian *et al*. 2025, Character 7: Shape of orbitonasal fenestra: (0) anterior and posterior margins straight and parallel; (1) anteriorly concave and posteriorly convex (inversed bean); (2) anteriorly convex and posteriorly concave (bean); (3) concave anteriorly and posteriorly (peanut shaped); (4) convex anteriorly and posteriorly (rounded)) is not well defined, resulting in confusing codings in the previous datasets. Here, we replace this character with two independant characters (Character 7 and Character 74) with unequivocal definitions. 
 
 > - For the state 1, the posterior margin of the premedian plate bears an obvious median process.
 
