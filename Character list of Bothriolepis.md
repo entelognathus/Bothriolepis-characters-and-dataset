@@ -10,9 +10,9 @@
 2. Anterior extension of anterior postorbital process of neurocranium: (0) posterior of anterior level of orbital fenestra; (1) extends beyond orbital fenestra anteriorly.
 > Dupret *et al.* (2023), Character 2; Luo *et al.* (2023), Character 2; Xian *et al*. (2025), Character 2.
 
-> Character 2 in Dupret *et al*. (2023) is "anterior extension of postorbital process (new), 0: remains behind orbital fenestra; 1: extends beyond orbital fenestra anteriorly". Here, "(0) posterior of posterior level of orbital fenestra" is revised to "(0) posterior of anterior level of orbital fenestra".
+> - Character 2 in Dupret *et al*. (2023) is "anterior extension of postorbital process (new), 0: remains behind orbital fenestra; 1: extends beyond orbital fenestra anteriorly". Here, "(0) posterior of posterior level of orbital fenestra" is revised to "(0) posterior of anterior level of orbital fenestra".
 
-> The codings of *B. alvesiensis* (Miles, 1968), *B. canadensis* (Stensiö, 1948), and *B. tatongensis* (Long and Werdelin, 1986) are changed from "?" to 0.
+> - The codings of *B. alvesiensis* (Miles, 1968), *B. canadensis* (Stensiö, 1948), and *B. tatongensis* (Long and Werdelin, 1986) are changed from "?" to 0.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 0.
@@ -33,12 +33,12 @@
 > Lukševičs (2001), Character m; Luo *et al.* (2023), Character 5; Xian *et al*. (2025), Character 5.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is ?. (to be added)
+> - The coding of *Bothriolepis yunnanensis* is 1.
 
 6. Anterior margin of skull roof (for adults only): (0) rounded; (1) squared; (2) pointed anterior tip.
 > Dupret *et al.* (2023), Character 3; Luo *et al.* (2023), Character 6; Xian *et al*. (2025), Character 6.
 
-> The states (2) and (3) in Dupret *et al.* (2023) are difficult to be discriminated. As such, we merged these two states into one state “pointed anterior tip”.
+> - The states (2) and (3) in Dupret *et al.* (2023) are difficult to be discriminated. As such, we merged these two states into one state “pointed anterior tip”.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 0.
