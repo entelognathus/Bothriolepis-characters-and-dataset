@@ -15,7 +15,7 @@
 > The codings of *B. alvesiensis* (Miles, 1968), *B. canadensis* (Stensiö, 1948), and *B. tatongensis* (Long and Werdelin, 1986) are changed from "?" to 0.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is ?. (to be added)
+> - The coding of *Bothriolepis yunnanensis* is 0.
 
 3. Well-developed median occipital crista: (0) absent; (1) present.
 > Long (1983), Character 8; Luo *et al.* (2023), Character 3; Xian *et al*. (2025), Character 3.
