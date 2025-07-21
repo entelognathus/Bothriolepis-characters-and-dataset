@@ -46,8 +46,10 @@
 7. Shape of orbitonasal fenestra: (0) anterior and posterior margins straight and parallel; (1) anteriorly concave and posteriorly convex (inversed bean); (2) anteriorly convex and posteriorly concave (bean); (3) concave anteriorly and posteriorly (peanut shaped); (4) convex anteriorly and posteriorly (rounded).
 > Dupret *et al.* (2023), Character 4; Luo *et al.* (2023), Character 7; Xian *et al*. (2025), Character 7.
 
+> - After the double-check of the codings in Dupret *et al.* (2023), Luo *et al.* (2023), and Xian *et al*. (2025), we revise the following codings. 
+
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is 3.
+> - The anterior margin of the orbitonasal fenestra in *Bothriolepis yunnanensis* is slightly concave, and its posterior margin is straight. As such, 
 
 8. Length index of preorbital region to postorbital region of skull: (0) < 70, (1) ≥ 70, < 120, (2) ≥ 120 (ordered).
 > Young (1988), Character 27l; Dupret *et al.* (2023), Character 5; Luo *et al.* (2023), Character 8; Xian *et al*. (2025), Character 8.
@@ -60,13 +62,13 @@
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 1.
 
-9. Positions of mesial and ventral laminae of lateral and paranuchal plates: (0) same level; (1) lag.
-> **Xiao Luo, ask Vincent the exact meaning of this character.**
+9. Mesial lamina vs lateral lamina of lateral and paranuchal plates: (0) same level; (1) lag.
 > Dupret *et al.* (2023), Character 6; Luo *et al.* (2023), Character 9; Xian *et al*. (2025), Character 9.
+
 > - In Dupret *et al.* (2023), this character was formulated as **'mesial lamina vs ventral lamina of La and PaN (vs. ioc)(new), 0 same level; 1 lag'**. 1 in *B. barretti* (Young, 1998), *B. kohni* (Young, 1998), *B. macphesoni* (Young, 1998), *B. niushoushanensis* (Pan et al., 1980). 0/1 in *B. portalensis* (Young, 1998), *B. ornata* (Lukševičs, 2001).  
-> - 
+
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is ?.
+> - The coding of *Bothriolepis yunnanensis* is 0.
 
 10. Position of lateral corner of skull roof relative to junction of lateral, postmarginal and paranuchal plates: (0) lateral corner anterior of junction; (1) lateral corner posterior of or at same level as junction.
 
