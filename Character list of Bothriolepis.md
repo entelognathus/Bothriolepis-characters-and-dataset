@@ -4,8 +4,6 @@
 
 > - The state (trapezoidal for *Livnolepis*, Dupret *et al*., 2023) is omitted in this dataset, because no *Bothriolepis* species bears this state. *Remigolepis walker* and *Dianolepis liui* are coded as the state “0”, following Johanson (1997b) and Pan *et al*. (2018).
 
-> - Young (1988) considered the preorbital recess of *B. niushoushanensis* and *B. shaokuanensis* to be pentagonal, followed by Dupret et al. (2023), Luo et al. (2023), Xian et al. (2025).  However, Lu (1988) suggested the preorbital recess of *B. niushoushanensis* is fan-shaped, as in *B. sinensis*, which is confirmed by the re-examination.
-
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 4.
 
