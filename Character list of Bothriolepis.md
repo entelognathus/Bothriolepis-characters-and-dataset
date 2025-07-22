@@ -67,7 +67,8 @@
 9. Mesial lamina vs lateral lamina of lateral and paranuchal plates: (0) same level; (1) lag.
 > Dupret *et al.* (2023), Character 6; Luo *et al.* (2023), Character 9; Xian *et al*. (2025), Character 9.
 
-> - In Dupret *et al.* (2023), this character was formulated as 'mesial lamina vs ventral lamina of La and PaN (vs. ioc)(new), 0 same level; 1 lag'. 1 in *B. barretti* (Young, 1998), *B. kohni* (Young, 1998), *B. macphesoni* (Young, 1998), *B. niushoushanensis* (Pan *et al*., 1980). 0/1 in *B. portalensis* (Young, 1998), *B. ornata* (Lukševičs, 2001).  
+> - In Dupret *et al.* (2023), this character was formulated as 'mesial lamina vs ventral lamina of La and PaN (vs. ioc)(new), 0 same level; 1 lag'. 1 in *B. barretti* (Young, 1998), *B. kohni* (Young, 1998), *B. macphesoni* (Young, 1998), *B. niushoushanensis* (Pan *et al*., 1980). 0/1 in *B. portalensis* (Young, 1998), *B. ornata* (Lukševičs, 2001).
+> - The two laminae are separated by the sensory line groove.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 0.
