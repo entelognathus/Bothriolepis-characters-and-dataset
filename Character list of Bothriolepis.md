@@ -464,7 +464,7 @@
 > Xian *et al*. (2025), Character 71.
 
 > - The coding of *Bothriolepis chuandongensis* is 1.
-> - The coding of *Bothriolepis yunnanensis* is 1.
+> - The coding of *Bothriolepis yunnanensis* is 0.
 
 72. Anterior margin of obtected nuchal area:(0) straight or sinuous; (1) convex; (2) concave.
 > Xian *et al*. (2025), Character 72.
@@ -483,8 +483,7 @@
 > Dupret *et al.* (2023), Character 4, in part; Luo *et al.* (2023), Character 7, in part; Xian *et al*. (2025), Character 7, in part.
 
 > - For the state 1, the postpineal plate bears an obvious anterior median process.
-
-75. 
+ 
 
 ## References
 Young, G.C., (1988). Antiarchs (placoderm fishes) from the Devonian Aztec Siltstone, Southern Victoria Land, Antarctica. Palaeontographica Abteilung A, Paläozoologie, Stratigraphie, 202: 1–125.
