@@ -170,6 +170,7 @@
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 0.
 > - Should be *B. cristata* considered as 0? Its clearly differ with *B. fergusoni*. Luo
+> - The codings of *B. zhujiangyuanensis* (Xian, 2025) is changed from "?" to 0. Yan
 
 24. Nuchal plate reaches posterior margin of orbital fenestra: (0) absent; (1) present.
 > Dupret *et al.* (2023), Character 19; Luo *et al.* (2023), Character 24; Xian *et al*. (2025), Character 24.
@@ -379,6 +380,8 @@
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 1.
+
+> - The codings of *B. zhujiangyuanensis* (Xian, 2025) is changed from "?" to 1. Yan
 
 58. Long branch of infraorbital sensory groove diverging on prelateral plate: (0) no; (1) yes. 
 > Lukševičs (2001), Character 19; Dupret *et al.* (2023), Character 45; Luo *et al.* (2023), Character 58; Xian *et al*. (2025), Character 58.
