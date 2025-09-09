@@ -12,8 +12,6 @@
 
 > - Character 2 in Dupret *et al*. (2023) is "anterior extension of postorbital process (new), 0: remains behind orbital fenestra; 1: extends beyond orbital fenestra anteriorly". Here, "(0) posterior of posterior level of orbital fenestra" is revised to "(0) posterior of anterior level of orbital fenestra".
 
-> - The codings of *B. alvesiensis* (Miles, 1968), *B. canadensis* (Stensiö, 1948), and *B. tatongensis* (Long and Werdelin, 1986) are changed from "?" to 0.
-
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 0.
 
@@ -152,8 +150,6 @@
 
 21. Lateral corner of skull roof relative to orbital margin of postpineal plate: (0) anterior of orbital margin of postpineal plate; (1) at same level as or posterior of orbital margin of postpineal plate.
 > Lukševičs, (2001), Character 18; Dupret *et al.* (2023), Character 16; Luo *et al.* (2023), Character 21; Xian *et al*. (2025), Character 21.
-
-> - *B. cellulosa*, *B. evaldi*, *B. leptocheira*, *B. obrutschewi*, *B. ornata*, *B. panderi*, and *B. traudscholdi* (Lukševičs, 2001) were coded as 0 by Dupret *et al*. (2023), Luo *et al*. (2023), and Xian *et al*. (2025). After re-examination, the codings of these species are revised as 1. The coding of *B. jani* (Lukševičs (2001) is changed to "?".
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - The coding of *Bothriolepis yunnanensis* is 1.
@@ -323,7 +319,7 @@
 > Lukševičs (2001), Character 20; Dupret *et al.* (2023), Character 37; Luo *et al.* (2023), Character 48; Xian *et al*. (2025), Character 48.
 
 > - The coding of *Bothriolepis chuandongensis* is 1.
-> - The coding of *Bothriolepis yunnanensis* is ?.
+> - The coding of *Bothriolepis yunnanensis* is 1.
 
 49. Shape of axillary foramen: (0) higher than long; (1) longer than high or as long as high.
 > Young (1988), Character 27k; Lukševičs (2001), Character 4; Dupret *et al.* (2023), Character 38; Luo *et al.* (2023), Character 49; Xian *et al*. (2025), Character 49.
@@ -441,7 +437,7 @@
 > Young (1988), Character 27j; Dupret *et al.* (2023), Character 34; Luo *et al.* (2023), Character 67; Xian *et al*. (2025), Character 67.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is ?.
+> - The coding of *Bothriolepis yunnanensis* is 1.
 
 68. Ornamentation in juveniles: (0) tubercular; (1) reticular.
 > Young (1988), Character a; Luo *et al.* (2023), Character 68; Xian *et al*. (2025), Character 68.
@@ -500,5 +496,6 @@ Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., (2023). Reappraisal of *Bothriolepi
 Lukševičs, E., (2001). Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
 
 Johanson, Z., and Young, G., (1999). New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
+
 
 
