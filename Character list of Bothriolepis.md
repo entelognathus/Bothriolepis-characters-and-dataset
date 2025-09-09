@@ -27,13 +27,13 @@
 > Young (1988), Character 27m; Lukševičs (2001), Character L; Luo *et al.* (2023), Character 4; Xian *et al*. (2025), Character 4.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is ?.
+> - The coding of *Bothriolepis yunnanensis* is 0.
 
 5. Anterior portion of posterior attachment area for submarginal plate covers spiracular groove: (0) absent; (1) present.
 > Lukševičs (2001), Character m; Luo *et al.* (2023), Character 5; Xian *et al*. (2025), Character 5.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is 1.
+> - The coding of *Bothriolepis yunnanensis* is 0.
 
 6. Anterior margin of skull roof (for adults only): (0) rounded; (1) squared; (2) pointed anterior tip.
 > Dupret *et al.* (2023), Character 3; Luo *et al.* (2023), Character 6; Xian *et al*. (2025), Character 6.
@@ -99,7 +99,7 @@
 > Young (1988), Character o; Lukševičs (2001), Character 8; Luo *et al.* (2023), Character 13; Xian *et al*. (2025), Character 13.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - The coding of *Bothriolepis yunnanensis* is ?.
+> - The coding of *Bothriolepis yunnanensis* is 0.
 
 14. Width of orbital fenestra greater than 1/3 of the skull roof: (0) absent; (1) present.
 
@@ -500,4 +500,5 @@ Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., (2023). Reappraisal of *Bothriolepi
 Lukševičs, E., (2001). Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
 
 Johanson, Z., and Young, G., (1999). New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
+
 
