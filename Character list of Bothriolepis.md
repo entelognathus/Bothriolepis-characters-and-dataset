@@ -367,7 +367,7 @@
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 1.
-> - Yan *et al.* (in prep.):*B. zhujiangyuanensis* (Xian, 2025) is coded from "?" to 1.
+> - Yan *et al.* (in prep.):*B. zhujiangyuanensis* (Xian *et al.*, 2025) is coded from "?" to 1.
 
 58. Long branch of infraorbital sensory groove diverging on prelateral plate: (0) no; (1) yes. 
 > Lukševičs (2001), Character 19; Dupret *et al.* (2023), Character 45; Luo *et al.* (2023), Character 58; Xian *et al*. (2025), Character 58.
@@ -486,6 +486,7 @@ Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., (2023). Reappraisal of *Bothriolepi
 Lukševičs, E., (2001). Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
 
 Johanson, Z., and Young, G., (1999). New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
+
 
 
 
