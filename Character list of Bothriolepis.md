@@ -180,7 +180,7 @@
 > Young (1988), Character 27p; Dupret *et al.* (2023), Character 21; Luo *et al.* (2023), Character 27; Xian *et al*. (2025), Character 27.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 0.
+> - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 1.
 
 28. Posterolateral corner of nuchal plate: (0) long; (1) short.
 > Young (1988), Character 27p; Luo *et al.* (2023), Character 28; Xian *et al*. (2025), Character 28.
@@ -371,7 +371,7 @@
 > Lukševičs (2001), Character 19; Dupret *et al.* (2023), Character 45; Luo *et al.* (2023), Character 58; Xian *et al*. (2025), Character 58.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 1.
+> - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is ?.
 
 59. Junction of rostral infraorbital sensory line in midline on premedian plate: (0) straight or light posterior indentation; (1) very deep posterior indentation; (2) no connection.
 > Dupret *et al.* (2023), Character 46; Luo *et al.* (2023), Character 59; Xian *et al*. (2025), Character 59.
@@ -413,7 +413,7 @@
 > Luo *et al.* (2023), Character 65; Xian *et al*. (2025), Character 65.
 
 > - The coding of *Bothriolepis chuandongensis* is 1.
-> - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 0.
+> - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 1.
 
 66. Pectoral pit-line traced on the ventral central plate 1 and extends to ventral central plate 2: (0) absent; (1) present.
 > Lukševičs (2001), Character 5; Luo *et al.* (2023), Character 66; Xian *et al*. (2025), Character 66.
@@ -484,6 +484,7 @@ Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., (2023). Reappraisal of *Bothriolepi
 Lukševičs, E., (2001). Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
 
 Johanson, Z., and Young, G., (1999). New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
+
 
 
 
