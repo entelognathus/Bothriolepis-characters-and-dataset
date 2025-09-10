@@ -43,7 +43,7 @@
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - Yan *et al.* （in prep.): The coding of *Bothriolepis yunnanensis* is 0.
 
-7. Anterior margin of orbitonasal fenestra: (0) straight or roughly straight; (1) concave; (2) convex.
+7. Anterior margin of orbitonasal fenestra: (0) straight; (1) concave; (2) convex.
 > Dupret *et al.* (2023), Character 4, in part; Luo *et al.* (2023), Character 7, in part; Xian *et al*. (2025), Character 7, in part.
 
 > - Yan *et al.* （in prep.): The orginal character (Dupret *et al.* 2023, Character 4; Luo *et al.* 2023, Character 7; Xian *et al*. 2025, Character 7: Shape of orbitonasal fenestra: (0) anterior and posterior margins straight and parallel; (1) anteriorly concave and posteriorly convex (inversed bean); (2) anteriorly convex and posteriorly concave (bean); (3) concave anteriorly and posteriorly (peanut shaped); (4) convex anteriorly and posteriorly (rounded)) is not well defined, resulting in confusing codings in the previous datasets. Here, we replace this character with two independant characters (Character 7 and Character 74) with unequivocal definitions. 
@@ -468,10 +468,10 @@
 
 > - Yan *et al.* （in prep.): The coding of *Bothriolepis yunnanensis* is 1.
 >
-74. Posterior margin of orbitonasal fenestra: (0) straight or roughly straight; (1) concave.
+74. Posterior margin of orbitonasal fenestra: (0) straight; (1) concave; (2) convex.
 > Dupret *et al.* (2023), Character 4, in part; Luo *et al.* (2023), Character 7, in part; Xian *et al*. (2025), Character 7, in part.
 
-> - For the state 1, the postpineal plate bears an obvious anterior median process.
+> - For the state 2, the postpineal plate bears an obvious anterior median process.
 > - Yan *et al.* （in prep.): The coding of *Bothriolepis yunnanensis* is 0. 
 
 ## References
@@ -486,6 +486,7 @@ Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., (2023). Reappraisal of *Bothriolepi
 Lukševičs, E., (2001). Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
 
 Johanson, Z., and Young, G., (1999). New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
+
 
 
 
