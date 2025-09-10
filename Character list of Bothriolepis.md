@@ -156,8 +156,7 @@
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 0.
 > - Yan *et al.* (in prep.): *B. zhujiangyuanensis* (Xian et al., 2025) is coded from "?" to 0.
-
-> - **Luo**: Should be *B. cristata* considered as 0? It clearly differs from *B. fergusoni*. 
+ 
 
 24. Nuchal plate reaches posterior margin of orbital fenestra: (0) absent; (1) present.
 > Dupret *et al.* (2023), Character 19; Luo *et al.* (2023), Character 24; Xian *et al*. (2025), Character 24.
@@ -218,7 +217,6 @@
 
 > - The coding of *Bothriolepis chuandongensis* is 0.
 > - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 1.
-> - Dupret *et al*. (2023), Luo *et al*. (2023), and Xian *et al*. (2025) coded *B. niushoushanensis* as 0. After re-examination, these codes have been revised to ?.
 
 34. Size of lateral pits: (0) small; (1) enlarged.
 > Dupret *et al.* (2023), Character 15; Luo *et al.* (2023), Character 34; Xian *et al*. (2025), Character 34.
@@ -486,6 +484,7 @@ Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., (2023). Reappraisal of *Bothriolepi
 Lukševičs, E., (2001). Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
 
 Johanson, Z., and Young, G., (1999). New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
+
 
 
 
