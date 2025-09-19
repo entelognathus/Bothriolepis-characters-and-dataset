@@ -453,8 +453,10 @@
 > - The coding of *Bothriolepis chuandongensis* is 1.
 > - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 0.
 
-72. Anterior margin of obtected nuchal area:(0) straight or sinuous; (1) convex; (2) concave.
+72. Anterior margin of obtected nuchal area:(0) straight or sinuous; (1) concave; (2) convex.
 > Xian *et al*. (2025), Character 72.
+
+> -The coding order in the matrix is (0) straight or sinuous; (1) concave; (2) convex, rather than (0) straight or sinuous; (1) convex; (2) concave.Yan
 
 > - The coding of *Bothriolepis chuandongensis* is 2.
 > - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 2.
@@ -484,6 +486,7 @@ Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., (2023). Reappraisal of *Bothriolepi
 Lukševičs, E., (2001). Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
 
 Johanson, Z., and Young, G., (1999). New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
+
 
 
 
