@@ -223,6 +223,8 @@
 
 > We define the width of “enlarged lateral pits” can reach half of the distance between a<sub>1</sub>SM and a<sub>2</sub>SM.
 
+> The coding for *Bothriolepis sinensis* was revised from the original 0 to 1
+
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is ?.
 
@@ -412,6 +414,9 @@
 65. Central sensory groove followed posteriorly by supraoccipital cross-commissural pitline groove after converging on nuchal plate: (0) absent; (1) present.
 > Luo *et al.* (2023), Character 65; Xian *et al*. (2025), Character 65.
 
+> - The coding for *Bothriolepis sinensis* was revised from the original 0 to ?
+> - The coding for *Bothriolepis zhujiangyuanensis* was revised from the original 0 to 1
+
 > - The coding of *Bothriolepis chuandongensis* is 1.
 > - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 1.
 
@@ -486,6 +491,7 @@ Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., (2023). Reappraisal of *Bothriolepi
 Lukševičs, E., (2001). Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
 
 Johanson, Z., and Young, G., (1999). New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
+
 
 
 
