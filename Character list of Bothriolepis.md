@@ -176,7 +176,7 @@
 > - The coding of *Bothriolepis chuandongensis* is 0.
 > - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 0.
 
-27. Anterolateral margin of nuchal plate: (0) contact margin with lateral plate straight; (1) contact margin with lateral plate convex/concave.
+27. Anterolateral margin of nuchal plate: (0) contact margin with lateral plate straight; (1) contact margin with lateral plate convex.
 > Young (1988), Character 27p; Dupret *et al.* (2023), Character 21; Luo *et al.* (2023), Character 27; Xian *et al*. (2025), Character 27.
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
@@ -491,6 +491,7 @@ Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., (2023). Reappraisal of *Bothriolepi
 Lukševičs, E., (2001). Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
 
 Johanson, Z., and Young, G., (1999). New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
+
 
 
 
