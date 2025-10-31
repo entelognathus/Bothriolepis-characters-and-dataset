@@ -204,7 +204,7 @@
 > Dupret *et al.* (2023), Character 24; Luo *et al.* (2023), Character 31; Xian *et al*. (2025), Character 31.
 
 > - The coding of *Bothriolepis chuandongensis* is 1.
-> - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 1.
+> - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 0.
 
 32. Squarish nuchal plate with convex anterior division of the lateral margin and short postero-lateral corners: (0) absent; (1) present.
 > Young (1988), Character p; Johanson & Young (1999), Character 10; Lukševičs (2001), Character 13; Dupret *et al.* (2023), Character 25; Luo *et al.* (2023), Character 32; Xian *et al*. (2025), Character 32.
@@ -491,6 +491,7 @@ Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., (2023). Reappraisal of *Bothriolepi
 Lukševičs, E., (2001). Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
 
 Johanson, Z., and Young, G., (1999). New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
+
 
 
 
