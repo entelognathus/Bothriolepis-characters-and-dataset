@@ -12,7 +12,7 @@
 2. Anterior extension of anterior postorbital process of neurocranium: (0) posterior of anterior level of orbital fenestra; (1) extends beyond orbital fenestra anteriorly.
 > Dupret *et al.* (2023), Character 2; Luo *et al.* (2023), Character 2; Xian *et al*. (2025), Character 2.
 
-> - Character 2 in Dupret *et al*. (2023) is "anterior extension of postorbital process, 0: remains behind orbital fenestra; 1: extends beyond orbital fenestra anteriorly". Luo *et al.* (2023) and Xian *et al*. (2025) redefined the character as 'anterior entension of anterior postorbital process of neurocranium: 0: posterior of posteiror level of orbital fenestra; 1: at or anterior of posterior level of orbital fenestra'. By checking the state distribution of various *Bothriolepis* species, the anterior extension of anterior postorbital process posterior of the anterior level of orbital fenestra matches better to the original definition (the state 0 in Dupret et al., 2023). 
+> - Character 2 in Dupret *et al*. (2023) is "anterior extension of postorbital process, 0: remains behind orbital fenestra; 1: extends beyond orbital fenestra anteriorly". Luo *et al.* (2023) and Xian *et al*. (2025) redefined the character as 'anterior entension of anterior postorbital process of neurocranium: 0: posterior of posterior level of orbital fenestra; 1: at or anterior of posterior level of orbital fenestra'. By checking the state distribution of various *Bothriolepis* species, the anterior extension of anterior postorbital process posterior of the anterior level of orbital fenestra matches better to the original definition (the state 0 in Dupret et al., 2023). 
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 0.
@@ -491,6 +491,7 @@ Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., (2023). Reappraisal of *Bothriolepi
 Lukševičs, E., (2001). Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
 
 Johanson, Z., and Young, G., (1999). New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
+
 
 
 
