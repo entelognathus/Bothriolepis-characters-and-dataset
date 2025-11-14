@@ -344,18 +344,18 @@
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is ?.
 
-54. Posterior pit-line long: (0) absent; (1) present.
+54. Supraoccipital cross-commissure canal long: (0) absent; (1) present.
 > Lukševičs (2001), Character 9; Dupret *et al.* (2023), Character 41; Luo *et al.* (2023), Character 54; Xian *et al*. (2025), Character 54.
 
->- Based on the comparative study on the homology of the sensory canal system in Pan's (2018) doctoral dissertation, we revised middle pit-line to posterior pit-line.
+>- The "Middle pit-line" described by Young (1988), Lukševičs (2001), and Dupret et al. (2023) is equivalent to the "supraoccipital cross-commissure canal" described by Pan et al. (2018). Accordingly, the original character "Middle pit-line long: (0) absent; (1) present" is revised to "Supraoccipital cross-commissure canal long: (0) absent; (1) present."（Yan)
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
 > - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 1.
 
-55. Supraoccipital cross-commissure canal long: (0) absent; (1) present.
+55. Posterior pit-line long: (0) absent; (1) present.
 > Lukševičs (2001), Character 9; Dupret *et al.* (2023), Character 42; Luo *et al.* (2023), Character 55; Xian *et al*. (2025), Character 55.
 
-> -Based on the comparative study on the homology of the sensory canal system in Pan's (2018) doctoral dissertation, we revised supra-occipital sensory groove to supraoccipital cross-commissure canal.
+> -The " Supra-occipital sensory groove long " described by Young (1988), Lukševičs (2001), and Dupret et al. (2023) is equivalent to the " Posterior pit-line " described by Pan et al. (2018). Accordingly, the original character " Supra-occipital sensory groove long: (0) absent; (1) present" is revised to " Posterior pit-line long: (0) absent; (1) present."(Yan)
 
 > - The coding of *Bothriolepis chuandongensis* is 0.
 > - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 1.
@@ -495,6 +495,7 @@ Luo, Y.C., Zhu, M., Lu, L.W., and Pan, Z.H., (2023). Reappraisal of *Bothriolepi
 Lukševičs, E., (2001). Bothriolepid antiarchs (Vertebrata, Placodermi) from the Devonian of the north–western part of the East European Platform. Geodiversitas, 23(4): 489–609.
 
 Johanson, Z., and Young, G., (1999). New *Bothriolepis* (Antiarchi: Placodermi) from the Braidwood region, New South Wales, Australia (Middle–Late Devonian). Records of the Australian Museum, supplement 57, 55–75.
+
 
 
 
