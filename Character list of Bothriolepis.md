@@ -350,7 +350,7 @@
 >- The "Middle pit-line" described by Young (1988), Lukševičs (2001), and Dupret et al. (2023) is equivalent to the "supraoccipital cross-commissure canal" described by Pan et al. (2018). Accordingly, the original character "Middle pit-line long: (0) absent; (1) present" is revised to "Supraoccipital cross-commissure canal long: (0) absent; (1) present."（Yan)
 
 > - The coding of *Bothriolepis chuandongensis* is ?.
-> - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 1.
+> - Yan *et al.* (in prep.): The coding of *Bothriolepis yunnanensis* is 0.
 
 55. Posterior pit-line long: (0) absent; (1) present.
 > Lukševičs (2001), Character 9; Dupret *et al.* (2023), Character 42; Luo *et al.* (2023), Character 55; Xian *et al*. (2025), Character 55.
